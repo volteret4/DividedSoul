@@ -1,0 +1,40 @@
+GAYE.chapter({ n: 1, label: 'Introducción y prefacio', title: 'Introduction to the 1991 Edition · Preface: Meeting Marvin' });
+GAYE.add([
+  { id: 'ritz', name: 'David Ritz: el confidente y el libro', family: 'entorno', start: 1979, end: 1991, place: 'Los Ángeles, Ostende',
+    aka: ['David Ritz', 'Brother Ray', 'Divided Soul'],
+    desc: 'Ritz conoció a Marvin en 1979, después de defender en una carta a Los Angeles Times que Here, My Dear era una obra maestra; Marvin acababa de leer Brother Ray, la autobiografía que Ritz había escrito con Ray Charles, y quiso hacer otra igual. Hablaron durante meses en la casa de los padres en Gramercy Place y en el apartamento sobre su estudio de Sunset Boulevard, leyendo a Dante, Donne, Shelley y Keats, y Ritz lo acompañó de gira en su autobús Greyhound. La huida de 1979 cortó el proyecto; en 1982 Ritz lo visitó en Ostende, puso nombre y letra a «Sexual Healing» y la canción acabó con su amistad: se pelearon por el crédito y el dinero. No volvieron a hablar desde 1983; dos días después de que Marvin releyera un viejo artículo suyo, lo mataron. El libro, que iba a ser a cuatro manos, se basa en esas entrevistas, en viajes a Washington, Detroit, Europa y Lexington y en decenas de testimonios. En la edición de 1991 Ritz cuenta que Marvin III, albacea, le reconoció como coautor de «Sexual Healing».',
+    artists: ['David Ritz', 'Ray Charles', 'Dave Simmons', 'Frankie Gaye', 'Jeanne Gay'],
+    labels: ['Los Angeles Times', 'Gramercy Place', 'Ostende'],
+    tracks: [
+      { a: 'Marvin Gaye', t: 'Here, My Dear', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Sexual Healing', y: 1982 },
+    ],
+    influences: [],
+    refs: [
+      { q: 'In a letter to the Los Angeles Times, I had called his album, Here, My Dear, a masterpiece, arguing with critics who’d dismissed it as self-indulgent.' },
+      { q: 'Our literary relationship deepened when, during this same trip, I named and wrote lyrics for the song that would become “Sexual Healing.”' },
+      { q: 'Unfortunately, our musical collaboration spelled the end of our friendship.' },
+      { q: '“If I can’t be honest about myself,” he told me, “I can’t be honest about anything.”' },
+    ] },
+  { id: 'legado', name: 'Legado: homenajes y versiones tras su muerte', family: 'entorno', start: 1984, end: 1991, place: 'Estados Unidos y Gran Bretaña',
+    aka: ['tributos', 'Rock and Roll Hall of Fame', 'Paseo de la Fama de Hollywood'],
+    desc: 'Como a Charlie Parker y Billie Holiday, la muerte le dio una vida nueva: Janet Jackson lo llama «nuestro John Lennon». Llegaron canciones en su honor (Diana Ross con «Missing You» de Lionel Richie, «Night Shift» de los Commodores, «Silky Soul Singer» de Frankie Beverly y Maze) y versiones de Weather Report, Cyndi Lauper, By All Means, George Michael o Robert Palmer; Billboard contó al menos siete éxitos que lo nombran. En 1987 Anna Gordy recogió su entrada en el Rock and Roll Hall of Fame y en 1990 recibió una estrella en el Paseo de la Fama de Hollywood, con Berry Gordy y Lou Rawls en la ceremonia. Para Ritz, la grieta de su alma, sexo y espiritualidad, sigue abierta en Prince y Madonna.',
+    artists: ['Janet Jackson', 'Diana Ross', 'Lionel Richie', 'Commodores', 'Frankie Beverly', 'Maze', 'Weather Report', 'Cyndi Lauper', 'By All Means', 'George Michael', 'Robert Palmer', 'Prince', 'Madonna', 'Marvin Gaye III', 'Nona Gaye', 'Lou Rawls'],
+    labels: ['Billboard', 'Rock and Roll Hall of Fame', 'Hollywood Walk of Fame'],
+    tracks: [
+      { a: 'Diana Ross', t: 'Missing You', y: 1984 },
+      { a: 'Commodores', t: 'Nightshift', y: 1985 },
+      { a: 'Frankie Beverly & Maze', t: 'Silky Soul Singer', y: 1989 },
+      { a: 'Weather Report', t: 'What’s Going On', y: 1985 },
+      { a: 'Cyndi Lauper', t: 'What’s Going On', y: 1986 },
+      { a: 'By All Means', t: 'Let’s Get It On', y: 1988 },
+      { a: 'Robert Palmer', t: 'Mercy Mercy Me (The Ecology) / I Want You', y: 1990 },
+    ],
+    influences: [],
+    refs: [
+      { q: '“He’s our John Lennon,” Janet Jackson recently told me.' },
+      { q: 'Billboard magazine reports that since 1983 Marvin’s name has been mentioned—in reverential tones—on no less than seven top-ten hit records.' },
+      { q: 'The essential split in Marvin’s soul—the division between hot sex and high spirituality—seems wider than ever, especially as reflected in artists like Prince and Madonna' },
+      { q: 'Emerging from a generation rooted in conformity, Marvin was a rebel, a headstrong poet, anti-authoritarian, deeply romantic, and undoubtedly ahead of his time.' },
+    ] },
+], 1);
