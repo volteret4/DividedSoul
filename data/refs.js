@@ -612,6 +612,12 @@ window.GAYE_REFS = {
   "sec": "SOUNDS COMING ’ROUND",
   "para": "From the opening piano chords on “The Masquerade Is Over”—a quote from Thelonious Monk’s introduction to “Round ’Bout Midnight”—the mood was unsustained. The instrumentation was eerie and sparse, with Marvin sounding unsure of himself. His vibrato was exaggerated, his phrasing wobbly. Supported by a jazz rhythm section, he vacillated between the pop sensibility of Jesse Belvin and the blues-drenched depression of Billie Holiday. He wound up in no-man’s-land, a singer in search of a style."
  },
+ "Here, My Dear is a masterpiece of psychological introspection and musical innovation": {
+  "ch": 38,
+  "page": 347,
+  "sec": "FINAL NOTE",
+  "para": "At the time of writing–1991 Gaye’s last two efforts for Motown–In Our Lifetime and Here, My Dear–are unavailable. lifetime is an intriguing mirror of Marvin’s mind at the start of his exile. Here, My Dear is a masterpiece of psychological introspection and musical innovation, a serious suite laced with irony and humor. I hope Motown will soon re-issue both albums on CD."
+ },
  "He’d become a one-man Moonglows, a one-man Originals, singing duets and trios with himself": {
   "ch": 16,
   "page": 149,
@@ -1151,6 +1157,12 @@ window.GAYE_REFS = {
   "page": 88,
   "sec": "GAIN AND STRAIN",
   "para": "“I taught them discipline and also how to handle people. My philosophy was, don’t antagonize the enemy, obligate him. The kids had three main teachers. Maurice King taught them music two hours a day. Cholly Atkins taught them dancing for two hours, and I taught them manners. Be warm, I told them, be natural, be poised, and be positive. I gave them stage presence. I taught them how to walk, how to talk, how to hold a microphone. I explained that body communication is an art. Mr. Gordy was interested in giving these young artists class. They were kids who didn’t even know how to shake hands or look someone directly in the eye—eye contact is so important—or say please and thank you. The Temptations and Supremes were good students, though in the beginning Diana tried too hard to make funny faces and play with her eyes. That was phony, and she finally stopped. Marvin Gaye would argue with me. I’d tell him to keep his eyes opened when he sang, and he’d refuse. He also didn’t like coming to class, but in his case I don’t think it mattered much. Marvin had fine manners and poise. He was a person of breeding. My biggest responsibility was with the girls, and when the Supremes became an international sensation, I went on the road with them. I served as their chaperone, polishing and dying their shoes, even mending their dresses. For all that, I have years of memories and nothing else.”"
+ },
+ "I’ve also listed his unreleased ballad album from 1979 in the hopethat the powers that be will put it out at once.": {
+  "ch": 38,
+  "page": 341,
+  "sec": "MARVIN GAYE DISCOGRAPHY",
+  "para": "I’ve also listed his unreleased ballad album from 1979 in the hopethat the powers that be will put it out at once."
  },
  "I’ve been called a black George Plimpton, and I resent that.": {
   "ch": 15,
@@ -1889,6 +1901,12 @@ window.GAYE_REFS = {
   "page": 163,
   "sec": "THE LURE OF ADORATION",
   "para": "Trouble Man was one of only two albums where Gaye wrote every song alone. He lost himself in the mood of the movie, a mood corresponding to the dark side of his own soul. Marvin himself was fascinated by the underworld and, from time to time, surrounded himself with real-life gangsters."
+ },
+ "Unfortunately, most of Marvin’s pre-Motown material is out of print.": {
+  "ch": 38,
+  "page": 341,
+  "sec": "MARVIN GAYE DISCOGRAPHY",
+  "para": "Unfortunately, most of Marvin’s pre-Motown material is out of print."
  },
  "Unfortunately, our musical collaboration spelled the end of our friendship.": {
   "ch": 1,
