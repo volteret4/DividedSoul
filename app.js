@@ -193,12 +193,12 @@
     return `<button class="chip" data-go="${id}"><i style="background:${FAMILIES[g.family].color}"></i>${esc(g.name)}</button>`;
   }
   const REFS = window.GAYE_REFS || {};
-  // El libro en PDF (generado desde el ePub por tools/pdfpages.py): cada cita enlaza a su página.
-  // Se muestra la página impresa de la edición de Omnibus Press (1991), que trae el ePub; el PDF tiene la suya.
+  // Se muestra la página impresa de la edición de Omnibus Press (1991), que trae el ePub. Si existe el PDF
+  // (tools/pdfpages.py, necesita Calibre y pdftotext) cada cita enlaza a su página; si no (tools/sinpdf.py), no hay enlace.
   const PDF = 'DividedSoul_Ritz.pdf';
   const pageLink = (loc) => loc.pdf
     ? `<a class="pg" href="${encodeURI(PDF)}#page=${loc.pdf}" target="_blank" rel="noopener" title="Abrir el libro en PDF por esta cita (pág. ${loc.pdf} del PDF)">pág. ${loc.page}</a>`
-    : `≈ pág. ${loc.page}`;
+    : `pág. ${loc.page}`;
   function mark(para, q) {
     const i = para.toLowerCase().replace(/’/g, "'").indexOf(q.toLowerCase().replace(/’/g, "'"));
     if (i < 0) return esc(para);
@@ -213,7 +213,7 @@
     if (!refs.length && !others.length) return '';
     return `<h4>Pasajes del libro (${refs.length})</h4>${refs.map((r, i) => `<details class="ref"${i < 2 ? ' open' : ''}><summary class="where">${esc(chapterName(r.ch))}${r.loc ? `${r.loc.sec ? ` · ${esc(r.loc.sec)}` : ''} · <b>${pageLink(r.loc)}</b>` : ''}</summary><blockquote>${r.loc ? mark(r.loc.para, r.q) : esc(r.q)}</blockquote></details>`).join('')}
       ${others.length ? `<div class="tags">${others.map((c) => `<span>${esc(chapterName(c))}</span>`).join('')}</div>` : ''}
-      <p class="fine">El ePub no trae la paginación impresa: la página se estima a 300 palabras por página desde el capítulo I.</p>`;
+      <p class="fine">Páginas de la edición impresa de Omnibus Press (1991), que trae el ePub. Sin PDF del libro: las páginas no enlazan.</p>`;
   }
   const YT = window.GAYE_YT || {};
   // Páginas que mencionan cada disco o canción (tools/pdfpages.py), como enlaces al PDF.
@@ -223,7 +223,7 @@
     if (!ps) return '';
     // Página impresa (la de las citas); el enlace va a la del PDF.
     const seen = new Set(), list = ps.filter(([, , n]) => !seen.has(n) && seen.add(n));
-    return ` <span class="pgs">${list.length > 1 ? 'págs.' : 'pág.'} ${list.map(([, p, n]) => `<a class="pg" href="${encodeURI(PDF)}#page=${p}" target="_blank" rel="noopener" title="Abrir el libro en PDF por esta página">${n ?? p}</a>`).join(' · ')}</span>`;
+    return ` <span class="pgs">${list.length > 1 ? 'págs.' : 'pág.'} ${list.map(([, p, n]) => p ? `<a class="pg" href="${encodeURI(PDF)}#page=${p}" target="_blank" rel="noopener" title="Abrir el libro en PDF por esta página">${n ?? p}</a>` : esc(String(n))).join(' · ')}</span>`;
   };
 
   function trackHtml(t, extra = '') {

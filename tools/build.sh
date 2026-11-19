@@ -21,7 +21,12 @@ open(p, 'w').write(s)
 PY
 node tools/check.js data
 python3 -I tools/refs.py data build/chapters/book.json
-python3 -I tools/pdfpages.py --impresas build/chapters/book.json data/refs.js "${EPUB%.epub}.pdf=$EPUB"
+# Sin Calibre ni pdftotext (pepecono) no hay PDF: pages.js y mentions.js salen de las páginas impresas.
+if command -v ebook-convert >/dev/null && command -v pdftotext >/dev/null; then
+  python3 -I tools/pdfpages.py --impresas build/chapters/book.json data/refs.js "${EPUB%.epub}.pdf=$EPUB"
+else
+  python3 -I tools/sinpdf.py build/chapters/book.json
+fi
 if [ "$1" = "--yt" ]; then
 python3 -I tools/yt.py data | grep -v "^OK  " || true
 if [ -n "$LASTFM_API_KEY" ]; then python3 -I tools/covers.py; else echo "Sin LASTFM_API_KEY: no se actualizan las portadas"; fi
