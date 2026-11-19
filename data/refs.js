@@ -462,6 +462,12 @@ window.GAYE_REFS = {
   "sec": "SERMON FROM THE STUDIO",
   "para": "“If I was arguing for peace,” Marvin said, “I knew I’d have to find peace in my own heart. All the time since I’d been in Detroit, Father and I had little to say to each other. It was still hard for me to even look at him, even though I knew that he’d been collecting articles on me for the last ten years. He kept everything—more for his ego than mine. He might have been proud, but he was more jealous than anything else. Secretly I was wishing Mother would throw him out and divorce him, but I knew that could never happen. I didn’t want him living off me, but how could I stop him when I had to support Mother? Basically, I was supporting the whole family. I resented that. But now was the time to put those resentments behind me. Jesus said forgive, and I needed to forgive, and be forgiven. Love should be unconditional. To be truly righteous, you offer love with a pure heart, without regard for what you’ll get in return. I had myself in that frame of mind. People were confused and needed reassurance. God was offering that reassurance through his music. I was privileged to be the instrument.”"
  },
+ "He liked telling people they could be his manager.": {
+  "ch": 31,
+  "page": 301,
+  "sec": "END OF EXILE",
+  "para": "“Marvin was the kind of guy,” Larkin Arnold told me, “who hired people on the spot. He liked telling people they could be his manager. He’d tell them anything. He was capable of naming three different managers or tour promoters in the same month.”"
+ },
  "He made Frankie the main character of his work, looking back at America through the soul of his sibling.": {
   "ch": 16,
   "page": 146,
@@ -972,6 +978,12 @@ window.GAYE_REFS = {
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“Years back, when we were still in Detroit, Berry saw my acting potential, even before he started pushing Diana. He wanted to do the Sam Cooke story and have me play the lead. This was in 1964 when Sam had just died. I told Berry the idea was morbid. I got chills thinking about it. There was no way I’d even consider the role. It made me extremely nervous to even think about a soul singer who gets shot to death.”"
  },
+ "It stayed Number One in the soul category for four months": {
+  "ch": 31,
+  "page": 303,
+  "sec": "END OF EXILE",
+  "para": "Despite his aim to, as he said, “write at least four Top Ten smashes for the album,” “Sexual Healing” was Midnight Love’s only hit song. It was enough. It stayed Number One in the soul category for four months—an achievement matched only by Ray Charles’ “I Can’t Stop Loving You” in 1962—and, in Billboard, climbed to Number Three pop. The single sold over a million copies, the album over two million, with People magazine calling “Sexual Healing” “America’s hottest pop culture turn-on since Olivia Newton-John suggested she wanted to get ‘Physical.’”"
+ },
  "It took me fourteen.": {
   "ch": 15,
   "page": 136,
@@ -1013,6 +1025,12 @@ window.GAYE_REFS = {
   "page": 94,
   "sec": "GAIN AND STRAIN",
   "para": "“The Beatles and Motown had something of a friendly rivalry,” according to Marvin. “Historical battles fascinate me, and this was a big one. The English were invading our shores. Even though at first it sounded like they were just singing watered-down versions of Chuck Berry and Isley Brothers songs, they had the style and the sales. No matter, Berry was prepared to hold his ground. When everyone else in America got scared off by the big British wave, when everyone in the music business was screaming that American pop was through, Motown had the guts to hold firm. Not only that—BG fired back. He made Motown big in England. Ever see that picture of Berry over his mantle when he moved into the mansion on Boston Boulevard? It’s BG dressed up as Napoleon. You got to hand it to him—Berry was a fearless warrior.”"
+ },
+ "I’d rather become a faceless bum than go out on an Oldies show.": {
+  "ch": 31,
+  "page": 300,
+  "sec": "END OF EXILE",
+  "para": "As spring turned to summer, Marvin grew more insecure about his new record. “If this thing fails,” he told me, “I’m through. I’ll never record again. I’d rather become a faceless bum than go out on an Oldies show. I couldn’t stand that. If I’m not a headliner, I’m nobody.”"
  },
  "I’d tell him to keep his eyes opened when he sang, and he’d refuse.": {
   "ch": 11,
@@ -1619,6 +1637,12 @@ window.GAYE_REFS = {
   "page": 171,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“The chemistry was all wrong,” said Art Stewart, then a Motown staff engineer who worked all the Marvin-and-Diana sessions. “It was extremely tense. Marv would wander in, sipping wine and smoking a joint, ready to sing, while Diana was much more formal. Then, adding insult to injury, he sang circles around her. She just couldn’t keep up with him, and finally they wound up recording their parts separately.”"
+ },
+ "There at the start, there at the finish, Fuqua’s presence made a circular sense that typified much of Marvin’s life in these final two years.": {
+  "ch": 31,
+  "page": 300,
+  "sec": "END OF EXILE",
+  "para": "The reunion was sweet. Gaye was back with the man who first discovered him, who taught him his fundamental harmony and took him from the streets to the recording studio. There at the start, there at the finish, Fuqua’s presence made a circular sense that typified much of Marvin’s life in these final two years. “In my end is my beginning,” was the T. S. Eliot line Gaye kept quoting, knowing how well it applied."
  },
  "There he tried to kill himself with a cocaine overdose and also came close to murdering Jan.": {
   "ch": 28,
@@ -2358,6 +2382,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“If Pops had been my father instead of Berry’s,” said Marvin, who often blamed Gay Sr. for his own failings, “maybe I could have achieved as much as Berry.”"
  },
+ "“In my end is my beginning,” was the T. S. Eliot line Gaye kept quoting": {
+  "ch": 31,
+  "page": 300,
+  "sec": "END OF EXILE",
+  "para": "The reunion was sweet. Gaye was back with the man who first discovered him, who taught him his fundamental harmony and took him from the streets to the recording studio. There at the start, there at the finish, Fuqua’s presence made a circular sense that typified much of Marvin’s life in these final two years. “In my end is my beginning,” was the T. S. Eliot line Gaye kept quoting, knowing how well it applied."
+ },
  "“In one hour I snorted up a full ounce of pure coke and knew I was dead.": {
   "ch": 28,
   "page": 264,
@@ -2478,6 +2508,18 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“Just about everyone got ripped off at Motown,” Clarence Paul told me. He was there at the beginning, as a writer, producer and conductor-caretaker for Little Stevie Wonder. Eleven years older than Marvin, CP, as Gaye called him, remained one of his closest friends until the very end."
  },
+ "“Just like Muhammad Ali was built to box,” he told the press, remembering his old hero, “I was built to sing.”": {
+  "ch": 31,
+  "page": 303,
+  "sec": "END OF EXILE",
+  "para": "Vocally, Marvin stayed at the top of his form. “Just like Muhammad Ali was built to box,” he told the press, remembering his old hero, “I was built to sing.” It was something his diehard followers and fans had always known. He never lost his form."
+ },
+ "“Just write from real life,” he told her.": {
+  "ch": 31,
+  "page": 300,
+  "sec": "END OF EXILE",
+  "para": "In May of 1982 he and Freddy went to see Diana Ross at her Brussels concert. He arrived with fantasies of Diana proposing to him, but wound up simply giving her advice about composing songs. “Just write from real life,” he told her."
+ },
  "“Kiss my ass, Teddy Pendergrass!” screamed an excited woman": {
   "ch": 27,
   "page": 253,
@@ -2489,6 +2531,12 @@ window.GAYE_REFS = {
   "page": 118,
   "sec": "AN END TO INNOCENCE",
   "para": "“Listen carefully,” he urged. “Listen to the quality of the female voice. It’s close, but it’s not Tammi.”"
+ },
+ "“Marilyn and Harvey had to get him drunk before he’d get on the plane,” Curtis Shaw said.": {
+  "ch": 31,
+  "page": 304,
+  "sec": "END OF EXILE",
+  "para": "“Marilyn and Harvey had to get him drunk before he’d get on the plane,” Curtis Shaw said."
  },
  "“Marvin loved misery,” said his sister Jeanne.": {
   "ch": 14,
@@ -2549,6 +2597,12 @@ window.GAYE_REFS = {
   "page": 169,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“My idol was Marvin Gaye,” Jermaine wrote on the sleeve of his 1984 album, his first after leaving his father-in-law’s company, “and I loved him as much as you did. Being that his spirit will live on forever, I am going to sing about the influence he has had on me and the world through my music. I love you, Marvin, I really do.”"
+ },
+ "“No,” Fuqua said sternly. “I told him that I’m not interested in any more of that shit.": {
+  "ch": 31,
+  "page": 302,
+  "sec": "END OF EXILE",
+  "para": "“No,” Fuqua said sternly. “I told him that I’m not interested in any more of that shit. And neither is anyone else. We want to sell records.” I immediately remembered what Gaye had told me about Fuqua back in 1979. Harvey was interested in form, not content."
  },
  "“Oh, my children,” he cried, leaving the lyrics of the song to sing from his soul, “I’ll always be where you are.”": {
   "ch": 23,
