@@ -234,6 +234,12 @@ window.GAYE_REFS = {
   "sec": "COMING OF AGE",
   "para": "“Bo produced our first record date,” Reese recalled. “He took us to New York where the Marquees cut our one and only single—‘Wyatt Earp’ and ‘Hey, Little School Girl’—for Okeh, which was part of Columbia. I wrote ‘Wyatt’ and sang lead on both songs. Bo brought his band from D.C. with Billy Stewart, also one of Bo’s discoveries, on piano. The New York people didn’t like the sound, so we recut it with some heavy cats like Sam the Man Taylor and Panama Francis. Didn’t matter, though, ’cause the Silhouettes came out with ‘Get a Job’ that year and buried us."
  },
+ "Doesn’t he know I’m supposed to be the only prince?": {
+  "ch": 27,
+  "page": 251,
+  "sec": "CLOSING IN",
+  "para": "“I’m tired of watching Teddy and Peabo and Michael Henderson get all the glory,” he said. “Then there’s this new cat that people in the industry are talking about. Prince. Doesn’t he know I’m supposed to be the only prince? They say he’s sexy and has a high voice that sounds like mine. All these boys are romancing my fans, and I don’t like it. I’m getting my fans back. I’m doing a straight-ahead make-out party album.”"
+ },
  "Dr. King’s death confirmed my instincts about this country.": {
   "ch": 14,
   "page": 119,
@@ -425,6 +431,12 @@ window.GAYE_REFS = {
   "page": 124,
   "sec": "AN END TO INNOCENCE",
   "para": "“Norman and I came within a fraction of an inch of fighting,” said Gaye. “He thought I was a prick because I wasn’t about to be intimidated by him. We clashed. He made me sing in keys much higher than I was used to. He had me reaching for notes that caused my throat veins to bulge.”"
+ },
+ "He must have missed a dozen engagements on that tour.": {
+  "ch": 27,
+  "page": 254,
+  "sec": "CLOSING IN",
+  "para": "“There would be days, even whole weeks,” said Ken Grant, who was there for the entire trip, “when he’d never even check in with L.A. He didn’t want to know what was happening. If he didn’t feel like performing, he’d just tell John to drive on. He must have missed a dozen engagements on that tour. If we were on the highway for a long while and he wanted to party, he’d have John pull into, the next city. We’d drive to a disco, tell them who was in the bus, and the owner would usually empty out the club except for a handful of people. Marvin enjoyed some women on that tour, but not many.”"
  },
  "He never wanted us to know the Gordys.”": {
   "ch": 10,
@@ -858,6 +870,12 @@ window.GAYE_REFS = {
   "sec": "WANTING",
   "para": "“Berry played ‘I Want You” for Marvin, just the one song,” Ware told me, “and the next day Marvin was ready to do the album. Actually I’d written it as a vocal album for myself, but I was pleased to have Marvin sing my songs. It was rare for Marvin to let anyone produce him, so naturally I was honored. I thought we could do it all in a matter of weeks. It actually took thirteen months—just to lay down Marvin’s vocals.”"
  },
+ "It is flawed, but much of it is simply brilliant.”": {
+  "ch": 27,
+  "page": 250,
+  "sec": "CLOSING IN",
+  "para": "The one bright spot surrounding the album was Robert Palmer’s review in The New York Times. “Here, My Dear may not be a commercial blockbuster,” Palmer wrote, “but only because it is too rich, too demanding. At its best it is something much more valuable than potential platinum. It is an inventory of the whole expressive range of black popular music at the end of the seventies, a testing of limits, and an affirmation of musical values. It is Mr. Gaye’s personal statement … of his own musical possibilities. It is flawed, but much of it is simply brilliant.”"
+ },
  "It made me extremely nervous to even think about a soul singer who gets shot to death.”": {
   "ch": 18,
   "page": 174,
@@ -947,6 +965,12 @@ window.GAYE_REFS = {
   "page": 134,
   "sec": "GAMES",
   "para": "“It was a very strange time in Marvin’s life,” said Mel Farr, who owns a Ford dealership in Oak Park, Michigan. “Marvin was depressed. He’d been holed up in his house for a long time. We convinced him to get out and play ball. Marvin was a guy who needed exercise. It lifted his spirits and made him feel better about himself. At first it was simply fun, but then Marvin got very serious. He went from 170 to 195 pounds, ran six miles a day, worked with weights and became convinced he was actually going to make the team. He could catch the football, he learned all the pass patterns and had great stamina. He also worked out with the East Michigan University squad. He devoted his life to this goal—quit cigarettes, didn’t do any drugs, just kept on training. I don’t know whether he would have made it but it never got that far. Management nixed the idea. Coach Schmidt worried that Marvin would get hurt and the team would be sued. The attitude was that Marvin Gaye was a great musical talent who should be protected, not endangered. Lem and I had to break the news to him, and I’ve never seen anyone so disappointed in my life."
+ },
+ "Leonard made it look easy, knocking out Price in two minutes and fifty-four seconds in the first round.": {
+  "ch": 27,
+  "page": 261,
+  "sec": "CLOSING IN",
+  "para": "Leonard made it look easy, knocking out Price in two minutes and fifty-four seconds in the first round."
  },
  "Leonard thought it was a good idea if Harvey met Gwen, so he set the thing up.": {
   "ch": 7,
@@ -1169,6 +1193,12 @@ window.GAYE_REFS = {
   "page": 53,
   "sec": "BREAKOUT",
   "para": "His prison was a mental one. He was trapped in his own cage of sexual confusion. Extreme by nature, he chose women as the objects of absolute good or absolute corruption. Thus his fascination with bought love. According to Etta James, Toni was a professional prostitute and Marvin was in love with her. Their relationship was marred by sudden spurts of anger and jealousy on his part. One night they fought their way into a ditch, where Toni took a bite out of Marvin’s stomach. Violence would always be a part of his dealings with the women he desired most."
+ },
+ "One was called “Oh Lord, Why Can’t All Niggers Sing like Charley Pride?”": {
+  "ch": 27,
+  "page": 252,
+  "sec": "CLOSING IN",
+  "para": "The bus was filled with dozens of cassette tapes filled with songs written by Gaye—tapes scattered on the floor, left on the window sills, thrown into a big pouch. Some of the tapes were labeled: “Ditty for Miles Davis,” “Song for Peggy Lee.” One was called “Oh Lord, Why Can’t All Niggers Sing like Charley Pride?” with Marvin wailing in a mock country accent. Another was a funk groove for James Brown."
  },
  "One word describes the bewitching style which, together with gospel, blues, and jazz, would shape the future course of Marvin Gaye’s music: doo-wop.": {
   "ch": 5,
@@ -1458,6 +1488,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“Motown was filled with petty thieves,” Seltzer told me during a four-hour interview in Detroit. “Lots of little people were involved in larceny. Berry could trust only three executives—George Schiffer, Suzanne dePasse, and me. BG always suffered with organizational problems. Administration wasn’t his strength. Berry was a deal cutter. He also knew how to deal with the white community. He looked good, smelled pretty, spoke well, and displayed fine manners. He was acceptable. But he was also a reckless gambler. On any given day, he could lose $50 to $100,000—on a whim. Yet for all his risk taking, he understood how to control his artists. In those years, he’d never allow an artist to produce himself, not even Marvin. Smokey was the only exception. Berry created a caste system, but he also established a community with great creative cooperation. Most of the problems you hear the artists bitch about were caused by themselves. They just didn’t pay their taxes.”"
  },
+ "They were about to close down the works—his studio, his estate, every last asset he had.”": {
+  "ch": 27,
+  "page": 258,
+  "sec": "CLOSING IN",
+  "para": "“The bankruptcy court was going crazy,” Curtis Shaw said, “and I couldn’t get Marvin to pay anyone anything. I couldn’t even get him to hire an accountant. They were about to close down the works—his studio, his estate, every last asset he had.”"
+ },
  "They’re wilder than they let on.": {
   "ch": 24,
   "page": 227,
@@ -1469,6 +1505,12 @@ window.GAYE_REFS = {
   "page": 183,
   "sec": "GETTING IT ON",
   "para": "This was fresh fuel for Marvin’s madonna-whore complex, his feeling that a woman was an object of either sanctity or scorn, either all—good or all—bad, always fantasy and never human. The fact that Gaye couldn’t relate to women as equals—as flesh-and-blood mortals—made it impossible for him to enjoy a single long-term romantic relationship."
+ },
+ "This was going to be my knock-out punch.”": {
+  "ch": 27,
+  "page": 260,
+  "sec": "CLOSING IN",
+  "para": "“If Price could win,” said Gaye, “I was looking at millions of dollars in future revenues. With one blow, I could win the world’s respect and clean up my whole financial mess. People said I couldn’t do it; well, that night I was going to show them I could. This was going to be my knock-out punch.”"
  },
  "Thus Marvin made his move toward the Copacabana, his soul stirred with a mixture of confidence and contempt.": {
   "ch": 12,
@@ -1692,6 +1734,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "“Just about this time, we completed the negotiations on Marvin’s contract, which naturally was very juicy—a multimillion—dollar deal. But Marvin being Marvin, he had one crazy demand—that Berry Gordy personally sign a check made out to him for $1 million. No one else’s signature would do. I agreed, figuring that Berry wouldn’t care. I called Berry’s house, but they explained it wasn’t possible because Berry was about to fly off to Europe. I had to get that check signed. I was afraid that Marvin might change his mind and call off the deal. I drove to the airport, like a New York cabby, in fifteen minutes, got Berry’s signature just before he stepped on the plane, blew up the check a hundred times its size, and presented it to Marvin. You’ve never seen such a happy man.”"
  },
+ "turning a hymn of hope into a cry of despair.": {
+  "ch": 27,
+  "page": 261,
+  "sec": "CLOSING IN",
+  "para": "Marvin absorbed every last punishing punch. He was devastated, depressed beyond hope. The $40,000 purse for Price—as opposed to Sugar Ray’s $300,000—didn’t come close to solving Marvin’s financial problems. It was hardly compensation for the blow to his ego. In the midst of this mood, he had to perform. He had promised to sing before the main event—the Ernie Shavers-Larry Holmes heavyweight championship fight—which followed Leonard-Price. On national television, his dress shirt open at the collar, his tie pulled down, his sloped eyes half-closed and filled with disappointment and hurt, he delivered a soul-searching rendition of the national anthem, turning a hymn of hope into a cry of despair."
+ },
  "were people who Marvin brought in. If they took his money—and they did—it was at his invitation.”": {
   "ch": 24,
   "page": 225,
@@ -1776,6 +1824,12 @@ window.GAYE_REFS = {
   "sec": "STIMULATION",
   "para": "“ ‘God Only Knows’ by the Capris,” Marvin recalled, “nearly killed me. It was a monster. It fell from the heavens and hit me between the eyes. So much soul, so much hurt. I related to the story, to the way that no one except the Lord really can read the heart of lonely kids in love. It wasn’t that I was in love with a particular girl. I wasn’t. I was still too shy to approach girls and still too afraid they didn’t like me. I was in love with the idea of love. I’d fantasize.”"
  },
+ "“A man who lived that miserably would die the same way.”": {
+  "ch": 27,
+  "page": 257,
+  "sec": "CLOSING IN",
+  "para": "One night I mentioned Somerset Maugham’s novel Of Human Bondage and the central character’s inability to stay away from a woman who makes him miserable. Marvin wanted to hear the plot in detail. He was engrossed until I described the happy ending, “I don’t believe it,” he said. “A man who lived that miserably would die the same way.”"
+ },
  "“An unabashed paean to fucking,” critic Jim Feldman called it.": {
   "ch": 19,
   "page": 178,
@@ -1848,6 +1902,12 @@ window.GAYE_REFS = {
   "sec": "ORIGINAL SIN",
   "para": "“By the mid-fifties,” Bishop Rawlings remembered, “Mr. Gay had grown disenchanted with the church and went into seclusion. He never did much after that.”"
  },
+ "“Cops beat me up. Beat me up bad.”": {
+  "ch": 27,
+  "page": 255,
+  "sec": "CLOSING IN",
+  "para": "“Cops beat me up. Beat me up bad.”"
+ },
  "“Diana showed me that I could be a movie star,” Marvin said.": {
   "ch": 17,
   "page": 164,
@@ -1883,6 +1943,12 @@ window.GAYE_REFS = {
   "page": 217,
   "sec": "WANTING",
   "para": "“He wanted Jan to go with other men,” Marvin’s mother said. “Then he’d suffer with the consequences. He wanted to suffer.”"
+ },
+ "“He was one love man,” he said, “I’m another. The title stays.”": {
+  "ch": 27,
+  "page": 255,
+  "sec": "CLOSING IN",
+  "para": "A week later, his new album was still in disarray. Gaye had chosen a cover shot taken by Ken Grant. The photo showed Marvin in the midst of a frantic dance move. When I pointed out that Otis Redding had used the same title—Love Man—for an LP issued ten years ago, Marvin was annoyed. “He was one love man,” he said, “I’m another. The title stays.”"
  },
  "“He’s our John Lennon,” Janet Jackson recently told me.": {
   "ch": 1,
@@ -1932,6 +1998,12 @@ window.GAYE_REFS = {
   "sec": "SOUNDS COMING ’ROUND",
   "para": "His first album tried to accomplish both goals. Gaye attempted to satisfy his notion of himself as a pure pop singer while aiming for a large crossover market. The effort didn’t work. Produced by Gordy himself, The Soulful Moods of Marvin Gaye from 1961 featured a wistful cover photograph of the twenty-two-year-old singer, his hair greased and waved in the style of the times. “I had some conks in those days,” Marvin remembered, “that looked like ice sculpture.”"
  },
+ "“I hate being referred to like that,” said Gaye. “It makes me sound ancient.”": {
+  "ch": 27,
+  "page": 255,
+  "sec": "CLOSING IN",
+  "para": "“I hate being referred to like that,” said Gaye. “It makes me sound ancient.” Marvin was also jealous that James’ music was scoring with the young market, and Marvin’s wasn’t."
+ },
  "“I hated Washington,” said Marvin, who would later disown the city.": {
   "ch": 6,
   "page": 40,
@@ -1943,6 +2015,12 @@ window.GAYE_REFS = {
   "page": 173,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "He touted his church training and described his ongoing metaphysical crisis. “I have constant battles with the flesh. I don’t think my spiritual thing is as stable as it should be.”"
+ },
+ "“I have this theory that anyone can sing. If you can talk, you can sing.”": {
+  "ch": 27,
+  "page": 257,
+  "sec": "CLOSING IN",
+  "para": "He executed all his vocals seated at the console, modulating his voice with extreme subtlety, singing effortlessly. “I have this theory that anyone can sing. If you can talk, you can sing.”"
  },
  "“I knew I needed something different. That’s why I threw myself into the duets,” Marvin explained. “It was acting.": {
   "ch": 13,
@@ -2100,6 +2178,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "“It was the same even back then,” he smiled. “Cats begging for it.”"
  },
+ "“It’s ego,” he told me, “that destroys us all.”": {
+  "ch": 27,
+  "page": 252,
+  "sec": "CLOSING IN",
+  "para": "“It’s ego,” he told me, “that destroys us all.” And with that, he wrote the extraordinary “Ego Tripping Out,” actually released as a single in 1979 but soon withdrawn from the market. Motown claimed neither the disc jockeys nor the public liked it. Unfortunately, it never appeared on an album and is now out of print. The song expressed some of Marvin’s most poignant wisdom, dramatizing his struggle with his self-centeredness, his reliance on “toot” and “smoke,” and his enormous desire to go only “one way,” the way of God."
+ },
  "“I’d always wanted to dress up in something frilly,” Marvin said, “but lacked the guts.": {
   "ch": 26,
   "page": 239,
@@ -2142,6 +2226,12 @@ window.GAYE_REFS = {
   "sec": "SUFFERING IN STYLE",
   "para": "“I’m the last of the great chauvinists,” Marvin told me after I’d try to argue that sexism was inconsistent with his high-minded spirituality. “I’ll never change. I like to see women serve me—and that’s that. In Jan’s case, serving me meant feeding my fantasies—my evil fantasies.”"
  },
+ "“I’ve always been so broke that I’ve had to sell my publishing up front for the cash,” Gaye explained.": {
+  "ch": 27,
+  "page": 253,
+  "sec": "CLOSING IN",
+  "para": "“I’ve always been so broke that I’ve had to sell my publishing up front for the cash,” Gaye explained. “Berry owns my tunes. I get my writer’s share, but I hardly own any copyrights. Stevie’s been a lot smarter about that than me.”"
+ },
  "“I’ve been jerking off to these pictures for twenty-five years,” Marvin told me in 1982": {
   "ch": 19,
   "page": 179,
@@ -2154,11 +2244,23 @@ window.GAYE_REFS = {
   "sec": "PAIN IN PARADISE",
   "para": "“I’ve been tooting,” Marvin told me, referring to cocaine, “for a good twenty-five years.” That was an exaggeration. He made the statement in 1982 in Europe after I’d witnessed him castigate his coke dealer for selling him impure stuff. “I consider myself a connoisseur. I’m passionate about good cocaine,” said Gaye who had never experimented with the drug in the fifties."
  },
+ "“Jan ran off with Teddy Pendergrass,” Marvin told me.": {
+  "ch": 27,
+  "page": 261,
+  "sec": "CLOSING IN",
+  "para": "“Jan ran off with Teddy Pendergrass,” Marvin told me. “I set myself up for it, just like I set myself up for getting beat by Sugar Ray. But I didn’t realize what it would do to me. I couldn’t take it. I became sick, seriously sick. This was supposed to be the end of a long, bad period, but it was just the beginning.”"
+ },
  "“Just about everyone got ripped off at Motown,” Clarence Paul told me.": {
   "ch": 8,
   "page": 61,
   "sec": "MOTOWN",
   "para": "“Just about everyone got ripped off at Motown,” Clarence Paul told me. He was there at the beginning, as a writer, producer and conductor-caretaker for Little Stevie Wonder. Eleven years older than Marvin, CP, as Gaye called him, remained one of his closest friends until the very end."
+ },
+ "“Kiss my ass, Teddy Pendergrass!” screamed an excited woman": {
+  "ch": 27,
+  "page": 253,
+  "sec": "CLOSING IN",
+  "para": "“Kiss my ass, Teddy Pendergrass!” screamed an excited woman seated in the front row as Gaye, in the midst of his show, smiled at her. “I love you, Marvin! I love only you!”"
  },
  "“Listen carefully,” he urged. “Listen to the quality of the female voice. It’s close, but it’s not Tammi.”": {
   "ch": 14,
@@ -2238,6 +2340,12 @@ window.GAYE_REFS = {
   "sec": "GIVING IT UP",
   "para": "Then, in a sudden surprise, Shaw suggested a solution which ultimately settled the matter in a manner which stimulated Marvin’s creative imagination. “Pay her off in music,” was the lawyer’s plan."
  },
+ "“Pretentious is too good a word for this clutter,” said The Village Voice.": {
+  "ch": 27,
+  "page": 250,
+  "sec": "CLOSING IN",
+  "para": "“Pretentious is too good a word for this clutter,” said The Village Voice."
+ },
  "“See that? That’s $1 million. I just want you to know how successful I am.”": {
   "ch": 26,
   "page": 242,
@@ -2298,6 +2406,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "“The only place any woman will ever lead me,” Gaye scoffed, “is to hell.”"
  },
+ "“Think on God’s infinite love, God’s infinite love,” Marvin whispered": {
+  "ch": 27,
+  "page": 251,
+  "sec": "CLOSING IN",
+  "para": "At his Sunset studio, minutes after we were introduced, Gaye asked engineer Art Stewart and me to join hands with him in meditation. “Think on God’s infinite love, God’s infinite love,” Marvin whispered, “just that one thought and that one thought only.” A few minutes later he added, “We should do this every day with our loved ones, our wives, parents, and children. Stop whatever you’re doing in the middle of the day and sit and be silent. Meditate on God’s infinite love.”"
+ },
  "“We are schizophrenic,” Gaye once announced from the stage, “but we are not lost.”": {
   "ch": 15,
   "page": 131,
@@ -2327,6 +2441,12 @@ window.GAYE_REFS = {
   "page": 86,
   "sec": "GAIN AND STRAIN",
   "para": "“When they put the record out,” Clarence said, “Berry Gordy was listed as producer. He wasn’t even in town when we did it.”"
+ },
+ "“Without a hit in this business,” Marvin said later, “you’re flying at half-mast.": {
+  "ch": 27,
+  "page": 253,
+  "sec": "CLOSING IN",
+  "para": "“Without a hit in this business,” Marvin said later, “you’re flying at half-mast. Sinatra can live on his legend. He doesn’t need hits. But I still do. After all these years, I’m still out here on the rhythm-and-blues circuit.”"
  },
  "“You can’t imagine how important Ray Charles was for us,” Marvin told me.": {
   "ch": 10,
