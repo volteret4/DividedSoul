@@ -120,6 +120,12 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“As a writer, Smokey taught me a lot. More as a lyricist than anything else. Smokey has a melodic mind, though if he could play a whole instrument—he really plays only part of the piano—his songs wouldn’t all sound the same. But who cares what I think when he’s written so many hits? Anyway, I think Smokey’s one of the greatest poets. He has an ability to make simple words rhyme until the meaning is clear to everyone. Smokey will say things like, ‘I’m a choosey beggar, baby.’ Marv Tarplin, Smokey’s guitar player, also deserves credit. Smokey’s done some of his best writing teamed up with Marv. Strange that Smokey and I never really wrote together. Anyway, we became friends, close friends, and he helped me. But I needed more than professional help. I needed a little personal help with the king."
  },
+ "At 1:01 P.M. at the California Hospital Medical Center, Marvin Gaye, Jr. was pronounced dead.": {
+  "ch": 35,
+  "page": 334,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "At 1:01 P.M. at the California Hospital Medical Center, Marvin Gaye, Jr. was pronounced dead."
+ },
  "At least on this one day I felt like I made Father proud.”": {
   "ch": 17,
   "page": 162,
@@ -137,6 +143,12 @@ window.GAYE_REFS = {
   "page": 148,
   "sec": "SERMON FROM THE STUDIO",
   "para": "“From Jump Street, Motown fought What’s Going On,” Marvin claimed. “They didn’t like it, didn’t understand it, and didn’t trust it. Management said the songs were too long, too formless, and would get lost on a public looking for easy three-minute stories. For months they wouldn’t release it. My attitude had to be firm. Basically I said, ‘Put it out or I’ll never record for you again.’ That was my ace in the hole, and I had to play it.”"
+ },
+ "Because he never loved himself, he always felt unloved.": {
+  "ch": 37,
+  "page": 340,
+  "sec": "DAY",
+  "para": "Marvin never recovered from being an abused and battered child. His talent wasn’t enough to see him through. Because he never loved himself, he always felt unloved."
  },
  "Berry Gordy was not mentioned, nor would Marvin ever thank him on the back of an album.": {
   "ch": 16,
@@ -312,6 +324,12 @@ window.GAYE_REFS = {
   "sec": "STIMULATION",
   "para": "“My dream,” Marvin confessed, “was to become Frank Sinatra. I loved his phrasing, especially when he was very young and pure. He grew into a fabulous jazz singer and I used to fantasize about having a lifestyle like his—carrying on in Hollywood and becoming a movie star. Every woman in America wanted to go to bed with Frank Sinatra. He was the king I longed to be. My greatest dream was to satisfy as many women as Sinatra. He was the heavyweight champ, the absolute."
  },
+ "Father aimed, then squeezed the trigger.": {
+  "ch": 35,
+  "page": 333,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "Father aimed, then squeezed the trigger."
+ },
  "Finally I got the president of TWA on the phone.": {
   "ch": 28,
   "page": 271,
@@ -431,6 +449,12 @@ window.GAYE_REFS = {
   "page": 140,
   "sec": "GAMES",
   "para": "“My phone would ring, and it’d be Motown wanting me to start working and I’d say, ‘Have you seen the paper today? Have you read about these kids who were killed at Kent State?’ The murders at Kent State made me sick. I couldn’t sleep, couldn’t stop crying. The notion of singing three-minute songs about the moon and June didn’t interest me. Neither did instant-message songs.”"
+ },
+ "He acted like someone who had finally gotten something out of the way.": {
+  "ch": 37,
+  "page": 340,
+  "sec": "DAY",
+  "para": "“Once, at the house. I went back to get some things. I’ll never live there again because it’s nothing but a tomb to me. He doesn’t feel that way. He doesn’t mind staying there. He started speaking to me, but said nothing about Marvin. His eyes were dry. He wasn’t apologetic or repentant. He acted like someone who had finally gotten something out of the way. Now that Marvin was out of the way, he didn’t express any regrets. Since he’s been home from jail, he’s been drinking again—a fifth of vodka a day. He can’t even find his way from the backyard into the house. I don’t know how to pray for him. I don’t know where to begin. I ask God for guidance every day. I try to pray for my husband. I want to. I wish I could. But I can’t. Now I realize that he didn’t love me any more than he loved Marvin. My love for Marvin and Marvin’s love for me was so strong. My husband was jealous of that love. He was jealous of Marvin ever since Marvin was a baby. It’s all in the Bible. Jealousy destroys. It destroyed Marvin, it destroyed my husband.”"
  },
  "He also learned that What’s Going On hadn’t been nominated for a single Grammy.": {
   "ch": 17,
@@ -552,11 +576,23 @@ window.GAYE_REFS = {
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“Marvin had a falling out with Abner,” said Jeanne Gay. More and more, Marvin began depending on his sister to oversee his business affairs. “But then again, Marvin was never able to maintain a relationship with any manager or record executive. He turned them all into glorified secretaries. Me included.”"
  },
+ "He was buried as a prince, and his people came to honor him.": {
+  "ch": 36,
+  "page": 335,
+  "sec": "NIGHT",
+  "para": "He was buried as a prince, and his people came to honor him."
+ },
  "He was doing crazy things like banging on a half-filled grapefruit juice bottle for rhythm.": {
   "ch": 24,
   "page": 229,
   "sec": "GIVING IT UP",
   "para": "“He had this riff that seemed very danceable. He was doing crazy things like banging on a half-filled grapefruit juice bottle for rhythm. Well, I kept stuff like that on the track. Also people talking in the studio—that loose feeling. At one point, Don Cornelius from Soul Train comes in and Marvin shouts out, ‘Say, Don.’ I left that in. Marvin wasn’t sure of what I was doing, but he left me alone to piece the song together. On Christmas Day, 1976, after working on it for months, I ran it over to his house in Hidden Hills. He liked it but still wasn’t sure—a typical Marvin reaction. Soon everyone was liking it. And when it came out in ’77, it shot to Number One—soul and pop.”"
+ },
+ "He was jealous of Marvin ever since Marvin was a baby. It’s all in the Bible. Jealousy destroys.": {
+  "ch": 37,
+  "page": 340,
+  "sec": "DAY",
+  "para": "“Once, at the house. I went back to get some things. I’ll never live there again because it’s nothing but a tomb to me. He doesn’t feel that way. He doesn’t mind staying there. He started speaking to me, but said nothing about Marvin. His eyes were dry. He wasn’t apologetic or repentant. He acted like someone who had finally gotten something out of the way. Now that Marvin was out of the way, he didn’t express any regrets. Since he’s been home from jail, he’s been drinking again—a fifth of vodka a day. He can’t even find his way from the backyard into the house. I don’t know how to pray for him. I don’t know where to begin. I ask God for guidance every day. I try to pray for my husband. I want to. I wish I could. But I can’t. Now I realize that he didn’t love me any more than he loved Marvin. My love for Marvin and Marvin’s love for me was so strong. My husband was jealous of that love. He was jealous of Marvin ever since Marvin was a baby. It’s all in the Bible. Jealousy destroys. It destroyed Marvin, it destroyed my husband.”"
  },
  "He won Grammys the way Disney used to win Oscars—by the truckload.": {
   "ch": 23,
@@ -792,6 +828,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "“Anna was the jealous type to begin with,” Marvin remembered. “I guess I didn’t make it any easier for her. I had all these hits, and maybe I was feeling a little bit more confident. I was starting to feel my oats. After all, when women are yelling for you night after night, that does something to your head. Temptations were on the rise. I fell into the habit of taking a handkerchief, mopping my brow, and throwing it into the audience. I loved watching the women fight over my sweat. It gave me a funny feeling, a thrill and a fear, because I saw how much they really wanted me. Sometimes one of those women would actually run up on stage and throw herself at me. People laugh, but being sexually assaulted by a half-crazed woman is no laughing matter.”"
  },
+ "I no longer want to be told what to do.": {
+  "ch": 37,
+  "page": 339,
+  "sec": "DAY",
+  "para": "“I had thought of leaving him many, many times before he shot Marvin, but I didn’t have the courage. I felt sorry for him, and he also frightened me. Now I’m divorcing him because I no longer want to be called his wife. I no longer want to be told what to do. There’s too much sorrow in my heart. So much sorrow. Every time he calls, I suffer for days. He always knows how to upset me. You can’t tell him anything because he says he knows everything. That’s how it’s always been.”"
+ },
  "I owed CBS something—at least a couple of grand slams.”": {
   "ch": 30,
   "page": 295,
@@ -972,6 +1014,12 @@ window.GAYE_REFS = {
   "sec": "COMING OF AGE",
   "para": "In early 1959, nineteen-year-old Marvin Gaye left home and headed to Chicago with the newly formed, newly named Harvey and the Moonglows."
  },
+ "In his hand he held a .38 caliber revolver which Mother remembered Marvin having given her husband four months earlier.": {
+  "ch": 35,
+  "page": 333,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "Minutes later, Father appeared at the door. He seemed composed. In his hand he held a .38 caliber revolver which Mother remembered Marvin having given her husband four months earlier. At the time, Marvin said that having several guns in the house gave him a feeling of protection."
+ },
  "In my fantasy, that man is always more powerful than me.": {
   "ch": 13,
   "page": 109,
@@ -1073,6 +1121,12 @@ window.GAYE_REFS = {
   "page": 169,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "In spite of the fact that Gordy would attempt to help him for years to come, Gaye no longer viewed Berry as someone in his corner. Yet for all Gordy’s shortcomings, he still understood better than anyone how to deal with his brother-in-law. He not only pampered Marvin but worked around his artistic temperament with singular skill. It was clear to everyone except Marvin that Berry loved him. Gaye wasn’t capable of accepting that love."
+ },
+ "It was reported that Gaye died owing the IRS more than $1 million": {
+  "ch": 36,
+  "page": 337,
+  "sec": "NIGHT",
+  "para": "It was reported that Gaye died owing the IRS more than $1 million, the State of California $600,000, and back alimony of more than $300,000 to Anna and Janis. A woman was also suing him, claiming that he’d beaten her in late 1982 and early 1983."
  },
  "It was time to stop playing games.”": {
   "ch": 15,
@@ -1223,6 +1277,12 @@ window.GAYE_REFS = {
   "page": 36,
   "sec": "COMING OF AGE",
   "para": "Marvin lost his virginity to a prostitute, and thus ignited an obsessive interest in what he liked to call “love for sale.”"
+ },
+ "Marvin never recovered from being an abused and battered child.": {
+  "ch": 37,
+  "page": 340,
+  "sec": "DAY",
+  "para": "Marvin never recovered from being an abused and battered child. His talent wasn’t enough to see him through. Because he never loved himself, he always felt unloved."
  },
  "Marvin paused, and after a few seconds, mentioned the name of Mrs. Jewel Price.": {
   "ch": 28,
@@ -1391,6 +1451,18 @@ window.GAYE_REFS = {
   "page": 279,
   "sec": "ROYAL SHAFTS",
   "para": "For the time being he insisted that Mother stay on in London after Mrs. Price and Aunt Tolie May returned to the United States. He found a flat of quiet elegance in London’s West End, on a block, as one interviewer wrote, “of no small opulence.” He also found Eugenie Vis, a tall, fair-skinned coed from Holland. Of the dozens of women surrounding Marvin during his tour, Eugenie became his only permanent girlfriend. She served as nursemaid to Bubby, and also, in Belgium, to Gaye himself. A sweet woman of unusual beauty, she would periodically cradle and comfort Marvin for the next two years, though never, in his fevered imagination, would she replace Jan."
+ },
+ "On June 18, after forty-nine years of marriage, Mrs. Gay sued her husband for divorce.": {
+  "ch": 36,
+  "page": 338,
+  "sec": "NIGHT",
+  "para": "On June 18, after forty-nine years of marriage, Mrs. Gay sued her husband for divorce. Two days later she arranged for a $30,000 bond, allowing him to leave jail and return to the Gramercy Place home. Meanwhile, Mrs. Gay had moved in with her daughter Jeanne."
+ },
+ "On November 2, 1984, Gay Sr. was sentenced to five years probation, thus avoiding jail.": {
+  "ch": 36,
+  "page": 338,
+  "sec": "NIGHT",
+  "para": "On November 2, 1984, Gay Sr. was sentenced to five years probation, thus avoiding jail. The judge was persuaded by his argument that a drug-crazed Marvin had attacked him twice before Father shot him in self-defense."
  },
  "One day I’d be throwing bottles at Anna, and the next day I’d be loving her like we’d just met.": {
   "ch": 15,
@@ -1692,6 +1764,12 @@ window.GAYE_REFS = {
   "sec": "IN THE BEGINNING",
   "para": "The tragic triangle was established at birth—Father and Son competing for Mother’s love—a tension that only grew over the years, finally exploding in two angry blasts of gunfire."
  },
+ "Their primal love for each other had turned to primal hate.": {
+  "ch": 35,
+  "page": 332,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "The final battle, long suppressed, had been building for four decades. The smoldering acrimony had reached a boiling point. Both sick victims of different chemical addictions, both highly spiritual men who had fallen from their own set of lofty moral standards, father and son saw their own demise in one another’s eyes. Their primal love for each other had turned to primal hate."
+ },
  "Their voices wound around one another like arms and legs.": {
   "ch": 13,
   "page": 111,
@@ -1775,6 +1853,12 @@ window.GAYE_REFS = {
   "page": 260,
   "sec": "CLOSING IN",
   "para": "“If Price could win,” said Gaye, “I was looking at millions of dollars in future revenues. With one blow, I could win the world’s respect and clean up my whole financial mess. People said I couldn’t do it; well, that night I was going to show them I could. This was going to be my knock-out punch.”"
+ },
+ "Three singers, he said, had moved him most—Sam Cooke, Jackie Wilson, and his former drummer, Marvin Gaye.": {
+  "ch": 36,
+  "page": 337,
+  "sec": "NIGHT",
+  "para": "Smokey Robinson called a press conference in his Motown office in Marvin’s memory. Three singers, he said, had moved him most—Sam Cooke, Jackie Wilson, and his former drummer, Marvin Gaye."
  },
  "Thus Marvin made his move toward the Copacabana, his soul stirred with a mixture of confidence and contempt.": {
   "ch": 12,
@@ -1926,6 +2010,12 @@ window.GAYE_REFS = {
   "sec": "WANTING",
   "para": "The studio, on Sunset near Hudson, was a free-standing building, one-and-a-half stories high, with plain brick fagade and no identification other than the street address. There were no windows, only a front and back door. It had been built according to Marvin’s design. The security was tight, the decoration slick, with earth-tone carpets, dramatic wooden walls, and plush furniture. In addition to a spacious control room and a studio large enough to contain Marvin’s eighteen-piece band during rehearsals, there were two reception areas, and upstairs, accessible only through a single heavily locked door, a loft bedroom with a one-way window looking into the studio below. Gaye’s mini-apartment had a small refrigerator, stove, large closet, bath, and shower. The centerpieces were Marvin’s custom-made king-size waterbed and Jacuzzi big enough to accommodate a dozen consenting adults."
  },
+ "a medical examination revealed a walnut-sized brain tumor in Father’s head.": {
+  "ch": 36,
+  "page": 337,
+  "sec": "NIGHT",
+  "para": "Later in April, a medical examination revealed a walnut-sized brain tumor in Father’s head. The tumor was successfully removed in May and a superior court judge ruled him mentally competent to stand trial. The court-appointed psychiatrist said Gay “continued to provide a consistent story regarding the shooting of his son, which he labels as self-defense.”"
+ },
  "a position that requires little but an affectation of constant, rather jaded horniness.”": {
   "ch": 23,
   "page": 219,
@@ -1937,6 +2027,12 @@ window.GAYE_REFS = {
   "page": 72,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "“Jamerson was a genius,“Marvin told Nelson George in a Musician magazine interview in 1983. “The little group that they had there was the Motown sound, and half the credit for productions should go to the musicians … they didn’t get enough credit.”"
+ },
+ "and on a ship at sea, Anna and his three children threw his ashes to the wind.": {
+  "ch": 36,
+  "page": 336,
+  "sec": "NIGHT",
+  "para": "At his funeral the next day—April 5, 1984—his band came together and played his music. Bishop Simon Peter Rawlings, head of the House of God, traveled from Lexington, Kentucky, to lead the services in his robe and hat decorated with oversized Stars of David. Dick Gregory spoke from the pulpit, saying how he wished Mr. Gay Sr. were there so he could tell him that he loved him. Stevie Wonder sang Marvin a song. Smokey Robinson said farewell, his voice fluttering with grief. Larkin Arnold spoke. Marvin’s friend Cecil Jenkins sang the Lord’s Prayer. Anna and Marvin III, Janis and Nona and Frankie Bubby Christian with tears streaming down his cheeks, Zeola and Jeanne and Frankie and Irene and little April, Marvin’s half-brother Michael Cooper and Berry Gordy and Quincy Jones—they were all there. Mother bent over his body, kissed his cheek, and wept. The coffin was closed. The next day he was cremated, and on a ship at sea, Anna and his three children threw his ashes to the wind. Jet magazine carried the photo."
  },
  "because my father loved, I imagine he overloved me, if that’s possible….": {
   "ch": 17,
@@ -2021,6 +2117,12 @@ window.GAYE_REFS = {
   "page": 227,
   "sec": "GIVING IT UP",
   "para": "Geoffrey Wansell in the London Times was more expansive. Reviewing the Albert Hall concert, he reported, “Marvin Gaye swayed, immaculate in electric blue suit and red velvet waistcoat and bow tie, like the Cary Grant of soul, and just as relaxed…. It was an entirely young audience of both white and black, whose enthusiasm almost threatened to stop the show at at least one point.”"
+ },
+ "saying that he didn’t think the gun had real bullets.": {
+  "ch": 36,
+  "page": 337,
+  "sec": "NIGHT",
+  "para": "Father pleaded not guilty and, while in jail, was interviewed once, saying that he didn’t think the gun had real bullets. Only Sweetsie visited him, bringing Jet magazine along to take pictures. She told the magazine that there was no truth to the rumor that her parents had been separated. “She also denied,” Jet wrote, “that her father and Marvin had a history of confrontation.”"
  },
  "she slapped him across his face, breaking his sunglasses.": {
   "ch": 21,
@@ -2202,6 +2304,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "Marvin’s inclination was to revel in his own misery. “Artists suffer,” said Gaye, “so you don’t have to.” His psyche demanded it. His art demanded it. By design, his suffering soul became his most powerful source of artistic inspiration. Closely identifying with Jesus, Gaye saw himself as a martyr, a man whose pain could be converted into artistic statements of real worth. In that sense, he triumphed. Where he failed, though—where he so desperately wanted to succeed—was in creating a happy family. Unable to realize this goal or to break from Anna, he prolonged his domestic misery. Marvin was less frightened of stale heartaches than fresh loneliness."
  },
+ "“As an artist,” he said, “my purpose is to awaken the human spirit.”": {
+  "ch": 37,
+  "page": 340,
+  "sec": "DAY",
+  "para": "“As an artist,” he said, “my purpose is to awaken the human spirit.”"
+ },
  "“As one of, if not the greatest artist to walk the face of the earth … as one of the twelve music disciples.”": {
   "ch": 29,
   "page": 284,
@@ -2285,6 +2393,12 @@ window.GAYE_REFS = {
   "page": 239,
   "sec": "DISHEARTENED VOWS",
   "para": "Marvin was usually broke in small ways as well as large. “For all the years I knew him, he never had any money on him,” said Dave Simmons, his running buddy from Michigan who had moved to Los Angeles and renewed their friendship in the late seventies. “I remember once he called me to pick him up in Santa Monica because his Rolls had run out of gas and he didn’t have a cent. He didn’t even have a wallet with a credit card. That was Marvin. He meant no harm by it, but he naturally presumed—and he was right—that other people would pick up the tab. You wanted to help him in any way you could.”"
+ },
+ "“Four days before the tragedy,” Jeanne Gay told me, “Marvin tried to kill himself by throwing himself out of a car going sixty miles an hour.": {
+  "ch": 35,
+  "page": 332,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "“Four days before the tragedy,” Jeanne Gay told me, “Marvin tried to kill himself by throwing himself out of a car going sixty miles an hour. He was only bruised, but there’s no doubt he wanted to die.”"
  },
  "“Gaye had failed to pay, either partially or completely, at least thirty musicians since 1973.”": {
   "ch": 26,
@@ -2387,6 +2501,12 @@ window.GAYE_REFS = {
   "page": 173,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "He touted his church training and described his ongoing metaphysical crisis. “I have constant battles with the flesh. I don’t think my spiritual thing is as stable as it should be.”"
+ },
+ "“I have no doubt that this is exactly how Marvin chose to die,” Jeanne told me": {
+  "ch": 36,
+  "page": 336,
+  "sec": "NIGHT",
+  "para": "“I have no doubt that this is exactly how Marvin chose to die,” Jeanne told me when we spoke after the funeral. “This way he accomplished three things. He put himself out of misery. He brought relief to Mother by finally getting her husband out of her life. And he punished Father, by making certain that the rest of his life would be miserable. I do believe that Marvin was very crazed and disturbed, but, even at that point, in his own way, my brother knew just what he was doing.”"
  },
  "“I have this theory that anyone can sing. If you can talk, you can sing.”": {
   "ch": 27,
@@ -2706,6 +2826,12 @@ window.GAYE_REFS = {
   "sec": "END OF EXILE",
   "para": "“Marilyn and Harvey had to get him drunk before he’d get on the plane,” Curtis Shaw said."
  },
+ "“Marvin hit him,” Mother Gay told me.": {
+  "ch": 35,
+  "page": 333,
+  "sec": "APRIL FOOLS’ DAY",
+  "para": "“Marvin hit him,” Mother Gay told me. “I shouted for him to stop, but he paid no attention to me. He gave my husband some very hard licks.”"
+ },
  "“Marvin loved misery,” said his sister Jeanne.": {
   "ch": 14,
   "page": 122,
@@ -2861,6 +2987,12 @@ window.GAYE_REFS = {
   "page": 29,
   "sec": "STIMULATION",
   "para": "“The big four were Rudy West, Clyde McPhatter, Little Willie John, and Ray Charles."
+ },
+ "“The closest person I can relate him to is Billie Holiday,” he said, “and I even consider Marvin better.”": {
+  "ch": 36,
+  "page": 337,
+  "sec": "NIGHT",
+  "para": "Berry Gordy, deeply grieved, took out full-page ads in the entertainment newspapers, calling Marvin the greatest of his time, considerable praise from a man who had worked with Stevie Wonder and Michael Jackson. Gordy broke his usual silence with the press to tell a reporter that he didn’t think Gaye had any musical equals. “The closest person I can relate him to is Billie Holiday,” he said, “and I even consider Marvin better.”"
  },
  "“The most deadly thing about cocaine,” Quincy Jones told me, “is that it separates you from your soul.”": {
   "ch": 13,

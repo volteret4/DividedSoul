@@ -1,0 +1,31 @@
+GAYE.chapter({ n: 36, label: 'Cap. 35', title: 'Night' });
+GAYE.add([
+  { id: 'funeral', name: 'Forest Lawn: el entierro de un príncipe', family: 'regreso', start: 1984, end: 1984, place: 'Forest Lawn Memorial Park, Los Ángeles',
+    aka: ['funeral', 'Forest Lawn'],
+    desc: 'Más de diez mil personas, casi todas negras, hacen dos horas de cola para verlo en un ataúd abierto, con estola de armiño blanco y el uniforme dorado y blanco de su última gira: «lo enterraron como a un príncipe». El 5 de abril oficia el obispo Rawlings, de la House of God; Dick Gregory dice que ojalá estuviera el padre para decirle que le quería; cantan Stevie Wonder y Cecil Jenkins; hablan Smokey y Larkin Arnold; están Anna, Jan, sus tres hijos, sus hermanos, Gordy y Quincy Jones. Lo incineran y Anna y los hijos esparcen las cenizas en el mar. Jeanne: «murió como quería: acabó con su sufrimiento, libró a la madre del marido y castigó al padre para el resto de su vida». Gordy: «solo lo puedo comparar con Billie Holiday, y lo considero mejor»; Smokey: los tres cantantes que más le conmovieron, Sam Cooke, Jackie Wilson y su antiguo batería. Deja más de un millón al fisco, 600 000 a California y pensiones atrasadas; Motown y CBS se pelean por sus cintas inéditas.',
+    artists: ['S. P. Rawlings', 'Dick Gregory', 'Stevie Wonder', 'Smokey Robinson', 'Larkin Arnold', 'Cecil Jenkins', 'Anna Gordy', 'Janis Hunter', 'Marvin Gaye III', 'Nona Gaye', 'Frankie Christian Gaye', 'Berry Gordy', 'Quincy Jones', 'Jeanne Gay', 'Zeola Gaye', 'Michael Cooper'],
+    labels: ['Forest Lawn', 'Jet'],
+    tracks: [],
+    influences: ['muerte', 'house-of-god'],
+    refs: [
+      { q: 'He was buried as a prince, and his people came to honor him.' },
+      { q: 'and on a ship at sea, Anna and his three children threw his ashes to the wind.' },
+      { q: '“I have no doubt that this is exactly how Marvin chose to die,” Jeanne told me' },
+      { q: '“The closest person I can relate him to is Billie Holiday,” he said, “and I even consider Marvin better.”' },
+      { q: 'Three singers, he said, had moved him most—Sam Cooke, Jackie Wilson, and his former drummer, Marvin Gaye.' },
+      { q: 'It was reported that Gaye died owing the IRS more than $1 million' },
+    ] },
+  { id: 'juicio', name: 'El juicio del padre', family: 'familia', start: 1984, end: 1984, place: 'Los Ángeles',
+    aka: ['Marvin Gay Sr.'],
+    desc: 'Se declara inocente y dice en la cárcel que creía que el arma no tenía balas de verdad; solo Zeola lo visita. En abril le encuentran un tumor cerebral del tamaño de una nuez, que le quitan en mayo; el juez lo declara capaz. El 18 de junio, tras cuarenta y nueve años de matrimonio, la madre pide el divorcio, aunque paga su fianza de 30 000 dólares. El 20 de septiembre acepta un cargo reducido de homicidio voluntario; el juez Ronald George ve en las fotos «hematomas masivos» y menciona un PCP que en realidad la autopsia no encontró (solo restos de cocaína). El 2 de noviembre de 1984: cinco años de libertad condicional, sin cárcel, por legítima defensa ante un hijo drogado que le había atacado.',
+    artists: ['Marvin Gay Sr.', 'Alberta Gay', 'Zeola Gaye', 'Ronald George'],
+    labels: [],
+    tracks: [],
+    influences: ['muerte'],
+    refs: [
+      { q: 'saying that he didn’t think the gun had real bullets.' },
+      { q: 'a medical examination revealed a walnut-sized brain tumor in Father’s head.' },
+      { q: 'On June 18, after forty-nine years of marriage, Mrs. Gay sued her husband for divorce.' },
+      { q: 'On November 2, 1984, Gay Sr. was sentenced to five years probation, thus avoiding jail.' },
+    ] },
+], 36);
