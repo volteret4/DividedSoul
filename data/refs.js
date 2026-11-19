@@ -72,6 +72,12 @@ window.GAYE_REFS = {
   "sec": "COMING OF AGE",
   "para": "Marvin’s antagonism toward the government began at an early age. In time, his sense of political alienation would intensify to the point where he refused to pay taxes. Along with his wives and father, the U.S. government—especially the IRS—would become one of his chief adversaries."
  },
+ "Always at stake was the love of Mother.": {
+  "ch": 32,
+  "page": 313,
+  "sec": "REMARKABLE REENTRY",
+  "para": "Because Marvin had been floating in and out of the house, it was inevitable that the two would clash. With Father gone, Marvin had felt like the head of the household. With Father back, the savage struggle reared its ugly head again. Always at stake was the love of Mother. Where had Father been, wondered Marvin, during her hour of need? And what business did he have walking back into the house as though he owned it, not bothering to explain his absence, not apologizing for his negligence?"
+ },
  "Amazingly, one of the tune’s co-composers, Gwen Gordy, turned out to be the very woman Harvey Fuqua married.": {
   "ch": 7,
   "page": 52,
@@ -438,6 +444,12 @@ window.GAYE_REFS = {
   "sec": "OUT THERE",
   "para": "Marvin was ambivalent about the book. He was angry at being portrayed as sexually passive but flattered by the attention. He called the story “half true.” He loved being the hero of a novel, even a trashy one. He was also intrigued with seeing himself in semi—pornographic settings, something he himself would soon create in his own music. In fact, when there was talk of a film based on the book, Marvin called his friend Clarence Paul to help him write the theme song, “Number One with a Bullet.”"
  },
+ "He even puckered up and kissed the Grammy.": {
+  "ch": 32,
+  "page": 314,
+  "sec": "REMARKABLE REENTRY",
+  "para": "When he sang “Sexual Healing” at the twenty-fifth annual Grammy Awards show at the Shrine Auditorium in Los Angeles on February 23, however, his timing was off. He forced the vocal—a rarity for Marvin—and this resulted, he later admitted, from being too high. It hardly mattered. The night was a personal triumph. He won the only two Grammys of his career and didn’t even care that they were restricted to rhythm-and-blues categories—for Best Male Vocal and Best Instrumental Performance, both for “Sexual Healing.” The idea of carrying home the little statuettes thrilled him. Earlier he had said if he didn’t win at least one, he was prepared to attack Lou Rawls, his old Grammy nemesis. His acceptance speech was sweet and sincere as he acknowledged his children and his life-long desire to be recognized by his peers. He even puckered up and kissed the Grammy."
+ },
  "He experimented with pot only after he hit the road with the Moonglows.": {
   "ch": 7,
   "page": 53,
@@ -479,6 +491,12 @@ window.GAYE_REFS = {
   "page": 124,
   "sec": "AN END TO INNOCENCE",
   "para": "“Norman and I came within a fraction of an inch of fighting,” said Gaye. “He thought I was a prick because I wasn’t about to be intimidated by him. We clashed. He made me sing in keys much higher than I was used to. He had me reaching for notes that caused my throat veins to bulge.”"
+ },
+ "He moved into his bedroom in the Gramercy Place home as though he’d never been gone.": {
+  "ch": 32,
+  "page": 312,
+  "sec": "REMARKABLE REENTRY",
+  "para": "He moved into his bedroom in the Gramercy Place home as though he’d never been gone. The atmosphere grew so tense that Jeanne, who’d been living in the house, moved out."
  },
  "He must have missed a dozen engagements on that tour.": {
   "ch": 27,
@@ -1206,6 +1224,12 @@ window.GAYE_REFS = {
   "sec": "COMING OF AGE",
   "para": "Marvin’s archetypal woman was part holy, part corrupt, reflecting his own divided nature. The whore, both real and imagined—along with her counterpart, the idealized mother-madonna figure—would live at the center of his erotic imagination and later in his most serious musical work."
  },
+ "Marvin’s instincts were to throw his father out of the house.": {
+  "ch": 32,
+  "page": 313,
+  "sec": "REMARKABLE REENTRY",
+  "para": "Marvin’s instincts were to throw his father out of the house. Father’s instincts were to prevent Marvin from entering the house. Nothing had changed—the fierce competition, the jealousy, the head games, the hatred, four long decades of smoldering resentment."
+ },
  "Maybe I am preparing to enter a campaign that I’ll never withstand.": {
   "ch": 30,
   "page": 297,
@@ -1890,6 +1914,12 @@ window.GAYE_REFS = {
   "sec": "TROPICAL NIGHTMARE",
   "para": "“When I arrived in Maui,” Grant told me, “I wasn’t sure how I’d go about finding Marvin. We’d been arguing over money for a tour book I’d prepared for him, and he wanted me to come over and discuss it, but I had no address. Soon as I got off the plane, though, these three pretty girls spotted my Marvin Gaye T-shirt and asked me whether I wanted to see Marvin. ‘Sure,’ I said, and they took me right to him. He and Bubby and Fleecy, Marvin’s man, were living in a bread van parked by the edge of a cliff overlooking the ocean, not far from this luxury hotel. I heard it was a bus or a motor home, but man, it was nothing but a funky old bread van! We all slept inside.”"
  },
+ "but that after Mother became ill and went to the hospital, her husband never bothered to come back": {
+  "ch": 32,
+  "page": 305,
+  "sec": "REMARKABLE REENTRY",
+  "para": "The surprising fact, though, wasn’t that Gay Sr. had left, but that after Mother became ill and went to the hospital, her husband never bothered to come back—not for the operation, not even for his wife’s convalescence."
+ },
  "contracts don’t really mean anything to him.": {
   "ch": 22,
   "page": 206,
@@ -1974,6 +2004,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“We head toward the stage and there’s Jack Nicholson in the wings passing around a joint and Jane introduces Marvin and everyone goes nuts. Marvin was a great model. He comes off and suddenly there’s Margaret Trudeau throwing herself at him, talkin’ ’bout how she’s always loved him and, oh God, is it reallyyou, the real Marvin Gaye? This was when she was heavy into her jet-set thing. We walk out of the hotel with Margaret draped all over Marvin, and suddenly an army of photographers start popping flashlights while Marvin’s smiling and, with that certain cool of his, he whispers in my ear, ‘Don’t look now, Dave, but we’ve gone international.’”"
  },
+ "‘Go ahead and draw up the papers and start suing me, Curtis.’": {
+  "ch": 32,
+  "page": 306,
+  "sec": "REMARKABLE REENTRY",
+  "para": "“He owed me a great deal of money,” Shaw said, “but his only reaction was, ‘Go ahead and draw up the papers and start suing me, Curtis.’ He had changed. He’d grown very, very suspicious and couldn’t tell the people who loved him from the people who were using him. All the parasites were crawling back, and I knew there was going to be trouble.”"
+ },
  "‘He’s green,’ I told her. ‘I’ll teach him,’ she told me. And she did.”": {
   "ch": 8,
   "page": 67,
@@ -2003,6 +2039,12 @@ window.GAYE_REFS = {
   "page": 70,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "“Now Marvin was a good drummer back then. Good piano player, too. I used him on most of the early things I did for Stevie. Marvin had more talents than anyone else up there. He was deep. In that early Marvin Gaye Revue, when he went out on the road with the Spinners and Hattie Little, I used to say, ‘Marvin, you don’t want to perform, you want to write.’”"
+ },
+ "‘Marvin,’ I said, ‘those advances have always killed you.": {
+  "ch": 32,
+  "page": 311,
+  "sec": "REMARKABLE REENTRY",
+  "para": "“I tried. But his people never returned my calls, and suddenly I couldn’t even get in touch with Marvin. To me, his management situation sounded like amateur night in Dixie. Then he phoned one day to say he was signing a tour deal with Don Jo. They were giving him cash advances and a fancy new car. ‘Marvin,’ I said, ‘those advances have always killed you. You go for the cash and wind up with nothing else.’ But it was too late. My words went in one ear and out the other.”"
  },
  "‘Then let her sing, Marvin,’ I said. ‘You must let her be a person, too.’": {
   "ch": 22,
@@ -2460,6 +2502,12 @@ window.GAYE_REFS = {
   "sec": "OUT THERE",
   "para": "He discussed his insecurities—fear of flying and fear of peaking too early in his career with nowhere to go but down. “I’m a little afraid of living,” he told the reporter. “Most fears stem from sin. To limit one’s sins must assuredly limit one’s fear, thereby bringing’ more peace to one’s spirit.”"
  },
+ "“I’m a person who adores being adored,” he said, explaining his expatriation.": {
+  "ch": 32,
+  "page": 307,
+  "sec": "REMARKABLE REENTRY",
+  "para": "Among the first was Dennis Hunt’s piece in the Los Angeles Times on November 28. Smoking grass and eating watermelon, Marvin was effusive. “I’m a person who adores being adored,” he said, explaining his expatriation. “I adore being revered. I wasn’t being adored here.”"
+ },
  "“I’m disappointed with America. I’m disappointed with governments.": {
   "ch": 30,
   "page": 296,
@@ -2604,6 +2652,12 @@ window.GAYE_REFS = {
   "sec": "END OF EXILE",
   "para": "“No,” Fuqua said sternly. “I told him that I’m not interested in any more of that shit. And neither is anyone else. We want to sell records.” I immediately remembered what Gaye had told me about Fuqua back in 1979. Harvey was interested in form, not content."
  },
+ "“Not really,” Quincy said. “I admire Midnight Love. Marvin’s a genius, a crafty old fox.": {
+  "ch": 32,
+  "page": 309,
+  "sec": "REMARKABLE REENTRY",
+  "para": "“Not really,” Quincy said. “I admire Midnight Love. Marvin’s a genius, a crafty old fox. I think it’s great that he’s pulled off this comeback. But Michael is magic. He’s the one everyone’s waiting for.”"
+ },
  "“Oh, my children,” he cried, leaving the lyrics of the song to sing from his soul, “I’ll always be where you are.”": {
   "ch": 23,
   "page": 219,
@@ -2735,6 +2789,12 @@ window.GAYE_REFS = {
   "page": 157,
   "sec": "THE LURE OF ADORATION",
   "para": "When asked how he conceived a complex work such as What’s Going On, Marvin was defensive. “What you’re trying to find out is am I really a genius or a fake. And I think I’m a fake.“In the next breath, though, he called the album divinely inspired."
+ },
+ "“What! Are you insinuating that I’m impotent?”": {
+  "ch": 32,
+  "page": 312,
+  "sec": "REMARKABLE REENTRY",
+  "para": "“What! Are you insinuating that I’m impotent?”"
  },
  "“When Marvin defied God,” a member of the House of God told me, “he understood the terrible price he’d have to pay.”": {
   "ch": 16,
