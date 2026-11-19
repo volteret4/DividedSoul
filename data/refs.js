@@ -540,6 +540,12 @@ window.GAYE_REFS = {
   "sec": "SERMON FROM THE STUDIO",
   "para": "Based on Revelations and the state of the world, Gaye was convinced that the end was imminent. As time passed and his own fortunes fell, those convictions deepened. Now, though, after his doomsday vision, his depression was suddenly assuaged: Affirmation arrived in perhaps the single most emotional moment he ever reached on record. He spoke the words, “Let’s save all the children,” and then answered himself in song, pleading, “Save the babies, save the babies!” In the transition between the plainly spoken word “children” and the impassioned cry of “babies,” Gaye’s clarion call was clear as the light of day."
  },
+ "He told me that he’d slapped Jan around, her father had found out, and he was after him with a gun.": {
+  "ch": 34,
+  "page": 325,
+  "sec": "TWILIGHT",
+  "para": "“One day,” Jeff Wald told me, “I got a call from Marvin. He told me that he’d slapped Jan around, her father had found out, and he was after him with a gun. Marvin said he also had a gun, but he was very scared. I didn’t know what to tell him. We talked for a long time. I tried to calm him down. Maybe he did a little bit—I’m not sure—but that was the last time I ever heard from him.”"
+ },
  "He turned them all into glorified secretaries. Me included.”": {
   "ch": 18,
   "page": 168,
@@ -575,6 +581,12 @@ window.GAYE_REFS = {
   "page": 149,
   "sec": "SERMON FROM THE STUDIO",
   "para": "His multitracked voices were startling. He’d become a one-man Moonglows, a one-man Originals, singing duets and trios with himself, juxtaposing his silky falsetto and sandpapery midrange, weaving the fabric of his voices into a tapestry of contrasting shapes and colors."
+ },
+ "His bedroom looked like something out of The Exorcist.": {
+  "ch": 34,
+  "page": 327,
+  "sec": "TWILIGHT",
+  "para": "“It wasn’t the same Marvin,” said Cecil Jenkins, his friend and one-time lead dancer. “I’d go over there and try to get him out of bed—to walk, jog, play ball, anything involving exercise. But he just wouldn’t move, and I got scared. His bedroom looked like something out of The Exorcist. I had no doubt that the devil got him. All his spirit and energy was gone.”"
  },
  "His customers wanted Ruth Brown, not Thelonius Monk.": {
   "ch": 8,
@@ -1032,6 +1044,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“I suppose most people as unhappy as I would have gotten divorced in a year,” he said. “It took me fourteen. Maybe that’s because when I sing, I have to be singing to one particular woman. For a long time, that particular woman was Anna.”"
  },
+ "It was Marvin acting out some Wild West fantasy": {
+  "ch": 34,
+  "page": 325,
+  "sec": "TWILIGHT",
+  "para": "“Marvin began the whole thing,” said Dave Simmons. “He had slapped Jan around—I don’t know how badly he’d beaten her—and Earl was justifiably very, very angry. He didn’t want his step-daughter treated like that. I was with Marvin when he and Earl spoke on the phone. Hot words were exchanged. Then Marvin mentioned guns. He said why didn’t they settle it once and for all; he had his pistol so Earl better get his. It was Marvin acting out some Wild West fantasy, like the showdown in those cowboy movies he loved to watch on TV."
+ },
  "It was a loving gestapo—because Berry is a loving cat—but it was still the gestapo.": {
   "ch": 9,
   "page": 71,
@@ -1307,6 +1325,12 @@ window.GAYE_REFS = {
   "page": 226,
   "sec": "GIVING IT UP",
   "para": "“Marvin didn’t believe me. My son didn’t really believe that anyone loved him.”"
+ },
+ "My son, my poor son, turned into a monster.”": {
+  "ch": 34,
+  "page": 329,
+  "sec": "TWILIGHT",
+  "para": "“Yes, there were these women around,” Mother said, “who he treated terribly. An English woman and a Japanese girl. He lost control and hit them. My son, my poor son, turned into a monster.”"
  },
  "My wife was seventeen years older than I was and this girl was seventeen years younger.": {
   "ch": 19,
@@ -1770,6 +1794,12 @@ window.GAYE_REFS = {
   "sec": "ROYAL SHAFTS",
   "para": "To avoid going to Manchester, Gaye slipped into the men’s room and climbed out a back window."
  },
+ "Today was Sunday. Tomorrow was his birthday.": {
+  "ch": 34,
+  "page": 330,
+  "sec": "TWILIGHT",
+  "para": "Today was Sunday. Tomorrow was his birthday."
+ },
  "Trouble Man was one of only two albums where Gaye wrote every song alone.": {
   "ch": 17,
   "page": 163,
@@ -2088,6 +2118,12 @@ window.GAYE_REFS = {
   "sec": "REMARKABLE REENTRY",
   "para": "“I tried. But his people never returned my calls, and suddenly I couldn’t even get in touch with Marvin. To me, his management situation sounded like amateur night in Dixie. Then he phoned one day to say he was signing a tour deal with Don Jo. They were giving him cash advances and a fancy new car. ‘Marvin,’ I said, ‘those advances have always killed you. You go for the cash and wind up with nothing else.’ But it was too late. My words went in one ear and out the other.”"
  },
+ "‘Mother, this is the last time. I promise. The last time.’”": {
+  "ch": 34,
+  "page": 326,
+  "sec": "TWILIGHT",
+  "para": "“He also started taking more drugs. He’d even do it when I was there. I’d have tears in my eyes as I watched him, and each time he’d say, ‘Mother, this is the last time. I promise. The last time.’”"
+ },
  "‘Tell Dick I’m sorry, but I can’t go,’ was all he said.": {
   "ch": 33,
   "page": 324,
@@ -2099,6 +2135,12 @@ window.GAYE_REFS = {
   "page": 209,
   "sec": "SUFFERING IN STYLE",
   "para": "“‘Then let her sing, Marvin,’ I said. ‘You must let her be a person, too.’"
+ },
+ "‘There ain’t no killer, Marvin,’ I said": {
+  "ch": 34,
+  "page": 329,
+  "sec": "TWILIGHT",
+  "para": "“I spent a whole night with Marvin just a week or so before he died,” Clarence Paul told me. “I’d given up coke and Marvin asked how. ‘Just didn’t want the feeling anymore,’ I told him. He acted amazed. He was also frightened to death. He had me standing guard at the window, looking for whoever was supposed to come by to kill him. ‘There ain’t no killer, Marvin,’ I said, ‘you’re making this shit up. Who the hell would want to kill you?’ He said he couldn’t tell me. Said it was real complicated. But I didn’t believe him.”"
  },
  "‘Why are you going to produce me?’ I’d ask Holland-Dozier-Holland, ‘why don’t you produce Shorty Long?’": {
   "ch": 12,
@@ -2490,6 +2532,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“If Pops had been my father instead of Berry’s,” said Marvin, who often blamed Gay Sr. for his own failings, “maybe I could have achieved as much as Berry.”"
  },
+ "“If he touches me,” Gay Sr. had informed the rest of the family, “I’ll kill him.”": {
+  "ch": 34,
+  "page": 328,
+  "sec": "TWILIGHT",
+  "para": "A new year made no difference. Outside events seemed further and further from his mind. Even his friends making news—Al Davis’ Los Angeles Raiders winning the Super Bowl, Jesse Jackson becoming a presidential contender—didn’t seem to matter. Weeks went by when Marvin wouldn’t see his children. A few days at Sweetsie’s apartment didn’t help. He was back on Gramercy Place. Father wouldn’t leave. The struggle over territory, the fight over Mother, only grew nastier. Memories of beatings. Threats. Marvin’s talk of suicide. Father’s talk of murder. “If he touches me,” Gay Sr. had informed the rest of the family, “I’ll kill him.”"
+ },
  "“In my end is my beginning,” was the T. S. Eliot line Gaye kept quoting": {
   "ch": 31,
   "page": 300,
@@ -2573,6 +2621,12 @@ window.GAYE_REFS = {
   "page": 307,
   "sec": "REMARKABLE REENTRY",
   "para": "Among the first was Dennis Hunt’s piece in the Los Angeles Times on November 28. Smoking grass and eating watermelon, Marvin was effusive. “I’m a person who adores being adored,” he said, explaining his expatriation. “I adore being revered. I wasn’t being adored here.”"
+ },
+ "“I’m bored,” he told photographer Ken Grant who saw him up until the end.": {
+  "ch": 34,
+  "page": 329,
+  "sec": "TWILIGHT",
+  "para": "“I’m bored,” he told photographer Ken Grant who saw him up until the end. “I’ve done everything and I’m bored.”"
  },
  "“I’m disappointed with America. I’m disappointed with governments.": {
   "ch": 30,
