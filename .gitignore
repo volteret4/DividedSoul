@@ -9,3 +9,4 @@
 **/__pycache__/
 client_secret.json
 client_secret*·json
+build/epub/
