@@ -8,8 +8,8 @@ GAYE.add([
     tracks: [
       { a: 'The Orioles', t: 'Crying in the Moonlight', y: 1952 },
       { a: 'The Capris', t: 'God Only Knows', y: 1954, ess: 1 },
-      { a: 'The Capris', t: 'She Still Loves Me Because Heaven Tells Me So', y: 1955 },
-      { a: 'The Capris', t: 'Bless You for Being an Angel', y: 1955 },
+      { a: 'The Capris', t: 'She Still Loves Me Because Heaven Tells Me So', y: 1955, yq: '-' },
+      { a: 'The Capris', t: 'Bless You for Being an Angel', y: 1955, yq: 'Capris Bless You for Being an Angel Gotham doo wop' },
       { a: 'Lee Andrews & the Hearts', t: 'Lonely Room', y: 1957 },
       { a: 'The Turbans', t: 'Let Me Show You (Around My Heart)', y: 1955 },
       { a: 'Edna McGriff', t: 'Heavenly Father', y: 1952 },

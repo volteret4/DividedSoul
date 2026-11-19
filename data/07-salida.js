@@ -35,7 +35,7 @@ GAYE.add([
     labels: ['Chess', 'Kent'],
     tracks: [
       { a: 'Etta James', t: 'All I Could Do Was Cry', y: 1960, ess: 1 },
-      { a: 'Etta James', t: 'Chained to My Rocking Chair', y: 1959 },
+      { a: 'Etta James', t: 'Chained to My Rocking Chair', y: 1959, yq: 'Etta James Chained to My Rocking Chair Moonglows' },
     ],
     influences: ['chess'],
     refs: [
@@ -81,5 +81,5 @@ GAYE.add([
 ], 7);
 // Canciones citadas en el capítulo (revisión con tools/mentions.py).
 GAYE.add([
-  { id: 'moonglows', tracks: [{ a: 'Harvey & The Moonglows', t: 'That’s What Girls Are Made For', y: 1959 }, { a: 'Harvey & The Moonglows', t: 'Love, I’m So Glad I Found You', y: 1959 }] },
+  { id: 'moonglows', tracks: [{ a: 'Harvey & The Moonglows', t: 'That’s What Girls Are Made For', y: 1959 }, { a: 'Harvey & The Moonglows', t: 'Love, I’m So Glad I Found You', y: 1959, yq: '-' }] },
 ], 7);
