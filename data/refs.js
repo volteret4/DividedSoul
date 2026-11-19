@@ -276,6 +276,12 @@ window.GAYE_REFS = {
   "sec": "STIMULATION",
   "para": "“My dream,” Marvin confessed, “was to become Frank Sinatra. I loved his phrasing, especially when he was very young and pure. He grew into a fabulous jazz singer and I used to fantasize about having a lifestyle like his—carrying on in Hollywood and becoming a movie star. Every woman in America wanted to go to bed with Frank Sinatra. He was the king I longed to be. My greatest dream was to satisfy as many women as Sinatra. He was the heavyweight champ, the absolute."
  },
+ "Finally I got the president of TWA on the phone.": {
+  "ch": 28,
+  "page": 271,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“I called Kruger, I called Motown, I called everyone,” Mrs. Price told me. “Finally I got the president of TWA on the phone. After hours and hours, they gave permission, and we were gone.”"
+ },
  "For all the activity going on around him, Marvin seems a remarkably unfocused man": {
   "ch": 20,
   "page": 193,
@@ -323,6 +329,12 @@ window.GAYE_REFS = {
   "page": 16,
   "sec": "ORIGINAL SIN",
   "para": "Thus, as a child and adolescent, Marvin Gaye witnessed his father abandon his spiritual obsessions for other, more worldly matters. Gay Sr. was a divided soul. As an adult, Marvin mirrored the same division. During half his son’s childhood, Father fervently preached; during the other half, he turned into an entirely different sort of man."
+ },
+ "Gaye described his Hawaiian exile more accurately as “one long nervous breakdown.”": {
+  "ch": 28,
+  "page": 267,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "In more candid moments, though, Gaye described his Hawaiian exile more accurately as “one long nervous breakdown.” In truth, he barely stumbled through each day. He took his assortment of nerve-racking fears and gathered them into one metaphor which he called the “end of everything”—the end of his world, the end of all humanity."
  },
  "Gaye tended to exaggerate his purity.": {
   "ch": 14,
@@ -624,6 +636,18 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“The object of the game was to get in that little studio. A lot of the girls, like Martha Reeves and Diana Ross, would work in the office just to be close to the studio. I got in by telling ’em I was a drummer. I really wasn’t, but I proved that I really was. I never learned to read music, although all the instruments come easy to me, ’specially drums and piano. I played drums for all the early acts. But I really wanted to get next to Smokey ’cause Smokey was next to Berry. That’s how I became a drummer for the Miracles, getting paid maybe five dollars a session, and traveling with them on the road. Least I was in."
  },
+ "I had a knife so close to her heart that I thought I was dreaming.": {
+  "ch": 28,
+  "page": 264,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“I wanted Jan to stay with me in Hawaii, I wanted her gone. Here I was, on an island paradise in the most beautiful spot in the world, with no one around, no one to be jealous of, and all the time we needed to work the thing out. But her thing with Teddy was still fresh on my mind and all we did was fight and scream and scratch at each other. The island paradise turned out to be hell. I had a knife so close to her heart that I thought I was dreaming. Oh, it was so close! I wanted to kill her. I almost did. I wanted to kill myself, but I didn’t have the guts.”"
+ },
+ "I had a message to spread. I had my theme.”": {
+  "ch": 28,
+  "page": 267,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“I had to do something for money,” Marvin said, “but I also had a deeper obligation—to the truth. Motown wasn’t giving me a cent ’cause they were yelling how they’d spent a fortune on the Love Man cover and here I was holed up in Hawaii telling them that the love man was dead. He was. The love man was me and I needed to stop that shit. No matter how much money Motown would give me to release Love Man, I couldn’t do it. I needed to get my mind off Janis and all the agony we were putting each other through. So I started working on something else—a new album with a new concept—and suddenly I saw how silly I’d been. Who needed another record moanin’ and bitchin’ ’bout some woman? Why did I have to regain my throne as the sex king? Who cared about competing with Michael Jackson and Prince? Look what was happening in the world. I had a message to spread. I had my theme.”"
+ },
  "I had to bring in the food, and I did. I’m proud of myself. I kept my family alive.”": {
   "ch": 4,
   "page": 19,
@@ -635,6 +659,12 @@ window.GAYE_REFS = {
   "page": 173,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“I decided again not to do any more concerts,” he said. “I needed to figure out my next musical move. There were moments when I was still convinced that I could and would change the world. I kept thinking of the Pied Piper. The fact that this one cat, with the pure power of musical notes, chased the rats away—man, that should be an inspiration, perhaps the inspiration for all musicians. But by taking all che kids with him, you see the extent of his power. There’s no doubt music can lead. I know music can heal. On the other hand, music means money. It had been over two years since I had a record of my own on the charts, and I was starting to worry.”"
+ },
+ "I let her suffer for a week before I told her I had him.”": {
+  "ch": 28,
+  "page": 270,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "His sister and mother did exactly as ordered. Sister Zeola brought him his son. Later Marvin told People magazine that “my wife went nearly crazy. I let her suffer for a week before I told her I had him.”"
  },
  "I let my voice do things choir teachers would never allow.": {
   "ch": 3,
@@ -1056,6 +1086,12 @@ window.GAYE_REFS = {
   "sec": "COMING OF AGE",
   "para": "Marvin lost his virginity to a prostitute, and thus ignited an obsessive interest in what he liked to call “love for sale.”"
  },
+ "Marvin paused, and after a few seconds, mentioned the name of Mrs. Jewel Price.": {
+  "ch": 28,
+  "page": 269,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "Marvin paused, and after a few seconds, mentioned the name of Mrs. Jewel Price."
+ },
  "Marvin recorded the tune minutes after hearing it the first time.": {
   "ch": 11,
   "page": 86,
@@ -1440,11 +1476,29 @@ window.GAYE_REFS = {
   "sec": "SEXUAL CONFUSION",
   "para": "“Among the several sins I got from Father,” Marvin stated, “is a love of loafing. Neither of us particularly likes to work. The difference is, I finally made money while nothing—not even the sight of Mother cleaning rich people’s toilets for slave wages—could ever motivate Father to abandon his life of leisure. Oh, he had it made! The king! The king and his secret life!”"
  },
+ "The love man was me and I needed to stop that shit.": {
+  "ch": 28,
+  "page": 267,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“I had to do something for money,” Marvin said, “but I also had a deeper obligation—to the truth. Motown wasn’t giving me a cent ’cause they were yelling how they’d spent a fortune on the Love Man cover and here I was holed up in Hawaii telling them that the love man was dead. He was. The love man was me and I needed to stop that shit. No matter how much money Motown would give me to release Love Man, I couldn’t do it. I needed to get my mind off Janis and all the agony we were putting each other through. So I started working on something else—a new album with a new concept—and suddenly I saw how silly I’d been. Who needed another record moanin’ and bitchin’ ’bout some woman? Why did I have to regain my throne as the sex king? Who cared about competing with Michael Jackson and Prince? Look what was happening in the world. I had a message to spread. I had my theme.”"
+ },
+ "The man who thought I’d grow up to become a bum was still living off this bum’s royalties.”": {
+  "ch": 28,
+  "page": 266,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“You’d think,” Gaye said, “that when I was so sick Father might figure out a way to help. No chance. The man who thought I’d grow up to become a bum was still living off this bum’s royalties.”"
+ },
  "The older I’ve gotten, the more I’ve wished that all women could be like my mother.”": {
   "ch": 4,
   "page": 20,
   "sec": "SEXUAL CONFUSION",
   "para": "“Mother was caught in between,” Marvin explained. “She was too afraid of Father to openly defy him. He might strike her. He might put her out. But as time went on, she quickly saw that I was going to be able to do something for her that Father couldn’t—give her money. As a kid, I thought of robbing banks so she wouldn’t have to work night and day to provide for us. But I couldn’t do that. I wasn’t raised that way. You must understand that I was a good boy. In Simple City the Gays might have been perceived as strange, but we were looked up to. We lived by principles. Mother especially. Her kindness and generosity were legendary. She took in people and fed neighbors, even when we were still dirt poor. The woman suffered so, and yet her suffering seemed to make her stronger. The older I’ve gotten, the more I’ve wished that all women could be like my mother.”"
+ },
+ "The threat of nuclear destruction became his burning concern.": {
+  "ch": 28,
+  "page": 268,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "At the end of the seventies, Marvin Gaye returned to the political consciousness he had abandoned during the decade following What’s Going On. The issue, which had been mentioned in that suite, had suddenly moved to the center of Marvin’s music. The threat of nuclear destruction became his burning concern."
  },
  "The tragic triangle was established at birth—Father and Son competing for Mother’s love—a tension that only grew over the years, finally exploding in two angry blasts of gunfire.": {
   "ch": 2,
@@ -1469,6 +1523,12 @@ window.GAYE_REFS = {
   "page": 171,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“The chemistry was all wrong,” said Art Stewart, then a Motown staff engineer who worked all the Marvin-and-Diana sessions. “It was extremely tense. Marv would wander in, sipping wine and smoking a joint, ready to sing, while Diana was much more formal. Then, adding insult to injury, he sang circles around her. She just couldn’t keep up with him, and finally they wound up recording their parts separately.”"
+ },
+ "There he tried to kill himself with a cocaine overdose and also came close to murdering Jan.": {
+  "ch": 28,
+  "page": 263,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "From the winter of 1979 until the summer of 1980, Marvin Gaye lived in Hawaii—mysteriously, reclusively, caught in a state of chronic depression. There he tried to kill himself with a cocaine overdose and also came close to murdering Jan."
  },
  "There was no more Motown sound in the seventies, just a string of separate singers doing their own thing.": {
   "ch": 21,
@@ -1685,6 +1745,12 @@ window.GAYE_REFS = {
   "page": 241,
   "sec": "DISHEARTENED VOWS",
   "para": "“Suddenly,” Marvin said to me, “in the midst of one of myworst depressions over Jan, I went into my studio and recorded them. I had the tracks for years, but it took me only a single night to sing all those songs … and a lifetime of pain to gain the wisdom.”"
+ },
+ "but man, it was nothing but a funky old bread van!": {
+  "ch": 28,
+  "page": 265,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“When I arrived in Maui,” Grant told me, “I wasn’t sure how I’d go about finding Marvin. We’d been arguing over money for a tour book I’d prepared for him, and he wanted me to come over and discuss it, but I had no address. Soon as I got off the plane, though, these three pretty girls spotted my Marvin Gaye T-shirt and asked me whether I wanted to see Marvin. ‘Sure,’ I said, and they took me right to him. He and Bubby and Fleecy, Marvin’s man, were living in a bread van parked by the edge of a cliff overlooking the ocean, not far from this luxury hotel. I heard it was a bus or a motor home, but man, it was nothing but a funky old bread van! We all slept inside.”"
  },
  "contracts don’t really mean anything to him.": {
   "ch": 22,
@@ -2148,6 +2214,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“If Pops had been my father instead of Berry’s,” said Marvin, who often blamed Gay Sr. for his own failings, “maybe I could have achieved as much as Berry.”"
  },
+ "“In one hour I snorted up a full ounce of pure coke and knew I was dead.": {
+  "ch": 28,
+  "page": 264,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "“In one hour I snorted up a full ounce of pure coke and knew I was dead. I called Mother to tell her. But God wasn’t ready to take me. I was saved that day, only to suffer the next.”"
+ },
  "“In the fifties,” Mrs. Gay told me, “my husband started drinking heavily.": {
   "ch": 5,
   "page": 25,
@@ -2411,6 +2483,12 @@ window.GAYE_REFS = {
   "page": 251,
   "sec": "CLOSING IN",
   "para": "At his Sunset studio, minutes after we were introduced, Gaye asked engineer Art Stewart and me to join hands with him in meditation. “Think on God’s infinite love, God’s infinite love,” Marvin whispered, “just that one thought and that one thought only.” A few minutes later he added, “We should do this every day with our loved ones, our wives, parents, and children. Stop whatever you’re doing in the middle of the day and sit and be silent. Meditate on God’s infinite love.”"
+ },
+ "“Uncle Sam,” he said, “claimed I owed him over $2 million.”": {
+  "ch": 28,
+  "page": 270,
+  "sec": "TROPICAL NIGHTMARE",
+  "para": "Marvin, Fleecy, and Bubby were to meet Mrs. Gay, Aunt Tolie May, and Jewel Price at the San Francisco Airport, then fly off to England. Gaye was nervous about stepping back on the mainland—even for a few hours. He was afraid of being apprehended by federal agents on tax charges. “Uncle Sam,” he said, “claimed I owed him over $2 million.”"
  },
  "“We are schizophrenic,” Gaye once announced from the stage, “but we are not lost.”": {
   "ch": 15,
