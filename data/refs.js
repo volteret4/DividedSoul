@@ -1,5 +1,17 @@
 // Generado por tools/refs.py — no editar a mano.
 window.GAYE_REFS = {
+ "(“I was afraid that would hurt sales,” Gaye told me.)": {
+  "ch": 29,
+  "page": 283,
+  "sec": "ROYAL SHAFTS",
+  "para": "On the other hand, he believed in Christ, even though Jesus, who was named in What’s Going On, wasn’t mentioned on this record. (“I was afraid that would hurt sales,” Gaye told me.) Part of Marvin was too sophisticated to subscribe to the tenets of his father’s Pentecostal church, but another part—a more powerful part—was never able to shake off those notions. Spiritually, In Our Lifetime represents the best of his old-time religion, the part of Pentecostal preaching that insists on unrelenting praise, on the expression of gratitude as a way of coping with a worrisome world."
+ },
+ "A cowboy was running America, and I was still running away.": {
+  "ch": 29,
+  "page": 288,
+  "sec": "ROYAL SHAFTS",
+  "para": "“Diana,” said Marvin, “had somewhere to go. I didn’t. I had nothing going for me. No record deal, no money. Anna had stripped me of my fortune. By then Jan had divorced me. I missed my mother, missed my son Marvin and my daughter Nona, but I couldn’t go back. Not to a country that had just elected Ronald Reagan. A cowboy was running America, and I was still running away. I had to keep running. If I hadn’t got out of the crazy dope scene in London, I’d have been dead in a month.”"
+ },
  "A few months later, Holland-Dozier-Holland borrowed a line from Jackie Gleason and gave Marvin “How Sweet It Is.”": {
   "ch": 11,
   "page": 93,
@@ -192,6 +204,12 @@ window.GAYE_REFS = {
   "sec": "ORIGINAL SIN",
   "para": "“It wasn’t simply that my father beat me,” Marvin confessed one April night in Belgium in 1982 as he peered from his huge apartment window down into the dark North Sea, his back turned to me, “though that was bad enough. By the time I was twelve, there wasn’t an inch of my body that hadn’t been bruised and beaten by him. But Father did something else far worse. You see, he’s a man with a subtle mind. He understood that if you’re interested in inflicting pain, prolonging the process adds to the excitement. He’d say, ‘Boy, you’re going to get a whipping.’ Then he’d tell me to take off my clothes and send me to the bedroom I shared with Frankie. Frankie was smarter; he placated him. But I felt I had to challenge Father, and he repaid me with his belt. It wouldn’t have been so awful if he had hit me right away. But Father liked mind games. He’d play with me. He’d make me wait an hour, or even more, all the while jangling his belt buckle loud enough so I could hear. The only way to short-circuit the agony was to provoke him even more and just get the beating over with. When he finally struck me, I knew—children know these things—that something inside him was enjoying the whole thing.”"
  },
+ "Can you imagine saying to an artist, say Picasso": {
+  "ch": 29,
+  "page": 281,
+  "sec": "ROYAL SHAFTS",
+  "para": "Gaye’s other major complaint concerned the first tune on side B, “Far Cry.” “I hadn’t completed it,” he told me. “The song was in its most primitive stage. All I had was this jive vocal track, and they put it out as a finished fact. How could they embarrass me like that? I was humiliated. They also added guitar licks and bass lines. How dare they second guess my artistic decisions! Can you imagine saying to an artist, say Picasso, ’Okay, Pablo, you’ve been fooling with this picture long enough. We’ll take your unfinished canvas and add a leg here, an arm there. You might be the artist, but you’re behind schedule, so we’ll finish up this painting for you. If you don’t like the results, Pablo, baby, that’s tough!’ I was heartbroken. I was deeply hurt. Motown went behind my back. That’s something I’ll never forgive or forget.”"
+ },
  "Compared to the other fellas on the street, my voice sounded small.": {
   "ch": 5,
   "page": 32,
@@ -252,6 +270,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“Whenever I completely crash,” Marvin told me, “it’s always a combination of things. You can’t blame it on drugs alone. Drugs are as much a part of my day as the weather, so you might as well blame it on the weather. It usually involves some fight I just had with Jan. I’m always half-hoping she’ll feel sorry for me and rush to my bedside. I don’t like crashing ’cause I hate hospitals. For me to wind up in a hospital is bad—it means there’s no other place I can find any rest.”"
  },
+ "Dual Marvins face each other as they sit upon thrones above the clouds": {
+  "ch": 29,
+  "page": 281,
+  "sec": "ROYAL SHAFTS",
+  "para": "Dual Marvins face each other as they sit upon thrones above the clouds, -above the world—an expression of Gaye’s illusion of grandeur—while nuclear explosions rip America apart and communist troops and tanks, bearing red flags, invade the mainland. One Marvin has wings, a halo, and a dove; the second Marvin has horns and wears the cloak of Satan. The divided self is playing a game of checkers, while on the table a globe is cut equally in half. On the back, a large color photograph of Gaye, with his customary pocket handkerchief, has him looking disturbed and afraid."
+ },
  "During this same winter, Fuqua rejected David Ruffin as a Moonglow": {
   "ch": 7,
   "page": 48,
@@ -305,6 +329,12 @@ window.GAYE_REFS = {
   "page": 159,
   "sec": "THE LURE OF ADORATION",
   "para": "“Frankly, I enjoy the teasing part more than the sex,” he once said. “After you’ve had as much as I’ve had, the thrill is more in the mind than the body.“He saw the ritual of cancelling concerts—of being begged to sing—as a form of sexual foreplay, reasoning that it made his female fans want him that much more. His fear of performing, however, was very real, and only one person had the power to persuade him to sing in public—Mother."
+ },
+ "Free-basing became another way of trying to kill myself.": {
+  "ch": 29,
+  "page": 286,
+  "sec": "ROYAL SHAFTS",
+  "para": "“The pipe.” He paused, and then looked at me with heavy, hurting eyes. “The pipe is very, very deep. You don’t want to deal with the pipe if you can at all avoid it. I lost myself by smoking cocaine. Free-basing became another way of trying to kill myself. I came close. For long periods of time I was in a fog, and wanted to stay there. I wanted the fog to close up all around me. A lot of the things I was doing in London—just going out to a soccer match, seeing friends—I could no longer do. I couldn’t move. I cut myself off from everyone. I did nothing but stay in my room for months.”"
  },
  "From the day it opened in late 1975 to the day a bankruptcy court shut it down four years later": {
   "ch": 23,
@@ -768,6 +798,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“I also grew a beard, which, back then, was not all that common for black men. Black men weren’t supposed to look overtly masculine. I’d spent my entire career looking harmless, and the look no longer fit. I wasn’t harmless. I was pissed at America. I didn’t want to shave every morning, and so I didn’t. I was interested in taking as much pressure off myself as possible. You might even say I became a recluse. That scared me because for the past ten years, Father had been leading exactly that kind of life. I couldn’t help it, though. I wanted to get out, but I couldn’t. I spent days never leaving my bedroom—never wanting to—depressed enough to call it quits. Little Marvin was growing up and we were taking care of other kids in Anna’s family, but even the laughter of children couldn’t pull me out of it. More than anything else, it was probably just walking over to the park and playing ball which saved my ass.”"
  },
+ "I went in and started my show. But the stagehands were so pissed at me for insulting their princess": {
+  "ch": 29,
+  "page": 278,
+  "sec": "ROYAL SHAFTS",
+  "para": "“When we finally arrived,” Marvin said, “I saw the princess’ limo pulling out. We passed each other like ships in the night. I suppose she got tired of waiting. I don’t think she saw me, but I still waved weakly in her direction, just to let her know that it wasn’t anything personal. I went in and started my show. But the stagehands were so pissed at me for insulting their princess that after I’d been singing only twenty minutes they brought down the curtain right in the middle of my act. I guess that was as good a way as any to end a fascinating evening.”"
+ },
  "I wonder if it’ll do any good if I get stopped by a police officer….": {
   "ch": 17,
   "page": 161,
@@ -1188,6 +1224,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "“I like to stay away from the ‘in crowd,’” he told me,“because when I finally do decide to appear, I’m something of a novelty. They don’t take me for granted. Never, never have I given the beautiful people the idea that I need them.”"
  },
+ "Nonchalantly, Marvin refused to apologize. “Why should a prince,” he asked, “have to apologize to a princess?”": {
+  "ch": 29,
+  "page": 278,
+  "sec": "ROYAL SHAFTS",
+  "para": "The next morning the London press was full of it—“Soul Singer Snubs Royalty!”—as the story went worldwide. Nonchalantly, Marvin refused to apologize. “Why should a prince,” he asked, “have to apologize to a princess?” His mother and aunt merely told the press that he’d been “exhausted.”"
+ },
  "Not until the late sixties did Motown catch up with the rest of soul music in interjecting racial consciousness into its songs.": {
   "ch": 11,
   "page": 89,
@@ -1211,6 +1253,12 @@ window.GAYE_REFS = {
   "page": 235,
   "sec": "INSPIRED DIVORCE",
   "para": "“When things got rough between me and Anna,” Marvin told me, “she wouldn’t let me see little Marvin for weeks. That hurt. Of course I did things worse than that to her, but the point of this record was to tell my story, not hers.”"
+ },
+ "Of the dozens of women surrounding Marvin during his tour, Eugenie became his only permanent girlfriend.": {
+  "ch": 29,
+  "page": 279,
+  "sec": "ROYAL SHAFTS",
+  "para": "For the time being he insisted that Mother stay on in London after Mrs. Price and Aunt Tolie May returned to the United States. He found a flat of quiet elegance in London’s West End, on a block, as one interviewer wrote, “of no small opulence.” He also found Eugenie Vis, a tall, fair-skinned coed from Holland. Of the dozens of women surrounding Marvin during his tour, Eugenie became his only permanent girlfriend. She served as nursemaid to Bubby, and also, in Belgium, to Gaye himself. A sweet woman of unusual beauty, she would periodically cradle and comfort Marvin for the next two years, though never, in his fevered imagination, would she replace Jan."
  },
  "One day I’d be throwing bottles at Anna, and the next day I’d be loving her like we’d just met.": {
   "ch": 15,
@@ -1548,6 +1596,18 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“Motown was filled with petty thieves,” Seltzer told me during a four-hour interview in Detroit. “Lots of little people were involved in larceny. Berry could trust only three executives—George Schiffer, Suzanne dePasse, and me. BG always suffered with organizational problems. Administration wasn’t his strength. Berry was a deal cutter. He also knew how to deal with the white community. He looked good, smelled pretty, spoke well, and displayed fine manners. He was acceptable. But he was also a reckless gambler. On any given day, he could lose $50 to $100,000—on a whim. Yet for all his risk taking, he understood how to control his artists. In those years, he’d never allow an artist to produce himself, not even Marvin. Smokey was the only exception. Berry created a caste system, but he also established a community with great creative cooperation. Most of the problems you hear the artists bitch about were caused by themselves. They just didn’t pay their taxes.”"
  },
+ "They left out the question mark. That was the whole point.": {
+  "ch": 29,
+  "page": 280,
+  "sec": "ROYAL SHAFTS",
+  "para": "“Motown shafted me,” Marvin said, discussing his album released in early 1981. “The first thing they did wrong was screw up the title. They left out the question mark. That was the whole point. The question was, Is the world coming to an end in our lifetime?”"
+ },
+ "They slept on quilts on the floor—in the living room, in the hallway, everywhere": {
+  "ch": 29,
+  "page": 279,
+  "sec": "ROYAL SHAFTS",
+  "para": "She was not his only lady. “There were so many women around,” Mrs. Gay told me, “that I didn’t even know who they were. They’d just appear at the apartment with their suitcases. I was afraid that there wouldn’t be a place for me. As it was, I was sleeping on a mattress on the floor. I didn’t complain, because I was a lot more comfortable than the twelve musicians who were living with us then. You see, Mr. Kruger was so mad after the charity concert that he canceled their plane tickets home. No one had any money, so they came to live with Marvin. They slept on quilts on the floor—in the living room, in the hallway, everywhere—and I did all the cooking the whole time I was there for two or three weeks. I made eggs for breakfast and fried chicken, greens, and biscuits for dinner and, believe me, they ate every single thing I cooked. By the time I left, they’d all managed to find a way home. And before I left, Marvin also put Fleecy out.”"
+ },
  "They were about to close down the works—his studio, his estate, every last asset he had.”": {
   "ch": 27,
   "page": 258,
@@ -1583,6 +1643,12 @@ window.GAYE_REFS = {
   "page": 183,
   "sec": "GETTING IT ON",
   "para": "“Farewell, my darling,” he sang in a formal cadence reminiscent of seventeenth-century poet John Dryden. “Once more, hail and farewell,” wrote Dryden. Thus with the fiery beauty of his piercing falsetto, Marvin kissed Anna goodbye."
+ },
+ "To avoid going to Manchester, Gaye slipped into the men’s room and climbed out a back window.": {
+  "ch": 29,
+  "page": 275,
+  "sec": "ROYAL SHAFTS",
+  "para": "To avoid going to Manchester, Gaye slipped into the men’s room and climbed out a back window."
  },
  "Trouble Man was one of only two albums where Gaye wrote every song alone.": {
   "ch": 17,
@@ -1824,6 +1890,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "“You really had to start paying attention to Stevie after ‘Fingertips,’” said Gaye, who, with his pal Paul, had written “Soul Bongo,” an early jazz percussion showpiece for Stevie. “No matter what else you might be doing, you’d always know that Stevie had a superior musical intelligence and was learning just as fast as you.”"
  },
+ "you’re the one guy who could become the black Sinatra.’”": {
+  "ch": 29,
+  "page": 287,
+  "sec": "ROYAL SHAFTS",
+  "para": "“I’d heard he was in trouble and needed help,” Wald told me. “So I went by his place when I was in London. He was stoned out of his mind and could hardly get out of bed. We spent the whole time talking in his bedroom. The apartment was filled with these dirty-dog women. Drug dealers were running through and God knows who else. Marvin’s little boy was asleep in the next bedroom. I just couldn’t believe this scene. Marvin said he didn’t have a dime. He even had some bad checks floating around. He asked me to buy his stock in Famous Amos Cookies. Him, me, and Helen had been the original investors. ‘Listen, Marvin,’ I said, Tm going to play big shot and just give you some money. I don’t want your stock. The way you’re killing yourself, you’re not going to have anything else to leave that kid in there. Keep the stock for him.’ I honestly can’t remember whether it was $7000 or $17,000, but I had a lot of cash—mainly American dollars, some pounds—and I put it in his hands. I also told him he was a fucking idiot for ruining his life. We talked for a little while longer, and he wanted me to call Berry Gordy for him—Berry’s a friend of mine—and get him out of his Motown deal. But I wouldn’t talk for Marvin, not as his manager, until he cleaned up. Marvin just wasn’t snorting coke, he was free-basing. ‘What a fucking shame,’ I said to him, ‘because if you’d straighten out, you’re the one guy who could become the black Sinatra.’”"
+ },
  "‘Don’t look now, Dave, but we’ve gone international.’”": {
   "ch": 26,
   "page": 244,
@@ -1919,6 +1991,12 @@ window.GAYE_REFS = {
   "page": 136,
   "sec": "GAMES",
   "para": "Marvin’s inclination was to revel in his own misery. “Artists suffer,” said Gaye, “so you don’t have to.” His psyche demanded it. His art demanded it. By design, his suffering soul became his most powerful source of artistic inspiration. Closely identifying with Jesus, Gaye saw himself as a martyr, a man whose pain could be converted into artistic statements of real worth. In that sense, he triumphed. Where he failed, though—where he so desperately wanted to succeed—was in creating a happy family. Unable to realize this goal or to break from Anna, he prolonged his domestic misery. Marvin was less frightened of stale heartaches than fresh loneliness."
+ },
+ "“As one of, if not the greatest artist to walk the face of the earth … as one of the twelve music disciples.”": {
+  "ch": 29,
+  "page": 284,
+  "sec": "ROYAL SHAFTS",
+  "para": "“As one of, if not the greatest artist to walk the face of the earth … as one of the twelve music disciples.”"
  },
  "“At Motown, stars had little power,” Kim Weston told me": {
   "ch": 12,
@@ -2424,6 +2502,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "On September 20, 1978, Gaye signed a lucrative seven-year contract with the company he mistrusted, the label with which he’d been fighting for seventeen years. Marvin had earlier demanded a million-dollar bonus in cash to be put in a suitcase which he wanted to show his father. Gaye told Shaw that he planned to tell Father, “See that? That’s $1 million. I just want you to know how successful I am.” Motown refused. Instead they offered him $600,000 per album for his next two releases, then a cool $1 million per album after that. He took the deal, though a year and a half later he’d be looking to break the contract."
  },
+ "“Stretched out in my hotel bed, naked as the day I was born,” he told me": {
+  "ch": 29,
+  "page": 276,
+  "sec": "ROYAL SHAFTS",
+  "para": "“Stretched out in my hotel bed, naked as the day I was born,” he told me, smiling as he related the incident. “Kruger had me catch a 6 A.M. plane that morning out of Switzerland. I hated getting up in the middle of the night, especially after having just performed a few hours before. But Kruger swore that was the only flight to London. So I took it. Later I learned there was an afternoon flight.”"
+ },
  "“Strictly the market. Pop meant selling whites, and R&B or soul meant selling the sisters and brothers back in the neighborhood.": {
   "ch": 9,
   "page": 73,
@@ -2435,6 +2519,12 @@ window.GAYE_REFS = {
   "page": 111,
   "sec": "PAIN IN PARADISE",
   "para": "“Tammi was the kind of chick who couldn’t be controlled by men,” said Marvin. “That can drive a man crazy—trying to deal with a woman who won’t be dominated by anyone. I loved that about Tammi. I knew we could be friends, but never lovers. Independent women hold no romantic interest for me. James Brown and David Ruffin both had stormy relationships with Tammi, but mine was completely creative. Because she was fun and funny and totally unpredictable, I loved her. Her singing style was also perfectly suited to mine. What we chiefly accomplished, though, was to create two characters—two lovers that might have been taken from a play or a novel—and let them sing to each other. That’s how the Marvin-and-Tammi characters were born. While we were singing, we were in love. The vibe was incredible. The emotions were heartfelt and real. But when the music ended, we kissed each other on the cheek and said good-bye.”"
+ },
+ "“Tell Kruger,” Marvin instructed Mrs. Price, “that I’ll appear for an extra $20,000.”": {
+  "ch": 29,
+  "page": 277,
+  "sec": "ROYAL SHAFTS",
+  "para": "“Tell Kruger,” Marvin instructed Mrs. Price, “that I’ll appear for an extra $20,000.”"
  },
  "“The Beatles and Motown had something of a friendly rivalry,” according to Marvin.": {
   "ch": 11,
@@ -2477,6 +2567,12 @@ window.GAYE_REFS = {
   "page": 184,
   "sec": "GETTING IT ON",
   "para": "“The only place any woman will ever lead me,” Gaye scoffed, “is to hell.”"
+ },
+ "“The pipe is very, very deep.": {
+  "ch": 29,
+  "page": 286,
+  "sec": "ROYAL SHAFTS",
+  "para": "“The pipe.” He paused, and then looked at me with heavy, hurting eyes. “The pipe is very, very deep. You don’t want to deal with the pipe if you can at all avoid it. I lost myself by smoking cocaine. Free-basing became another way of trying to kill myself. I came close. For long periods of time I was in a fog, and wanted to stay there. I wanted the fog to close up all around me. A lot of the things I was doing in London—just going out to a soccer match, seeing friends—I could no longer do. I couldn’t move. I cut myself off from everyone. I did nothing but stay in my room for months.”"
  },
  "“Think on God’s infinite love, God’s infinite love,” Marvin whispered": {
   "ch": 27,
