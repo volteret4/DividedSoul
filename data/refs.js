@@ -612,6 +612,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "If we stop long enough to listen to the rhythm of our heartbeat, that’s the rhythm of God’s voice. After leaving Washington, I’ve never regularly attended church, but neither did I ever leave the church. The church never left my heart. I had religion, so why did I need head doctors? No, I didn’t need to go to cocktail parties and talk about my psychoanalysis; I didn’t need no shrink. It was just a matter of changing styles.”"
  },
+ "I didn’t realize it, but I’d been choking to death on English pollution.": {
+  "ch": 30,
+  "page": 290,
+  "sec": "DEALING AND HEALING",
+  "para": "“Mostly,” Marvin said, “it was the air that made me happy. It was incredibly clean, strong air. I could breathe again. I didn’t realize it, but I’d been choking to death on English pollution. There was an energy about Ostend I found stimulating. The tempo was right, a little slow, but still hard-working. I fell in love with the city, and with Freddy’s family.”"
+ },
  "I don’t know how much Berry paid for me, but I’m sure the low figure would embarrass me.”": {
   "ch": 8,
   "page": 59,
@@ -726,6 +732,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "“Anna was the jealous type to begin with,” Marvin remembered. “I guess I didn’t make it any easier for her. I had all these hits, and maybe I was feeling a little bit more confident. I was starting to feel my oats. After all, when women are yelling for you night after night, that does something to your head. Temptations were on the rise. I fell into the habit of taking a handkerchief, mopping my brow, and throwing it into the audience. I loved watching the women fight over my sweat. It gave me a funny feeling, a thrill and a fear, because I saw how much they really wanted me. Sometimes one of those women would actually run up on stage and throw herself at me. People laugh, but being sexually assaulted by a half-crazed woman is no laughing matter.”"
  },
+ "I owed CBS something—at least a couple of grand slams.”": {
+  "ch": 30,
+  "page": 295,
+  "sec": "DEALING AND HEALING",
+  "para": "In spite of all his public statements about Motown’s commercialism and his own artistic integrity, he knew that now he had to go for the money. “No matter what,” Marvin said, “I couldn’t come up with another art album. After all, CBS was digging me out of a hole, paying off the IRS, Anna, the feds—the whole works. I felt like an old vet, a seasoned ballplayer who’d been traded to another team that still had faith in him. I owed CBS something—at least a couple of grand slams.”"
+ },
  "I owed Stephen Hill, my ex-manager, $2 million": {
   "ch": 25,
   "page": 234,
@@ -750,6 +762,12 @@ window.GAYE_REFS = {
   "sec": "THE HOUSE IN HEAVEN",
   "para": "“Not long after we met, when she was seventeen, she became pregnant and we were both happy. But she lost the baby. She was young to go through something like that. Up in Topanga, I think I was trying to shelter her from all the pain of the real world. I saw Topanga as our little house in heaven.”"
  },
+ "I suggested that Marvin needed sexual healing, a concept which broke his creative block.": {
+  "ch": 30,
+  "page": 296,
+  "sec": "DEALING AND HEALING",
+  "para": "During the course of that visit, “Sexual Healing” was written. The song was born out of our conversation concerning pornography. Gaye’s apartment was filled with sadomasochistic magazines and books by Georges Pichard, a European cartoonist in whose drawings women were sexually brutalized. I suggested that Marvin needed sexual healing, a concept which broke his creative block. For months he’d been listening to a reggae-styled music track, written by one of his sidemen, Odell Brown, and now he had the lyrics to match."
+ },
  "I suppose you could say that I loved Marvin so much that I stayed out of show business rather than compete.”": {
   "ch": 24,
   "page": 230,
@@ -767,6 +785,12 @@ window.GAYE_REFS = {
   "page": 172,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "He boasted. “I don’t compare myself to Beethoven. I must make that clear. I just think that I’m capable of all he was capable of. I think the only thing between me and Beethoven is time. Beethoven had it from the beginning. I’m acquiring it. It’s gonna take me time because I don’t have formal training.”"
+ },
+ "I told Curtis to put out a feeler to CBS.”": {
+  "ch": 30,
+  "page": 291,
+  "sec": "DEALING AND HEALING",
+  "para": "“I wasn’t going to peddle myself like I was some new kid on the block,” he explained. “I didn’t want to hear about any rejections, so I went about it differently. I decided what I wanted—to be with the biggest and best record company in the world—and I made it happen. I told Curtis to put out a feeler to CBS.”"
  },
  "I trained with the Detroit Lions and was convinced I could start at offensive end.": {
   "ch": 15,
@@ -1128,6 +1152,12 @@ window.GAYE_REFS = {
   "sec": "TROPICAL NIGHTMARE",
   "para": "Marvin paused, and after a few seconds, mentioned the name of Mrs. Jewel Price."
  },
+ "Marvin provoked his new supervisor by showing up eight hours late for the meeting.": {
+  "ch": 30,
+  "page": 296,
+  "sec": "DEALING AND HEALING",
+  "para": "When he brought the crude demonstration tape of his first version of “Sexual Healing” to Larkin Arnold in Brussels, seventy-five miles from Ostend, Marvin provoked his new supervisor by showing up eight hours late for the meeting. Arnold greeted Gaye’s tardiness with anger, reprimanding and cursing his artist. Marvin responded by declaring that his deal with CBS was off. Finally, they reconciled, Arnold heard “Sexual Healing” and immediately called America, telling his home office that, in his opinion, Gaye had just delivered the goods."
+ },
  "Marvin recorded the tune minutes after hearing it the first time.": {
   "ch": 11,
   "page": 86,
@@ -1157,6 +1187,12 @@ window.GAYE_REFS = {
   "page": 37,
   "sec": "COMING OF AGE",
   "para": "Marvin’s archetypal woman was part holy, part corrupt, reflecting his own divided nature. The whore, both real and imagined—along with her counterpart, the idealized mother-madonna figure—would live at the center of his erotic imagination and later in his most serious musical work."
+ },
+ "Maybe I am preparing to enter a campaign that I’ll never withstand.": {
+  "ch": 30,
+  "page": 297,
+  "sec": "DEALING AND HEALING",
+  "para": "“Yes, I worry about that. Maybe I am preparing to enter a campaign that I’ll never withstand. I just have to put my faith in music, and its power to heal.”"
  },
  "Miles cried like a singer, and Billie sang like an instrumentalist, and everything they both did was wrapped in the blues.”": {
   "ch": 5,
@@ -1241,6 +1277,12 @@ window.GAYE_REFS = {
   "page": 64,
   "sec": "MOTOWN",
   "para": "“Now King Berry didn’t have one queen, he really had four. His four sisters. They were all real smart chicks. Esther was the oldest and the most educated. She married a politician and had a lot of class—all the Gordys did—and wound up taking care of the artists and damn near running the shop. Loucye was another doll. When she died in 1965, it broke my heart. Loucye was this bubbly, vivacious girl, the fox of the family, and a beautiful lady. She came in the office and figured out a way to collect money from the distributors. BG used to say if it wasn’t for Loucye he’d never be able to keep the doors open. Gwen and Anna were the prima donnas. They had a hell of a reputation for being party girls. They were physical—that’s true of all the Gordys—and spoiled. Gwen and Anna were glamorous, always dressed to the teeth and interested in beauty. They were also fiercely loyal to their brother. I admired that. Fact is, the Gordys were the tightest family I’d ever seen. I never saw rivalry between them. No one could break into the circle, though I probably came as close as anyone.”"
+ },
+ "Occasionally, as they crossed borders, Gaye hid his son under blankets.": {
+  "ch": 30,
+  "page": 292,
+  "sec": "DEALING AND HEALING",
+  "para": "Bubby was a problem, since Marvin still didn’t have his passport, but he came along anyway. Occasionally, as they crossed borders, Gaye hid his son under blankets."
  },
  "Oddly enough, Marvin wrote “Baby, I’m for Real” with Anna.": {
   "ch": 15,
@@ -1451,6 +1493,12 @@ window.GAYE_REFS = {
   "page": 160,
   "sec": "THE LURE OF ADORATION",
   "para": "“I was still mad at Washington. What had they ever given me?” Marvin asked. “Why should they all of a sudden love me, now that I’d sold a few records? Where were they when I needed them? For years I’d considered Detroit, not Washington, my home. I resented the whole thing and I desperately didn’t want to do it. Until the last few minutes, I wasn’t going to go. You see, I’d just turned thirty—three. That was the age that Jesus died. I had a strong fear that I’d never live longer than Jesus, and I wasn’t interested in exposing myself any more than necessary. Getting through that year—worrying about airplane crashes or dying of cancer—wasn’t easy.”"
+ },
+ "That woman and I can’t spend a day together without drawing blood.": {
+  "ch": 30,
+  "page": 293,
+  "sec": "DEALING AND HEALING",
+  "para": "“Though we were divorced,” Marvin said, “I had high hopes for reconciliation. In fact, for weeks before they arrived, I couldn’t sleep. I just knew that everything would fall together. Instead it fell apart. I let her have her son back, but I almost changed my mind. That woman and I can’t spend a day together without drawing blood. Why? Why? I keep asking myself why. It doesn’t matter. She left me alone, utterly and completely alone. Without Bubby, I had no one.”"
  },
  "That’s how the Marvin-and-Tammi characters were born.": {
   "ch": 13,
@@ -1914,6 +1962,12 @@ window.GAYE_REFS = {
   "sec": "GIVING IT UP",
   "para": "“So many times,” Marvin’s mother said, “my son would call me and say, ‘If only Father could throw his arms around me and squeeze me and hold me and tell me he loves me!’"
  },
+ "‘If you want out, and we get the right price for you, then go.’": {
+  "ch": 30,
+  "page": 291,
+  "sec": "DEALING AND HEALING",
+  "para": "“Berry surprised me,” Gaye said. “After all we’d been through, all the fussing and fighting, he acted like a gentleman. ‘If you want out, and we get the right price for you, then go.’ BG proved himself to me. I really believe he’s a great man.”"
+ },
  "‘It’s either Marvin Gaye Live from Cuba,’ he said, Or nothing.’ So it was nothing.”": {
   "ch": 26,
   "page": 245,
@@ -2021,6 +2075,12 @@ window.GAYE_REFS = {
   "page": 69,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "“Berry thought like an oil man,” Marvin once said. “Drill as many holes as you can and hope for at least one gusher. He wound up with a whole oil field.”"
+ },
+ "“Berry was fascinated by Napoleon, and so am I,” Marvin said. “It’s no accident that I’m recording here.”": {
+  "ch": 30,
+  "page": 297,
+  "sec": "DEALING AND HEALING",
+  "para": "“Berry was fascinated by Napoleon, and so am I,” Marvin said. “It’s no accident that I’m recording here.”"
  },
  "“Berry wouldn’t put it out,” Gaye told me, “because he didn’t think it was commercial. At least that’s what he said.”": {
   "ch": 26,
@@ -2250,6 +2310,12 @@ window.GAYE_REFS = {
   "sec": "WANTING",
   "para": "“I tried to make it clear,” he told me, “that there was room for only one singer in our family.”"
  },
+ "“I was afraid of manipulating myself,” he told me.": {
+  "ch": 30,
+  "page": 295,
+  "sec": "DEALING AND HEALING",
+  "para": "“I was afraid of manipulating myself,” he told me. “I was very afraid that I no longer knew how to make a purely commercial record.”"
+ },
  "“I was always asking Marvin to let Frankie sing with us, but Marvin never would,” Reese reported.": {
   "ch": 6,
   "page": 42,
@@ -2364,6 +2430,12 @@ window.GAYE_REFS = {
   "sec": "OUT THERE",
   "para": "He discussed his insecurities—fear of flying and fear of peaking too early in his career with nowhere to go but down. “I’m a little afraid of living,” he told the reporter. “Most fears stem from sin. To limit one’s sins must assuredly limit one’s fear, thereby bringing’ more peace to one’s spirit.”"
  },
+ "“I’m disappointed with America. I’m disappointed with governments.": {
+  "ch": 30,
+  "page": 296,
+  "sec": "DEALING AND HEALING",
+  "para": "The high point of the documentary came with Marvin’s comments on the United States: “I’m disappointed with America. I’m disappointed with governments. To govern people is a tremendous responsibility. It should be in the hands of those who are righteous, sane, and moral.” He then paused dramatically and added, “But I’m disappointed in myself. Because perhaps I’m selfish, perhaps because I’m spoiled.”"
+ },
  "“I’m going to work hard for you, baby,“was something he liked to tell his audience.": {
   "ch": 24,
   "page": 226,
@@ -2441,6 +2513,12 @@ window.GAYE_REFS = {
   "page": 98,
   "sec": "SUPREME WEALTH",
   "para": "“Motown understood the transistor radio,” said Marvin. “Back then transistors were selling like hot cakes, and Motown songs were mixed to sound good on transistors and car radios. Diana’s voice was the perfect instrument to cut through those sound waves."
+ },
+ "“Motown wanted $2 million,” Shaw told me, “but settled for $1.5 million, plus an override from CBS.": {
+  "ch": 30,
+  "page": 294,
+  "sec": "DEALING AND HEALING",
+  "para": "“Motown wanted $2 million,” Shaw told me, “but settled for $1.5 million, plus an override from CBS. Marvin would get $600,000 per album and was to deliver an album every nine months.”"
  },
  "“Mrs. Price,” Marvin’s mother told me, “could get him to do things other people—even I—couldn’t.": {
   "ch": 22,
@@ -2568,6 +2646,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "“The only place any woman will ever lead me,” Gaye scoffed, “is to hell.”"
  },
+ "“The only thing to achieve is the exit, the escape.”": {
+  "ch": 30,
+  "page": 294,
+  "sec": "DEALING AND HEALING",
+  "para": "Later, in chilling anticipation of his own death, Gaye said, “The only thing to achieve is the exit, the escape.”"
+ },
  "“The pipe is very, very deep.": {
   "ch": 29,
   "page": 286,
@@ -2609,6 +2693,12 @@ window.GAYE_REFS = {
   "page": 84,
   "sec": "SCORING",
   "para": "“When Marvin left,” his old friend Reese Palmer recalled, “he left without looking back … that hurt a lot of us.”"
+ },
+ "“When Marvin said to me that he loved the sea,” Freddy told me, “I knew he would come home to live with us.”": {
+  "ch": 30,
+  "page": 290,
+  "sec": "DEALING AND HEALING",
+  "para": "“When Marvin said to me that he loved the sea,” Freddy told me, “I knew he would come home to live with us.”"
  },
  "“When they put the record out,” Clarence said, “Berry Gordy was listed as producer. He wasn’t even in town when we did it.”": {
   "ch": 11,
