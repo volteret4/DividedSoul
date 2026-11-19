@@ -1,0 +1,63 @@
+GAYE.chapter({ n: 24, label: 'Cap. 23', title: 'Giving It Up' });
+GAYE.add([
+  { id: 'divorcio-anna', note: '1976: se ve como un «forajido», un vaquero de John Wayne escondido en su rancho de Arizona. Variety: dos condenas de cinco días por desacato en el caso de la pensión, y los abogados de Anna no lo encuentran. En Buffalo nueve mil personas esperan tres horas bajo la lluvia y el concierto no se hace. Shaw: «Marvin tenía que llegar hasta el final». Hasta que propone: «Págale con música».',
+    refs: [
+      { q: 'An outlaw! That’s how I began thinking of myself.' },
+      { q: 'Marvin Gaye faces two consecutive five-day terms in L. A. County Jail for contempt of court' },
+      { q: '“Pay her off in music,” was the lawyer’s plan.' },
+    ] },
+  { id: 'managers', note: 'Right On Productions, su empresa para el estudio, se niega a alquilárselo a Motown. Pierde 100 000 dólares en el equipo de baloncesto New Orleans Jazz y más en pozos de petróleo secos; su única buena inversión: 10 000 dólares por el 13 % de las galletas Famous Amos de Wally Amos. «¿Cuánto me he gastado en coca? No quiero saberlo… llámame drogadicto y obseso sexual. ¿No escribiste lo mismo de Ray Charles?» Jeanne: los «malos» que le robaban los traía él.',
+    artists: ['Wally Amos', 'Jeanne Gay'],
+    labels: ['Right On Productions', 'New Orleans Jazz', 'Famous Amos'],
+    refs: [
+      { q: 'his only sound investment was with Wally Amos.”' },
+      { q: 'You’d have to call me a drug addict and a sex freak.' },
+      { q: 'were people who Marvin brought in. If they took his money—and they did—it was at his invitation.”' },
+    ] },
+  { id: 'padre', note: 'Le pedía que fuera de gira con él, incluso a Europa; el padre, encerrado en su cuarto de Gramercy, siempre se negaba. A la madre: «¡si papá me abrazara y me dijera que me quiere!». «Mi hijo no se creía de verdad que nadie le quisiera.» Marvin vuelve varias veces a Lexington a ver al obispo Rawlings, «buscando algo que había perdido».',
+    artists: ['S. P. Rawlings'],
+    refs: [
+      { q: '‘If only Father could throw his arms around me and squeeze me and hold me and tell me he loves me!’' },
+      { q: 'My son didn’t really believe that anyone loved him.”' },
+      { q: 'I felt drawn to the place, like I was looking for something I’d once lost.”' },
+    ] },
+  { id: 'londres-76', name: 'Live at the London Palladium', family: 'deseo', start: 1976, end: 1977, place: 'Londres (Palladium, Albert Hall)',
+    aka: ['London Palladium', 'Leslie Drayton'],
+    desc: 'Septiembre de 1976: tras cancelar en el último momento por miedo a volar sobre el océano, Stephen Hill lo convence. Vuelve a Inglaterra tras diez años con Zeola, Wally Cox y la orquesta de Leslie Drayton (Nolan Smith, Bugsy Wilcox, Melvin Webb, la vibrafonista Elmira Amos, Fernando Harkness). Traje oscuro, chaleco y pajarita amarillos; llama «baby» a todo el público femenino, se desnuda a medias en «Let’s Get It On» y tira pañuelos sudados. The Times: «el Cary Grant del soul». Se sentía comprendido por los ingleses («más salvajes de lo que aparentan») y fantaseaba con quedarse, pero no podía dejar a sus hijos ni a su madre.',
+    artists: ['Stephen Hill', 'Zeola Gaye', 'Wally Cox', 'Leslie Drayton', 'Nolan Smith', 'Bugsy Wilcox', 'Melvin Webb', 'Elmira Amos', 'Fernando Harkness'],
+    labels: ['Tamla', 'London Palladium', 'Royal Albert Hall'],
+    tracks: [],
+    influences: ['inglaterra-1964', 'gira-74'],
+    refs: [
+      { q: 'like the Cary Grant of soul, and just as relaxed' },
+      { q: '“I’m going to work hard for you, baby,“was something he liked to tell his audience.' },
+      { q: 'They’re wilder than they let on.' },
+    ] },
+  { id: 'got-to-give-it-up', name: 'Got to Give It Up: disco a su manera', family: 'deseo', start: 1976, end: 1977, place: 'Estudio de Sunset',
+    aka: ['Got to Give It Up', 'Art Stewart', 'Dancing Lady', 'disco'],
+    desc: 'Motown le grita «¡disco, disco!» y necesita llenar la cuarta cara del doble en directo. Su ingeniero Art Stewart, que grababa a escondidas sus improvisaciones (como la inédita «Life’s Opera»), arma a lo largo de meses un tema de casi doce minutos con Marvin tocando una botella de zumo de pomelo, gente charlando y un «Say, Don» a Don Cornelius, de Soul Train. Se llamaba «Dancing Lady» por la chica de su sueño, y cuenta su miedo a bailar: el chico que se queda en la pared y por fin se suelta. Con «Disco Lady» de Johnnie Taylor como referencia. N.º 1 soul y pop en 1977: un disco «ligero y fresco, sin salsas espesas», el control de la excitación que heredará Michael Jackson. Jan y Frankie hacen coros; Jan nunca volverá a grabar con él. Respetaba a Moroder, Van McCoy y los Blue Notes, pero Teddy Pendergrass, con su barba y su voz operística, le inquietaba.',
+    artists: ['Art Stewart', 'Don Cornelius', 'Johnnie Taylor', 'Janis Hunter', 'Frankie Gaye', 'Giorgio Moroder', 'Donna Summer', 'Van McCoy', 'Teddy Pendergrass', 'Michael Jackson'],
+    labels: ['Tamla', 'Soul Train'],
+    tracks: [
+      { a: 'Marvin Gaye', t: 'Got to Give It Up', y: 1977, ess: 1 },
+      { a: 'Johnnie Taylor', t: 'Disco Lady', y: 1976 },
+      { a: 'Van McCoy', t: 'The Hustle', y: 1975 },
+      { a: 'Harold Melvin & the Blue Notes', t: 'Don’t Leave Me This Way', y: 1975 },
+      { a: 'David Ruffin', t: 'Walk Away from Love', y: 1975 },
+    ],
+    influences: ['londres-76', 'janis'],
+    refs: [
+      { q: 'disco disco disco disco! I couldn’t be bothered.' },
+      { q: 'He was doing crazy things like banging on a half-filled grapefruit juice bottle for rhythm.' },
+      { q: 'Teddy even grew abeard like mine.”' },
+      { q: 'After “Got to Give It Up” he never allowed her to record with him again.' },
+    ] },
+  { id: 'frankie', note: 'Frankie esperaba que Marvin le grabara; él quería abrirle una tienda. «Le quería tanto que me quedé fuera del espectáculo para no competir». Mientras, Marvin lanza a otro Frankie: Frankie Beverly y Maze, a los que busca dinero y lleva de teloneros; en un año tienen un disco de oro.',
+    artists: ['Frankie Beverly', 'Maze'],
+    tracks: [
+      { a: 'Maze featuring Frankie Beverly', t: 'While I’m Alone', y: 1977 },
+    ],
+    refs: [
+      { q: 'I suppose you could say that I loved Marvin so much that I stayed out of show business rather than compete.”' },
+    ] },
+], 24);

@@ -42,6 +42,12 @@ window.GAYE_REFS = {
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“When we moved to Los Angeles, my husband became even more withdrawn,” Marvin’s mother told me. “He’d never change. He’d never give Marvin any affection. He treated me the same way. After we moved from Washington, we had no sex—ever. Also, for the first time, he started using profanity. That made me very unhappy.”"
  },
+ "After “Got to Give It Up” he never allowed her to record with him again.": {
+  "ch": 24,
+  "page": 230,
+  "sec": "GIVING IT UP",
+  "para": "After “Got to Give It Up” he never allowed her to record with him again."
+ },
  "Along with his wives and father, the U.S. government—especially the IRS—would become one of his chief adversaries.": {
   "ch": 6,
   "page": 34,
@@ -53,6 +59,12 @@ window.GAYE_REFS = {
   "page": 52,
   "sec": "BREAKOUT",
   "para": "Harvey eventually broke Etta’s heart. In fact, later she’d record a song called “All I Could Do Was Cry.” The song was about a girl who watches her man marry someone else. Amazingly, one of the tune’s co-composers, Gwen Gordy, turned out to be the very woman Harvey Fuqua married."
+ },
+ "An outlaw! That’s how I began thinking of myself.": {
+  "ch": 24,
+  "page": 223,
+  "sec": "GIVING IT UP",
+  "para": "“There were times,” he said, “when I could have been nice. Times when I might have acted the part of the gentleman. But, you see, I was also scared. I’d put myself in this public position of having two children with my girlfriend. In my mind, that put me outside the law. An outlaw! That’s how I began thinking of myself. So I got this place in Arizona where I’d hide out. I was a cowboy on the open range. I would have liked to be one of those dudes in the old John Wayne movies, gun strapped to my thigh, taking shit off no one. I wasn’t about to let no woman tell me what to do.”"
  },
  "Anna filed for divorce in early 1975": {
   "ch": 21,
@@ -264,6 +276,12 @@ window.GAYE_REFS = {
   "sec": "THE LURE OF ADORATION",
   "para": "“Frankly, I enjoy the teasing part more than the sex,” he once said. “After you’ve had as much as I’ve had, the thrill is more in the mind than the body.“He saw the ritual of cancelling concerts—of being begged to sing—as a form of sexual foreplay, reasoning that it made his female fans want him that much more. His fear of performing, however, was very real, and only one person had the power to persuade him to sing in public—Mother."
  },
+ "From the day it opened in late 1975 to the day a bankruptcy court shut it down four years later": {
+  "ch": 23,
+  "page": 215,
+  "sec": "WANTING",
+  "para": "“Sexy” is the word Marvin liked to use in describing his studio, and sexy was his mood when he began working there. From the day it opened in late 1975 to the day a bankruptcy court shut it down four years later, the studio was a magnet for Marvin’s family and friends, consultants and conspirators, parasites and partners, a steady stream of people looking for an audience with the prince—a job, an interview, investment capital, or the simple pleasure of his company."
+ },
  "From the moment I saw a glimpse of stardom, I had a strong desire to wipe out my past—every last bit of it.": {
   "ch": 7,
   "page": 54,
@@ -408,6 +426,18 @@ window.GAYE_REFS = {
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“Marvin had a falling out with Abner,” said Jeanne Gay. More and more, Marvin began depending on his sister to oversee his business affairs. “But then again, Marvin was never able to maintain a relationship with any manager or record executive. He turned them all into glorified secretaries. Me included.”"
  },
+ "He was doing crazy things like banging on a half-filled grapefruit juice bottle for rhythm.": {
+  "ch": 24,
+  "page": 229,
+  "sec": "GIVING IT UP",
+  "para": "“He had this riff that seemed very danceable. He was doing crazy things like banging on a half-filled grapefruit juice bottle for rhythm. Well, I kept stuff like that on the track. Also people talking in the studio—that loose feeling. At one point, Don Cornelius from Soul Train comes in and Marvin shouts out, ‘Say, Don.’ I left that in. Marvin wasn’t sure of what I was doing, but he left me alone to piece the song together. On Christmas Day, 1976, after working on it for months, I ran it over to his house in Hidden Hills. He liked it but still wasn’t sure—a typical Marvin reaction. Soon everyone was liking it. And when it came out in ’77, it shot to Number One—soul and pop.”"
+ },
+ "He won Grammys the way Disney used to win Oscars—by the truckload.": {
+  "ch": 23,
+  "page": 220,
+  "sec": "WANTING",
+  "para": "“Of course I was jealous of Stevie,” Marvin admitted. “How could I not be? He won Grammys the way Disney used to win Oscars—by the truckload. But Stevie deserved them. He’d become a great artist, and even though I’d been there as an influence for him and maybe even an inspiration, his songwriting was in a class by itself. I was envious but, believe me, I was also very proud. I didn’t even mind when Paul Simon won in ’75. I also considered his Still Crazy After All These Years the story of my life. Lou Ra wis, though, was another matter. When he won again in ’77 I knew I was going to punch him out on national television. God intervened on Ra wis’ behalf and kept me in my seat.”"
+ },
  "He worried that he could no longer count on social issues for sales.": {
   "ch": 17,
   "page": 162,
@@ -522,6 +552,12 @@ window.GAYE_REFS = {
   "sec": "ORIGINAL SIN",
   "para": "“My father told me the story,” Marvin remembered as an adult, “and it made a deep impression upon me. I felt a kinship to Miss Anderson, just as I’d always feel a great kinship with Mahalia Jackson. These were triumphant women. They were among the greatest singers the world had ever known. My father himself had a great voice and the capacity to become a great singer. Early on, I realized—largely through dreams—that I, too, was destined to be such a singer.”"
  },
+ "I felt drawn to the place, like I was looking for something I’d once lost.”": {
+  "ch": 24,
+  "page": 225,
+  "sec": "GIVING IT UP",
+  "para": "“I went to Lexington several times,” Gaye told me. “I liked talking to Bishop Rawlings. I felt drawn to the place, like I was looking for something I’d once lost.”"
+ },
  "I felt like Muhammad Ali. No North Vietnamese had done nothing to me.": {
   "ch": 14,
   "page": 129,
@@ -605,6 +641,12 @@ window.GAYE_REFS = {
   "page": 189,
   "sec": "THE HOUSE IN HEAVEN",
   "para": "“Not long after we met, when she was seventeen, she became pregnant and we were both happy. But she lost the baby. She was young to go through something like that. Up in Topanga, I think I was trying to shelter her from all the pain of the real world. I saw Topanga as our little house in heaven.”"
+ },
+ "I suppose you could say that I loved Marvin so much that I stayed out of show business rather than compete.”": {
+  "ch": 24,
+  "page": 230,
+  "sec": "GIVING IT UP",
+  "para": "“We sounded so much alike,” Frankie told me, “that Marvin worried about my voice being out there. He was still trying to convince me to open some sort of boutique. I didn’t want to do that, but I didn’t want to upset him. I suppose you could say that I loved Marvin so much that I stayed out of show business rather than compete.”"
  },
  "I taught her—I forced her—to torture me.": {
   "ch": 22,
@@ -768,6 +810,12 @@ window.GAYE_REFS = {
   "sec": "SERMON FROM THE STUDIO",
   "para": "To some degree, there were musical precedents for What’s Going On. Curtis May field had long been intrigued by social themes, incorporating Christianity into “People Get Ready,” a pop hit in 1965. Isaac Hayes, whose Hot Buttered Soul profoundly influenced Marvin, was voicing strings and writing his quasi-symphonic score for Shaft at about the same time Gaye was composing What’s Going On."
  },
+ "It actually took thirteen months—just to lay down Marvin’s vocals.”": {
+  "ch": 23,
+  "page": 213,
+  "sec": "WANTING",
+  "para": "“Berry played ‘I Want You” for Marvin, just the one song,” Ware told me, “and the next day Marvin was ready to do the album. Actually I’d written it as a vocal album for myself, but I was pleased to have Marvin sing my songs. It was rare for Marvin to let anyone produce him, so naturally I was honored. I thought we could do it all in a matter of weeks. It actually took thirteen months—just to lay down Marvin’s vocals.”"
+ },
  "It made me extremely nervous to even think about a soul singer who gets shot to death.”": {
   "ch": 18,
   "page": 174,
@@ -828,6 +876,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“I’ve been called a black George Plimpton, and I resent that. George is cool, but I didn’t play ball to gather material for a book. I played because I had every intention of becoming a superstar athlete. I played for keeps. I liked hanging around athletes because I respected their courage. It takes courage, day in and day out, to put your body on the line. I used to laugh when the jocks told me it took guts to get up and sing. They were right, because that was more frightening to me than catching a football in a crowded stadium. Ever try singing to 20,000 women, all of them screaming and grabbing for a piece of your hide? Getting popped by some defensive end is mild in comparison.”"
  },
+ "Janis did give birth to her second child, Frankie Christian “Bubby,”": {
+  "ch": 23,
+  "page": 218,
+  "sec": "WANTING",
+  "para": "Like a little boy afraid of jumping off the diving board, Marvin built up his courage—“soon,” he repeated, “soon”—trying to convince himself that he was man enough to do the job. He viewed oral copulation as a complete commitment of his affection. For Gaye, the act was the highest expression of his love since, as he told me several times, it was something he didn’t enjoy. It’s no accident that “giving head” was joined to the notion of conception and pregnancy, further validating his feelings of sacred romance and familial sanctity. In fact, in November of 1975, Janis did give birth to her second child, Frankie Christian “Bubby,” born a day after his namesake, Marvin’s brother."
+ },
  "Jesus said forgive, and I needed to forgive, and be forgiven.": {
   "ch": 16,
   "page": 150,
@@ -875,6 +929,12 @@ window.GAYE_REFS = {
   "page": 65,
   "sec": "MOTOWN",
   "para": "“I know what you’re going to say,” Gaye said to me. “You’re going to play shrink and say that I really married my mother. Well, you’re not the first to hit me with that. When you go with a woman seventeen years older than you, people start talking. In the beginning, though, the age difference between Anna and me didn’t seem that important. She was thirty-seven, I was twenty and still a very lonely little boy. Aside from silly flings that never lasted, I never had a real girlfriend before, especially someone who cared about me like Anna did. There was real passion between us. Anna was more experienced than me, and I needed a loving teacher. Every man does. From a professional point of view I have to say—and I hope this doesn’t sound too cold—that I knew just what I was doing. Marrying a queen might not make me king, but at least I’d have a shot at being prince. Besides, Anna was into my music more than any woman I’d ever known. She’d beg me to play and sing and write, and because she had wonderful ears, she appreciated my every move. She complimented me. She called me her fine young thing. She was more forward than I was. She knew she wanted me and she got me. But I also knew what I wanted; I wanted her to help me cut into that long line in front of the recording studio.”"
+ },
+ "Marvin Gaye faces two consecutive five-day terms in L. A. County Jail for contempt of court": {
+  "ch": 24,
+  "page": 224,
+  "sec": "GIVING IT UP",
+  "para": "“Marvin Gaye faces two consecutive five-day terms in L. A. County Jail for contempt of court in an alimony and child support case if authorities catch up with him,” reported Variety on August 18, 1976. “But attorneys … who represent Gaye’s estranged wife, Anna, admit they have been stumped in their efforts to find the singer.”"
  },
  "Marvin Gaye, along with his colleagues, sang harmony on Chuck Berry’s irresistible “Back in the U.S.A.” and “Almost Grown.”": {
   "ch": 7,
@@ -995,6 +1055,12 @@ window.GAYE_REFS = {
   "page": 88,
   "sec": "GAIN AND STRAIN",
   "para": "“I taught them discipline and also how to handle people. My philosophy was, don’t antagonize the enemy, obligate him. The kids had three main teachers. Maurice King taught them music two hours a day. Cholly Atkins taught them dancing for two hours, and I taught them manners. Be warm, I told them, be natural, be poised, and be positive. I gave them stage presence. I taught them how to walk, how to talk, how to hold a microphone. I explained that body communication is an art. Mr. Gordy was interested in giving these young artists class. They were kids who didn’t even know how to shake hands or look someone directly in the eye—eye contact is so important—or say please and thank you. The Temptations and Supremes were good students, though in the beginning Diana tried too hard to make funny faces and play with her eyes. That was phony, and she finally stopped. Marvin Gaye would argue with me. I’d tell him to keep his eyes opened when he sang, and he’d refuse. He also didn’t like coming to class, but in his case I don’t think it mattered much. Marvin had fine manners and poise. He was a person of breeding. My biggest responsibility was with the girls, and when the Supremes became an international sensation, I went on the road with them. I served as their chaperone, polishing and dying their shoes, even mending their dresses. For all that, I have years of memories and nothing else.”"
+ },
+ "My son didn’t really believe that anyone loved him.”": {
+  "ch": 24,
+  "page": 226,
+  "sec": "GIVING IT UP",
+  "para": "“Marvin didn’t believe me. My son didn’t really believe that anyone loved him.”"
  },
  "My wife was seventeen years older than I was and this girl was seventeen years younger.": {
   "ch": 19,
@@ -1170,6 +1236,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "Still infatuated with Billie Holiday’s Lady in Satin, Marvin asked Clarence to include two of its songs, “You’ve Changed” and “I’ll Be Around.” There were also songs associated with Ray Charles and Frank Sinatra. You can feel the seriousness of Marvin’s effort. If anything, he tried too hard, enunciating like Nat Cole, slurring like Sinatra. His ballad style remained self-conscious and restrained. He held back feelings in favor of what he considered “correct” interpretations. The results were flat, though on the uptempo numbers he swung effortlessly, demonstrating his natural feel for jazz. Marvin’s musical craft showed signs of refinement. Still, the album failed commercially, while his first collection of Greatest Hits, released a month afterward, sold briskly."
  },
+ "Teddy even grew abeard like mine.”": {
+  "ch": 24,
+  "page": 228,
+  "sec": "GIVING IT UP",
+  "para": "“I loved ‘Don’t Leave Me This Way,’” said Gaye. “I recognized Teddy’s strength early on. But I could see that Gamble-Huff in Phillywere planning the same thing for Teddy that Berry was planning for Jermaine. Teddy even grew abeard like mine.”"
+ },
  "Teenage dance music is based on rhythm, and the Motown rhythm section was the Rock of Gibraltar.": {
   "ch": 9,
   "page": 72,
@@ -1320,6 +1392,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“Motown was filled with petty thieves,” Seltzer told me during a four-hour interview in Detroit. “Lots of little people were involved in larceny. Berry could trust only three executives—George Schiffer, Suzanne dePasse, and me. BG always suffered with organizational problems. Administration wasn’t his strength. Berry was a deal cutter. He also knew how to deal with the white community. He looked good, smelled pretty, spoke well, and displayed fine manners. He was acceptable. But he was also a reckless gambler. On any given day, he could lose $50 to $100,000—on a whim. Yet for all his risk taking, he understood how to control his artists. In those years, he’d never allow an artist to produce himself, not even Marvin. Smokey was the only exception. Berry created a caste system, but he also established a community with great creative cooperation. Most of the problems you hear the artists bitch about were caused by themselves. They just didn’t pay their taxes.”"
  },
+ "They’re wilder than they let on.": {
+  "ch": 24,
+  "page": 227,
+  "sec": "GIVING IT UP",
+  "para": "“I had suffered ever since Berry wouldn’t let me tour there in the sixties,” Gaye said, for the moment forgetting his fear of live performing and long plane rides. “And now I saw that the English did understand me, and I understood them. They’re wilder than they let on. And they appreciate sexual nuances. I said I’d be back and I kept my promise. It still seemed to be a place where I could live out my days with dignity—another fantasy which I’d make come true—stealing away to secret orgies with duchesses and countesses.”"
+ },
  "This was fresh fuel for Marvin’s madonna-whore complex": {
   "ch": 19,
   "page": 183,
@@ -1367,6 +1445,12 @@ window.GAYE_REFS = {
   "page": 190,
   "sec": "THE HOUSE IN HEAVEN",
   "para": "“I love earrings,” he said. “I also adore lace collars and silky kimonos. Were it not for Father, I might even permit myself to wear such outrages in public.”"
+ },
+ "What he really needed—and never got—was a wife who wouldn’t do any drugs with him.": {
+  "ch": 23,
+  "page": 218,
+  "sec": "WANTING",
+  "para": "“Now Janis wasn’t ready for Marvin. She was too young. And he took advantage of that. She meant well, but Marvin didn’t. What he really needed—and never got—was a wife who wouldn’t do any drugs with him. He needed someone sober and strong.”"
  },
  "When I asked Marvin what the tune was about, he thought for a moment and said, “The perfect mother and perfect wife.”": {
   "ch": 7,
@@ -1434,11 +1518,29 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“His problem was insecurity,” Beans Bowles added. “He was this very shy guy who worried all the time. That’s why he took to Anna. She helped him, and he genuinely loved her. Anna was good for Marvin—up to a point. Afterward, it was clear that no one could have been any better. Same was true with Marvin and Berry. BG understood Marvin. Knew how to handle him. Marvin, though, was paranoid about Berry. He didn’t trust him one hundred percent, and with good reason. You see, Berry had control of Marvin through Anna."
  },
+ "You’d have to call me a drug addict and a sex freak.": {
+  "ch": 24,
+  "page": 225,
+  "sec": "GIVING IT UP",
+  "para": "“How much have I spent on toot over the years?” he laughed when I posed the question in 1982. “I don’t even want to think about it. To be truthful, I’ve been careful never to keep track. I don’t want to know. My attitude has always been, whenever good blow is around, buy it, regardless of price. It’s cost me hundreds of thousands of dollars. Maybe more. Enough to certify me as a fool. You’d have to call me a drug addict and a sex freak. Didn’t you write the same thing about Ray Charles? Wasn’t that his story? Well, if it’s good enough for Uncle Ray, it’s good enough for me,” he laughed."
+ },
  "a chilling prophecy of his own death.": {
   "ch": 17,
   "page": 164,
   "sec": "THE LURE OF ADORATION",
   "para": "The type style on the album cover showed Marvin Gaye’s name shot through with bullets, and the final musical figure in the suite, after Marvin repeated the word “trouble” over and again, was the sudden sound of a pistol shot, a chilling prophecy of his own death."
+ },
+ "a loft bedroom with a one-way window looking into the studio below.": {
+  "ch": 23,
+  "page": 214,
+  "sec": "WANTING",
+  "para": "The studio, on Sunset near Hudson, was a free-standing building, one-and-a-half stories high, with plain brick fagade and no identification other than the street address. There were no windows, only a front and back door. It had been built according to Marvin’s design. The security was tight, the decoration slick, with earth-tone carpets, dramatic wooden walls, and plush furniture. In addition to a spacious control room and a studio large enough to contain Marvin’s eighteen-piece band during rehearsals, there were two reception areas, and upstairs, accessible only through a single heavily locked door, a loft bedroom with a one-way window looking into the studio below. Gaye’s mini-apartment had a small refrigerator, stove, large closet, bath, and shower. The centerpieces were Marvin’s custom-made king-size waterbed and Jacuzzi big enough to accommodate a dozen consenting adults."
+ },
+ "a position that requires little but an affectation of constant, rather jaded horniness.”": {
+  "ch": 23,
+  "page": 219,
+  "sec": "WANTING",
+  "para": "“With Barry White on the wane,” wrote Vince Aletti in Rolling Stone, “Marvin Gaye seems determined to take over as soul’s master philosopher in the bedroom, a position that requires little but an affectation of constant, rather jaded horniness.”"
  },
  "and half the credit for productions should go to the musicians … they didn’t get enough credit.”": {
   "ch": 9,
@@ -1464,6 +1566,12 @@ window.GAYE_REFS = {
   "sec": "SUFFERING IN STYLE",
   "para": "“Now one of the first things I had to learn about Marvin,” said Shaw, “was that contracts don’t really mean anything to him. He saw them as pieces of paper and nothing more. He was a genius—there’s no doubt—and a man capable of tremendous acts of charity, but, oh Lord, Marvin didn’t know the meaning of the word responsibility!"
  },
+ "disco disco disco disco! I couldn’t be bothered.": {
+  "ch": 24,
+  "page": 228,
+  "sec": "GIVING IT UP",
+  "para": "“Motown was screaming disco at me,” Gaye remembered, “disco disco disco disco! I couldn’t be bothered. But I also had this problem. The live-London thing took up three sides and we needed something to fill side four. Perfect for a long disco song, they insisted. Round out the record with disco. I stuck my nose in the air and said, ‘fuck it,’ but don’t you know that in the end I did what they wanted—my way.”"
+ },
  "got off the plane, and was so scared I got on another plane and went back to Detroit": {
   "ch": 12,
   "page": 101,
@@ -1476,6 +1584,18 @@ window.GAYE_REFS = {
   "sec": "SOUNDS COMING ’ROUND",
   "para": "James Jamerson died in 1983. During one of Marvin’s final performances, he stopped his “Sexual Healing” show at the Greek Theater in Los Angeles and prayed to Jesus for the bassist’s soul."
  },
+ "his only sound investment was with Wally Amos.”": {
+  "ch": 24,
+  "page": 224,
+  "sec": "GIVING IT UP",
+  "para": "“In that mid-seventies period when Marvin’s earnings were so high,” Jeanne Gay said, “his only sound investment was with Wally Amos.”"
+ },
+ "like the Cary Grant of soul, and just as relaxed": {
+  "ch": 24,
+  "page": 227,
+  "sec": "GIVING IT UP",
+  "para": "Geoffrey Wansell in the London Times was more expansive. Reviewing the Albert Hall concert, he reported, “Marvin Gaye swayed, immaculate in electric blue suit and red velvet waistcoat and bow tie, like the Cary Grant of soul, and just as relaxed…. It was an entirely young audience of both white and black, whose enthusiasm almost threatened to stop the show at at least one point.”"
+ },
  "she slapped him across his face, breaking his sunglasses.": {
   "ch": 21,
   "page": 201,
@@ -1487,6 +1607,12 @@ window.GAYE_REFS = {
   "page": 184,
   "sec": "GETTING IT ON",
   "para": "“Just about this time, we completed the negotiations on Marvin’s contract, which naturally was very juicy—a multimillion—dollar deal. But Marvin being Marvin, he had one crazy demand—that Berry Gordy personally sign a check made out to him for $1 million. No one else’s signature would do. I agreed, figuring that Berry wouldn’t care. I called Berry’s house, but they explained it wasn’t possible because Berry was about to fly off to Europe. I had to get that check signed. I was afraid that Marvin might change his mind and call off the deal. I drove to the airport, like a New York cabby, in fifteen minutes, got Berry’s signature just before he stepped on the plane, blew up the check a hundred times its size, and presented it to Marvin. You’ve never seen such a happy man.”"
+ },
+ "were people who Marvin brought in. If they took his money—and they did—it was at his invitation.”": {
+  "ch": 24,
+  "page": 225,
+  "sec": "GIVING IT UP",
+  "para": "“The bad guys who hung around my brother,” Jeanne Gay told me, “were people who Marvin brought in. If they took his money—and they did—it was at his invitation.”"
  },
  "whose exceptionally soft, sultry voice reminded Marvin of his mother’s.": {
   "ch": 13,
@@ -1506,6 +1632,12 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“Harvey had it figured a little differently,” Clarence Paul told me. “He thought he’d hook up with Anna and put Marvin with Gwen. It didn’t work out that way. Anna liked Marvin. ‘He’s green,’ I told her. ‘I’ll teach him,’ she told me. And she did.”"
  },
+ "‘If only Father could throw his arms around me and squeeze me and hold me and tell me he loves me!’": {
+  "ch": 24,
+  "page": 226,
+  "sec": "GIVING IT UP",
+  "para": "“So many times,” Marvin’s mother said, “my son would call me and say, ‘If only Father could throw his arms around me and squeeze me and hold me and tell me he loves me!’"
+ },
  "‘Marvin, you don’t want to perform, you want to write.’”": {
   "ch": 9,
   "page": 70,
@@ -1523,6 +1655,12 @@ window.GAYE_REFS = {
   "page": 99,
   "sec": "SUPREME WEALTH",
   "para": "“I wasn’t. I began seeing myself as an artist whose sensitivity and talent required respect. ‘Why are you going to produce me?’ I’d ask Holland-Dozier-Holland, ‘why don’t you produce Shorty Long?’ He was this beautiful cat who had two hits, ‘Function at the Junction’ and ‘Here Comes the Judge,’ and then got ignored. I fought for guys like Shorty and vocal groups like the Andantes, who were probably the best girl group at Motown, except no one ever pushed them.”"
+ },
+ "‘You escape from people too often,’ he said, ‘and you wind up escaping from yourself.’": {
+  "ch": 23,
+  "page": 213,
+  "sec": "WANTING",
+  "para": "“Marvin loved brainy conversations, and once he said to me something I’ll never forget. ‘You escape from people too often,’ he said, ‘and you wind up escaping from yourself.’ In other words, the same stuff he pulled on us—not showing up, messing around—he pulled on himself. It’s like that song, ‘I’ve Never Been to Me.’"
  },
  "‘he’s going to write me back and prove it to you.’ He never did.”": {
   "ch": 16,
@@ -1620,6 +1758,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "Having visited Marvin in the last week of his life, Clarence Paul told me, “He kept on talking about that ‘Sanctified Pussy’ business.”"
  },
+ "“He wanted Jan to go with other men,” Marvin’s mother said.": {
+  "ch": 23,
+  "page": 217,
+  "sec": "WANTING",
+  "para": "“He wanted Jan to go with other men,” Marvin’s mother said. “Then he’d suffer with the consequences. He wanted to suffer.”"
+ },
  "“He’s our John Lennon,” Janet Jackson recently told me.": {
   "ch": 1,
   "page": "ix",
@@ -1716,6 +1860,12 @@ window.GAYE_REFS = {
   "sec": "GETTING IT ON",
   "para": "“I mumble things into the microphone,” Marvin told me. “I don’t even know what I’m saying, and I don’t even try to figure it out. If I try, it doesn’t work. If I relax, those mumbles will finally turn into words. It’s a slow, evolving process, something like the way a flower grows.”"
  },
+ "“I proposed to Jan on that record,” Marvin told me.": {
+  "ch": 23,
+  "page": 217,
+  "sec": "WANTING",
+  "para": "“I proposed to Jan on that record,” Marvin told me. “A lot of people didn’t hear it, but it’s there. Of course I couldn’t marry her then, and I changed my mind a million times before I finally did, but I wanted to, I needed to, I had to. With all the freakery I did during those sessions, all the crazy parties, Janis never left my mind.”"
+ },
  "“I sang all these songs for Anna,” Marvin said.": {
   "ch": 11,
   "page": 90,
@@ -1745,6 +1895,12 @@ window.GAYE_REFS = {
   "page": 157,
   "sec": "THE LURE OF ADORATION",
   "para": "“I think I can make him the next middleweight champion,” Marvin claimed."
+ },
+ "“I tried to make it clear,” he told me, “that there was room for only one singer in our family.”": {
+  "ch": 23,
+  "page": 215,
+  "sec": "WANTING",
+  "para": "“I tried to make it clear,” he told me, “that there was room for only one singer in our family.”"
  },
  "“I was always asking Marvin to let Frankie sing with us, but Marvin never would,” Reese reported.": {
   "ch": 6,
@@ -1836,6 +1992,12 @@ window.GAYE_REFS = {
   "sec": "OUT THERE",
   "para": "He discussed his insecurities—fear of flying and fear of peaking too early in his career with nowhere to go but down. “I’m a little afraid of living,” he told the reporter. “Most fears stem from sin. To limit one’s sins must assuredly limit one’s fear, thereby bringing’ more peace to one’s spirit.”"
  },
+ "“I’m going to work hard for you, baby,“was something he liked to tell his audience.": {
+  "ch": 24,
+  "page": 226,
+  "sec": "GIVING IT UP",
+  "para": "The sex syndrome, the sacrifice Gaye felt he had to make for womankind, grew more blatant with each show. “I’m going to work hard for you, baby,“was something he liked to tell his audience. He’d still wipe his sweaty brow with silk handkerchiefs and casually fling them into the audience, then watch the ladies fight over them, a gimmick, he told me, that he found degrading, but also thrilling."
+ },
  "“I’m the last of the great chauvinists,” Marvin told me": {
   "ch": 22,
   "page": 209,
@@ -1919,6 +2081,18 @@ window.GAYE_REFS = {
   "page": 169,
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“My idol was Marvin Gaye,” Jermaine wrote on the sleeve of his 1984 album, his first after leaving his father-in-law’s company, “and I loved him as much as you did. Being that his spirit will live on forever, I am going to sing about the influence he has had on me and the world through my music. I love you, Marvin, I really do.”"
+ },
+ "“Oh, my children,” he cried, leaving the lyrics of the song to sing from his soul, “I’ll always be where you are.”": {
+  "ch": 23,
+  "page": 219,
+  "sec": "WANTING",
+  "para": "Still, the final statement from I Want You came in the abbreviated version of Michael Jackson’s hit, “I Wanna Be Where You Are” (which, oddly enough, along with Bill Green’s gritty tenor work, wasn’t listed on the credits). As the song faded away, Marvin leaned into the microphone, letting emotion pour from his heart. This was the passage I read on the phone to Marvin III, then eighteen, in 1984, a few months after his father had been killed. It came at the very end of the song when Marvin spoke to his children, naming each of them—Frankie, Nona, little Marvin—and wishing them goodnight. He tenderly told them how he loved them, just as he told Janis how he’d always love her. “Oh, my children,” he cried, leaving the lyrics of the song to sing from his soul, “I’ll always be where you are.”"
+ },
+ "“Pay her off in music,” was the lawyer’s plan.": {
+  "ch": 24,
+  "page": 231,
+  "sec": "GIVING IT UP",
+  "para": "Then, in a sudden surprise, Shaw suggested a solution which ultimately settled the matter in a manner which stimulated Marvin’s creative imagination. “Pay her off in music,” was the lawyer’s plan."
  },
  "“Strictly the market. Pop meant selling whites, and R&B or soul meant selling the sisters and brothers back in the neighborhood.": {
   "ch": 9,
