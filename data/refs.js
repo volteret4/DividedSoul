@@ -48,11 +48,29 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“As a writer, Smokey taught me a lot. More as a lyricist than anything else. Smokey has a melodic mind, though if he could play a whole instrument—he really plays only part of the piano—his songs wouldn’t all sound the same. But who cares what I think when he’s written so many hits? Anyway, I think Smokey’s one of the greatest poets. He has an ability to make simple words rhyme until the meaning is clear to everyone. Smokey will say things like, ‘I’m a choosey beggar, baby.’ Marv Tarplin, Smokey’s guitar player, also deserves credit. Smokey’s done some of his best writing teamed up with Marv. Strange that Smokey and I never really wrote together. Anyway, we became friends, close friends, and he helped me. But I needed more than professional help. I needed a little personal help with the king."
  },
+ "At least on this one day I felt like I made Father proud.”": {
+  "ch": 17,
+  "page": 162,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I understood that I’d been punishing myself by staying away so long,” Marvin thought back. “I’d been denying myself love, and that’s one of the most foolish things a man can do. It was certainly the biggest day of my parents’ life. Here they came to Washington in the thirties without a penny, and their son was being honored by the mayor as some sort of hero. At least on this one day I felt like I made Father proud.”"
+ },
  "At the first sign of a woman’s imperfection, Gaye despaired, often growing violent": {
   "ch": 4,
   "page": 21,
   "sec": "SEXUAL CONFUSION",
   "para": "His search for the ideal female, someone whose patience and approval of him knew no limits, dominated Marvin’s romantic imagination. At the first sign of a woman’s imperfection, Gaye despaired, often growing violent, unable to accept the fact that his view of the mythically untainted woman was shattered."
+ },
+ "Basically I said, ‘Put it out or I’ll never record for you again.’": {
+  "ch": 16,
+  "page": 148,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“From Jump Street, Motown fought What’s Going On,” Marvin claimed. “They didn’t like it, didn’t understand it, and didn’t trust it. Management said the songs were too long, too formless, and would get lost on a public looking for easy three-minute stories. For months they wouldn’t release it. My attitude had to be firm. Basically I said, ‘Put it out or I’ll never record for you again.’ That was my ace in the hole, and I had to play it.”"
+ },
+ "Berry Gordy was not mentioned, nor would Marvin ever thank him on the back of an album.": {
+  "ch": 16,
+  "page": 148,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "Everything about the album was different. The back cover showed a bearded, distraught Marvin standing in the rain, wearing a tie he had sworn never to wear. For the first time on one of his records, lyrics were listed and musicians credited. In spite of the fact that, according to his sister Jeanne, he had long ignored his family in Washington, D.C., he dedicated the work to his parents, among others—“thanks to the Rev. & Mrs. Marvin P. Gay Sr. for conceiving, having and loving me”—his sisters, brothers, wife, son, and friends, Clarence Paul and Harvey Fuqua among them. Berry Gordy was not mentioned, nor would Marvin ever thank him on the back of an album."
  },
  "Besides, if you’re a black dancer—a black male dancer—you’re moving in James Brown’s territory.": {
   "ch": 10,
@@ -60,11 +78,23 @@ window.GAYE_REFS = {
   "sec": "SCORING",
   "para": "“I don’t know,” he said. “Maybe it has to do with school dances and never having the guts to ask the girl to dance. I was afraid I’d step all over myself. That feeling never went away. Besides, if you’re a black dancer—a black male dancer—you’re moving in James Brown’s territory. There’s room for only one champ. I knew I didn’t have a shot. Perhaps I could be Number One with my voice, but never with my feet. Michael Jackson became James’ successor. Watch Michael dance and you’ll understand why I’d rather be singing while sitting on a stool.”"
  },
+ "Besides, who isn’t fascinated by evil?”": {
+  "ch": 17,
+  "page": 163,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“Just being in a room with them, you can feel their power,” Gaye observed. “They keep me from being bored. Besides, who isn’t fascinated by evil?”"
+ },
  "Billboard magazine reports that since 1983 Marvin’s name has been mentioned—in reverential tones—on no less than seven top-ten hit records.": {
   "ch": 1,
   "page": "ix",
   "sec": "INTRODUCTION TO THE 1991 EDITION",
   "para": "Soon after he was gone, the musical world began paying tribute in the form of hit singles—Diana Ross singing Lionel Richie’s “Missing You,” the Commodores’ haunting “Night Shift,” Frankie Beverly and Maze’s “Silky Soul Singer.” At the same time, a slew of Gaye songs have been re-interpreted by artists as wildly diverse as jazz avant-gardists Weather Report and pop singer Cyndi Lauper (both doing “What’s Going On”), hip hoppers By All Means (“Let’s Get It On”), heartthrobs George Michael (live version of “Sexual Healing”) and Robert Palmer (“Mercy Mercy Me [the Ecology]/I Want You”). Billboard magazine reports that since 1983 Marvin’s name has been mentioned—in reverential tones—on no less than seven top-ten hit records. As time goes by, the long list grows longer."
+ },
+ "Brown was basically patriotic; Gaye was not.": {
+  "ch": 16,
+  "page": 152,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "It’s easy to forget how radical the work was by 1971 standards. Structurally, the songs were not typical Top Ten fare. They owed as much to jazz as to soul or pop. “Wild Bill” Moore’s raging tenor, for instance, was mixed under many of the tracks, an ongoing jazz counterpoint to the rest of the musical action. Song lengths were unconventional. “Inner City Blues” was over five minutes. Commercially, the notion of a black bitterly criticizing America was thought to be risky. For instance, James Brown’s message songs, like “I Don’t Want Nobody to Give Me Nothing (Open the Door, I’ll Get It Myself),” had a conservative bent. Brown was basically patriotic; Gaye was not. There was also the old adage that, lyrically at least, gospel and pop never mix. Jesus simply wasn’t mentioned in secular songs, not if you were aiming for a pop market."
  },
  "Burning with anger, Berry went backstage and smacked Marvin in the mouth, then began cursing him.": {
   "ch": 11,
@@ -126,6 +156,12 @@ window.GAYE_REFS = {
   "sec": "BREAKOUT",
   "para": "“We agreed that with the right push I could still make it as a black Sinatra. With Harvey in my corner, I found the guts to step out and try. I also saw that pleasing women meant pleasing your bank account. Sex and money and music were all tied up together. I thought I was cool, I thought I could handle anything, but, oh man, I didn’t know what I was in for. Detroit did turn out to be heaven, but it also turned out to be hell.”"
  },
+ "Diana was the princess, but I was still the prince.": {
+  "ch": 17,
+  "page": 164,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“Diana showed me that I could be a movie star,” Marvin said. “Not that she wasn’t good. She was great. She deserved her raves. By putting her heart into the role, she showed everyone that she’s a natural. It was a bullshit plot, but her singing was right on. Give me a male musical role that juicy, though, and I’ll accomplish the same thing. Diana was the princess, but I was still the prince. I’d done nothing to hurt my public image and was convinced that by waiting as long as I did, my timing was perfect."
+ },
  "Didn’t matter, though, ’cause the Silhouettes came out with ‘Get a Job’ that year and buried us.": {
   "ch": 6,
   "page": 39,
@@ -173,6 +209,12 @@ window.GAYE_REFS = {
   "page": 98,
   "sec": "SUPREME WEALTH",
   "para": "“No one was prepared for the Supremes,” Marvin said. “It flipped Berry out, like he was playing the slot machines in Vegas and three cherries came up ten times in a row. He was gone. The rest of us felt his interest turn. Professionally he turned toward the Supremes and romantically he hooked up with Diana. Everyone saw it coming. I had predicted it and was definitely aware of being jealous of Diana. She had a power I lacked. I had Anna to talk to Berry, but Diana had Berry himself. For years, I was obsessed with Diana’s stardom. I resented the attention BG lavished upon her. But how could I blame him? The Supremes were making him a fortune. Besides, with Diana’s drive and class, he knew this was only the beginning.”"
+ },
+ "Frankly, I enjoy the teasing part more than the sex,": {
+  "ch": 17,
+  "page": 159,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“Frankly, I enjoy the teasing part more than the sex,” he once said. “After you’ve had as much as I’ve had, the thrill is more in the mind than the body.“He saw the ritual of cancelling concerts—of being begged to sing—as a form of sexual foreplay, reasoning that it made his female fans want him that much more. His fear of performing, however, was very real, and only one person had the power to persuade him to sing in public—Mother."
  },
  "From the moment I saw a glimpse of stardom, I had a strong desire to wipe out my past—every last bit of it.": {
   "ch": 7,
@@ -246,6 +288,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“My phone would ring, and it’d be Motown wanting me to start working and I’d say, ‘Have you seen the paper today? Have you read about these kids who were killed at Kent State?’ The murders at Kent State made me sick. I couldn’t sleep, couldn’t stop crying. The notion of singing three-minute songs about the moon and June didn’t interest me. Neither did instant-message songs.”"
  },
+ "He also learned that What’s Going On hadn’t been nominated for a single Grammy.": {
+  "ch": 17,
+  "page": 157,
+  "sec": "THE LURE OF ADORATION",
+  "para": "Somewhere in the course of the interview Marvin’s ebullience faded. He grew depressed. He’d fought with Anna. He also learned that What’s Going On hadn’t been nominated for a single Grammy. Ten years later he would still be angry."
+ },
  "He called the place Hitsville, U.S.A.": {
   "ch": 8,
   "page": 60,
@@ -263,6 +311,18 @@ window.GAYE_REFS = {
   "page": 29,
   "sec": "STIMULATION",
   "para": "“Now Rudy, who sang the ballads with the Five Keys, was the cat who sang ‘Out of Sight, Out of Mind.’ He had a pure, satin style that thrilled me. McPhatter was an all-around master. I first heard him do ‘Harbor Lights’ when he was with Billy Ward and the Dominoes. That destroyed me. His voice had a power and beauty I greatly admired. Little Willie John, who wasn’t associated with a group, cut the original on ‘Fever.’ He had this silky edge of sexy danger which I dug. Ray Charles reminded us all where we came from. Of course his early hits, like ‘I Got a Woman,’ were nothing but church. I liked that. I liked the sweat in his voice, and I liked his raw soul. But don’t make the mistake of thinking that my musical background was all black. I’m sensitive to every sound around, and there was nothing I heard that didn’t influence me.”"
+ },
+ "He kept everything—more for his ego than mine.": {
+  "ch": 16,
+  "page": 150,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“If I was arguing for peace,” Marvin said, “I knew I’d have to find peace in my own heart. All the time since I’d been in Detroit, Father and I had little to say to each other. It was still hard for me to even look at him, even though I knew that he’d been collecting articles on me for the last ten years. He kept everything—more for his ego than mine. He might have been proud, but he was more jealous than anything else. Secretly I was wishing Mother would throw him out and divorce him, but I knew that could never happen. I didn’t want him living off me, but how could I stop him when I had to support Mother? Basically, I was supporting the whole family. I resented that. But now was the time to put those resentments behind me. Jesus said forgive, and I needed to forgive, and be forgiven. Love should be unconditional. To be truly righteous, you offer love with a pure heart, without regard for what you’ll get in return. I had myself in that frame of mind. People were confused and needed reassurance. God was offering that reassurance through his music. I was privileged to be the instrument.”"
+ },
+ "He made Frankie the main character of his work, looking back at America through the soul of his sibling.": {
+  "ch": 16,
+  "page": 146,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "What’s Going On was the quiet moment in the raging storm that swept through so much of Marvin’s life. In searching for subject matter, Gaye wisely chose to write about someone he knew—his brother. He made Frankie the main character of his work, looking back at America through the soul of his sibling."
  },
  "He made me sing in keys much higher than I was used to.": {
   "ch": 14,
@@ -282,11 +342,29 @@ window.GAYE_REFS = {
   "sec": "ORIGINAL SIN",
   "para": "As early as age five, Marvin was traveling with Father. Bishop Rawlings’ wife, Mary, remembered little Marvin at a church convention. “He sang ‘Precious Lord’ with such beautiful feeling that there could be no doubt of the boy’s spiritual gift.”"
  },
+ "He spoke the words, “Let’s save all the children,” and then answered himself in song": {
+  "ch": 16,
+  "page": 150,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "Based on Revelations and the state of the world, Gaye was convinced that the end was imminent. As time passed and his own fortunes fell, those convictions deepened. Now, though, after his doomsday vision, his depression was suddenly assuaged: Affirmation arrived in perhaps the single most emotional moment he ever reached on record. He spoke the words, “Let’s save all the children,” and then answered himself in song, pleading, “Save the babies, save the babies!” In the transition between the plainly spoken word “children” and the impassioned cry of “babies,” Gaye’s clarion call was clear as the light of day."
+ },
+ "He worried that he could no longer count on social issues for sales.": {
+  "ch": 17,
+  "page": 162,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“You’re the Man” (Part I) became a Top Ten soul hit but never crossed over. It was a disappointment to Marvin and Motown and, aside from being released in his 1974 three-LP anthology, was never included on an album. More importantly, it gave Gaye serious doubts about the direction of his career. He worried that he could no longer count on social issues for sales."
+ },
  "He wound up in no-man’s-land, a singer in search of a style.": {
   "ch": 9,
   "page": 74,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "From the opening piano chords on “The Masquerade Is Over”—a quote from Thelonious Monk’s introduction to “Round ’Bout Midnight”—the mood was unsustained. The instrumentation was eerie and sparse, with Marvin sounding unsure of himself. His vibrato was exaggerated, his phrasing wobbly. Supported by a jazz rhythm section, he vacillated between the pop sensibility of Jesse Belvin and the blues-drenched depression of Billie Holiday. He wound up in no-man’s-land, a singer in search of a style."
+ },
+ "He’d become a one-man Moonglows, a one-man Originals, singing duets and trios with himself": {
+  "ch": 16,
+  "page": 149,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "His multitracked voices were startling. He’d become a one-man Moonglows, a one-man Originals, singing duets and trios with himself, juxtaposing his silky falsetto and sandpapery midrange, weaving the fabric of his voices into a tapestry of contrasting shapes and colors."
  },
  "His customers wanted Ruth Brown, not Thelonius Monk.": {
   "ch": 8,
@@ -384,6 +462,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“I hate the government,” Marvin told me when he first started discussing his tax problems. “Especially back then during the war. They wanted me to pay for the guns and the bombs with my hard-earned money? I felt like Muhammad Ali. No North Vietnamese had done nothing to me. I still hadn’t forgotten what happened to me in the Air Force. I resented like hell having to give Uncle Sam a dime. I knew I could never beat the mothers, and I knew that attitude would get me in trouble, but I didn’t give a shit."
  },
+ "I gave Marvin one-third of the song to sing and produce it.": {
+  "ch": 16,
+  "page": 147,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“We argued over the credits,” Obie told me. “Marvin was funny when it came to credit, but basically it went down like this: I gave Marvin one-third of the song to sing and produce it. Naturally he put his own touches on it, being the master that he is. But all the music was already there.”"
+ },
  "I got a gun and holed myself up in an apartment": {
   "ch": 14,
   "page": 120,
@@ -407,6 +491,12 @@ window.GAYE_REFS = {
   "page": 14,
   "sec": "ORIGINAL SIN",
   "para": "“I was flattered to go along on my father’s religious missions,” Marvin said. “Sometimes on those trips I’d see things which weren’t always purely religious. The gospel circuit was filled with temptations, and many of the performers fell to sin. But the devotion to Jesus was real. The spirit was there, in the room and in the songs. The spirit enraptured me. The strength of my singing surprised me. That’s how I found the courage to sing according to feeling. I let my voice do things choir teachers would never allow. I realized my voice was a gift of God and had to be used to praise Him. Sometimes I wondered, though, whether Father was jealous of my voice. At gospel meetings, for example, when I pleased all the women, he’d look at me like I’d done something very bad. He hated it when my singing won more praise than his sermons.”"
+ },
+ "I like mystery.”": {
+  "ch": 17,
+  "page": 164,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I respect poetry,” Gaye answered, “and I try to write subtly, but lyrics really aren’t poems. Printing them like poems can make them seem silly. Besides, I like the idea of everyone guessing at what I’m singing. I like mystery.”"
  },
  "I loved Malcolm’s strength and truth-telling.": {
   "ch": 13,
@@ -432,6 +522,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“Not herb,” he said. “Herb wasn’t about nothing more than a quick giggle. But coke was a different deal. Blow is what really let me fly. There were moments when I really thought I was gone. I’m talking about times—really down times—when I snorted up so much toot I was convinced I’d be dead within minutes. I rather liked the idea of there being nothing left of me but my music.”"
  },
+ "I really believe he wanted to be me.”": {
+  "ch": 16,
+  "page": 147,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“I know this sounds strange,” Frankie told me, “but I think that Marvin was always envious of my war experience. He saw it as a manly act that he had avoided. It’s even stranger because while Marvin was always my hero, I was also his hero. I really believe he wanted to be me.”"
+ },
  "I trained with the Detroit Lions and was convinced I could start at offensive end.": {
   "ch": 15,
   "page": 133,
@@ -450,17 +546,35 @@ window.GAYE_REFS = {
   "sec": "ORIGINAL SIN",
   "para": "“The word ‘normal’ could never describe my childhood,” Marvin claimed. “First of all, I knew we didn’t live in a normal neighborhood. I was brought up in a slum, the part of town we called Simple City. It seemed half-city, half-country. I never lived in a high-rise or a tenement like you see in Harlem. It was definitely funky—some people had outhouses—but there were also trees and grass. Still, I knew we were living on the bottom."
  },
+ "I was determined to be rich—richer than Berry himself.": {
+  "ch": 17,
+  "page": 158,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“Anna and I hadn’t been a couple for a long time. Now that I had hit it big, I suppose my ego was even more swollen. Maybe I didn’t handle it well. I was angry because, for all my hits, I still couldn’t call myself sure-enough rich. Motown had it set up funny. But that was changing. I was getting more control, and I was determined to be rich—richer than Berry himself. That’s always been a goal of mine. It’s hard to describe how competitive I felt toward Berry Gordy."
+ },
  "I wasn’t harmless. I was pissed at America.": {
   "ch": 15,
   "page": 132,
   "sec": "GAMES",
   "para": "“I also grew a beard, which, back then, was not all that common for black men. Black men weren’t supposed to look overtly masculine. I’d spent my entire career looking harmless, and the look no longer fit. I wasn’t harmless. I was pissed at America. I didn’t want to shave every morning, and so I didn’t. I was interested in taking as much pressure off myself as possible. You might even say I became a recluse. That scared me because for the past ten years, Father had been leading exactly that kind of life. I couldn’t help it, though. I wanted to get out, but I couldn’t. I spent days never leaving my bedroom—never wanting to—depressed enough to call it quits. Little Marvin was growing up and we were taking care of other kids in Anna’s family, but even the laughter of children couldn’t pull me out of it. More than anything else, it was probably just walking over to the park and playing ball which saved my ass.”"
  },
+ "I wonder if it’ll do any good if I get stopped by a police officer….": {
+  "ch": 17,
+  "page": 161,
+  "sec": "THE LURE OF ADORATION",
+  "para": "Standing between his parents, towering over them both, Marvin accepted the key, remarking, “I’ve often wondered what you do with a key to the city…. I wonder if it’ll do any good if I get stopped by a police officer….” Then he sang “What’s Going On” again, this time accompanied by the Howard University band."
+ },
  "If I could have spoken my heart, I’d have said, ‘Please love me.’": {
   "ch": 6,
   "page": 45,
   "sec": "COMING OF AGE",
   "para": "“I can’t say whether it was more difficult saying good-bye to Mother or Father. I didn’t want Mother to think I was deserting her. I promised her I never would. I told her that I was doing this for her. She believed me, and she told me that she knew I’d make it. I wanted to tell Father that I wished never to see him again. I wanted to forget everything he’d done to me as a child, but that wasn’t possible. We just looked at each other. I think we were both afraid of what we might say. Father and I had special ways of hurting each other. If I could have spoken my heart, I’d have said, ‘Please love me.’ But I didn’t say a word, and neither did he. We both realized that this was it. I was going out on my own, and there was nothing in hell he could do about it."
+ },
+ "If I lose, I feel like a faggot.”": {
+  "ch": 17,
+  "page": 157,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I just wanted to say that I bested you at a physical game or a mental contest, football or chess. Just for the thrill of it. If I beat you playing pool I enjoy it. But what I enjoyed was controlling myself when I was behind. And I think, ‘Now am I going to be a chicken and just fall away or am I gonna muster myself together, swallow my spit and really get down and win?’ If I come up from behind and win like that, it’s a fantastic feeling. I get chills all over. If I lose, I feel like a faggot.”"
  },
  "In 1954, the Gays made their first move.": {
   "ch": 5,
@@ -540,6 +654,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“Bearing down on every word,” wrote critic Dave Marsh, “making each syllable count, Gaye explored ‘Grapevine’ as if the song were a lost continent of music and emotion, as if the plotters in the song were his true and personal demons, had in fact scorched his identity all but out of existence…. In those three and a quarter minutes, Marvin Gaye earned his independence from the Motown mill.”"
  },
+ "Isaac Hayes, whose Hot Buttered Soul profoundly influenced Marvin": {
+  "ch": 16,
+  "page": 147,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "To some degree, there were musical precedents for What’s Going On. Curtis May field had long been intrigued by social themes, incorporating Christianity into “People Get Ready,” a pop hit in 1965. Isaac Hayes, whose Hot Buttered Soul profoundly influenced Marvin, was voicing strings and writing his quasi-symphonic score for Shaft at about the same time Gaye was composing What’s Going On."
+ },
  "It took me fourteen.": {
   "ch": 15,
   "page": 136,
@@ -581,6 +701,12 @@ window.GAYE_REFS = {
   "page": 135,
   "sec": "GAMES",
   "para": "“I’ve been called a black George Plimpton, and I resent that. George is cool, but I didn’t play ball to gather material for a book. I played because I had every intention of becoming a superstar athlete. I played for keeps. I liked hanging around athletes because I respected their courage. It takes courage, day in and day out, to put your body on the line. I used to laugh when the jocks told me it took guts to get up and sing. They were right, because that was more frightening to me than catching a football in a crowded stadium. Ever try singing to 20,000 women, all of them screaming and grabbing for a piece of your hide? Getting popped by some defensive end is mild in comparison.”"
+ },
+ "Jesus said forgive, and I needed to forgive, and be forgiven.": {
+  "ch": 16,
+  "page": 150,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“If I was arguing for peace,” Marvin said, “I knew I’d have to find peace in my own heart. All the time since I’d been in Detroit, Father and I had little to say to each other. It was still hard for me to even look at him, even though I knew that he’d been collecting articles on me for the last ten years. He kept everything—more for his ego than mine. He might have been proud, but he was more jealous than anything else. Secretly I was wishing Mother would throw him out and divorce him, but I knew that could never happen. I didn’t want him living off me, but how could I stop him when I had to support Mother? Basically, I was supporting the whole family. I resented that. But now was the time to put those resentments behind me. Jesus said forgive, and I needed to forgive, and be forgiven. Love should be unconditional. To be truly righteous, you offer love with a pure heart, without regard for what you’ll get in return. I had myself in that frame of mind. People were confused and needed reassurance. God was offering that reassurance through his music. I was privileged to be the instrument.”"
  },
  "Jesus turned over the tables in the temple, and I was ready to break down the doors.": {
   "ch": 7,
@@ -756,6 +882,12 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“You have to understand me,” Marvin explained. “One day I’d be throwing bottles at Anna, and the next day I’d be loving her like we’d just met. Fighting stimulated us. Besides, Anna was always good for my music. She’d give me ideas and push me any way she could. I’m the sort of artist who can always use a push. My moods can get a little heavy.”"
  },
+ "One night I was listening to a record by Lester Young, the horn player, and it came to me. Relax, just relax.": {
+  "ch": 16,
+  "page": 149,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“I felt like I’d finally learned how to sing,” Marvin told me. “I’d been studying the microphone for a dozen years, and suddenly I saw what I’d been doing wrong. I’d been singing too loud, especially on those Whitfield songs. It was all so easy. One night I was listening to a record by Lester Young, the horn player, and it came to me. Relax, just relax. It’s all going to be all right."
+ },
  "One night they fought their way into a ditch, where Toni took a bite out of Marvin’s stomach.": {
   "ch": 7,
   "page": 53,
@@ -767,6 +899,12 @@ window.GAYE_REFS = {
   "page": 26,
   "sec": "STIMULATION",
   "para": "Thus Marvin, somewhat guilty about leaving church music behind, stepped out into the fifties, into a world of secular singing. One word describes the bewitching style which, together with gospel, blues, and jazz, would shape the future course of Marvin Gaye’s music: doo-wop."
+ },
+ "One, believe in Jesus, and two, expand love.": {
+  "ch": 16,
+  "page": 151,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“I respect the Eastern religions,” said Gaye. “Their philosophies are beautiful and wise. They’ve taught me to root myself in the present. I also believe in reincarnation. We’re destined to return to repeat our mistakes if we don’t grow toward God in this form. I respect Islam, though I worry that the Koran makes it too easy to kill. I respect all the great religions. But my own beliefs come down to two simple points. One, believe in Jesus, and two, expand love. Both points, you see, are really the same.”"
  },
  "Our literary relationship deepened when, during this same trip, I named and wrote lyrics for the song that would become “Sexual Healing.”": {
   "ch": 1,
@@ -863,6 +1001,12 @@ window.GAYE_REFS = {
   "page": 77,
   "sec": "SCORING",
   "para": "“Anna was always telling me how stubborn I was,” he explained. “I’m an Aries, which helps explain it. I believe in astrology. We know the moon affects the oceans, and since we’re mainly water, why wouldn’t we be affected by heavenly bodies? Anyway, this ‘stubborn’ idea was floating around my brain while Mickey Stevenson and I started jamming. We’d come up with a basic jazz feeling, when Berry walked by, heard what we were doing, sat down at the piano and said, ‘How ’bout trying these chords? Put these chords in there and I think you’ll sell some records.’ That was Berry’s genius—just a few chords, and I was gone.”"
+ },
+ "That was the age that Jesus died.": {
+  "ch": 17,
+  "page": 160,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I was still mad at Washington. What had they ever given me?” Marvin asked. “Why should they all of a sudden love me, now that I’d sold a few records? Where were they when I needed them? For years I’d considered Detroit, not Washington, my home. I resented the whole thing and I desperately didn’t want to do it. Until the last few minutes, I wasn’t going to go. You see, I’d just turned thirty—three. That was the age that Jesus died. I had a strong fear that I’d never live longer than Jesus, and I wasn’t interested in exposing myself any more than necessary. Getting through that year—worrying about airplane crashes or dying of cancer—wasn’t easy.”"
  },
  "That’s how the Marvin-and-Tammi characters were born.": {
   "ch": 13,
@@ -966,6 +1110,12 @@ window.GAYE_REFS = {
   "sec": "SUPREME WEALTH",
   "para": "Thus Marvin made his move toward the Copacabana, his soul stirred with a mixture of confidence and contempt."
  },
+ "Trouble Man was one of only two albums where Gaye wrote every song alone.": {
+  "ch": 17,
+  "page": 163,
+  "sec": "THE LURE OF ADORATION",
+  "para": "Trouble Man was one of only two albums where Gaye wrote every song alone. He lost himself in the mood of the movie, a mood corresponding to the dark side of his own soul. Marvin himself was fascinated by the underworld and, from time to time, surrounded himself with real-life gangsters."
+ },
  "Unfortunately, our musical collaboration spelled the end of our friendship.": {
   "ch": 1,
   "page": "xiv",
@@ -1014,6 +1164,12 @@ window.GAYE_REFS = {
   "sec": "PAIN IN PARADISE",
   "para": "“Funny, but of all the acts back then, I thought Martha and the Vandellas came closest to really saying something. It wasn’t a conscious thing, but when they sang numbers like ‘Quicksand’ or ‘Wild One’ or ‘Nowhere to Run’ or ‘Dancing in the Street’ they captured a spirit that felt political to me. I liked that. I wondered to myself, With the world exploding around me, how am I supposed to keep singing love songs?”"
  },
+ "Without Anna, how could I reach my next plateau? With Anna, though, how could I ever be a happy man?": {
+  "ch": 17,
+  "page": 158,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“At the same time, I didn’t fool myself. I knew I still needed Berry, and Anna, too. I knew the Gordys had the Hollywood connections. Without Anna, how could I reach my next plateau? With Anna, though, how could I ever be a happy man?"
+ },
  "Years later when Bob Marley came around, I saw that both things were possible.": {
   "ch": 7,
   "page": 51,
@@ -1032,11 +1188,23 @@ window.GAYE_REFS = {
   "sec": "MOTOWN",
   "para": "“His problem was insecurity,” Beans Bowles added. “He was this very shy guy who worried all the time. That’s why he took to Anna. She helped him, and he genuinely loved her. Anna was good for Marvin—up to a point. Afterward, it was clear that no one could have been any better. Same was true with Marvin and Berry. BG understood Marvin. Knew how to handle him. Marvin, though, was paranoid about Berry. He didn’t trust him one hundred percent, and with good reason. You see, Berry had control of Marvin through Anna."
  },
+ "a chilling prophecy of his own death.": {
+  "ch": 17,
+  "page": 164,
+  "sec": "THE LURE OF ADORATION",
+  "para": "The type style on the album cover showed Marvin Gaye’s name shot through with bullets, and the final musical figure in the suite, after Marvin repeated the word “trouble” over and again, was the sudden sound of a pistol shot, a chilling prophecy of his own death."
+ },
  "and half the credit for productions should go to the musicians … they didn’t get enough credit.”": {
   "ch": 9,
   "page": 72,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "“Jamerson was a genius,“Marvin told Nelson George in a Musician magazine interview in 1983. “The little group that they had there was the Motown sound, and half the credit for productions should go to the musicians … they didn’t get enough credit.”"
+ },
+ "because my father loved, I imagine he overloved me, if that’s possible….": {
+  "ch": 17,
+  "page": 156,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I’ve been competitive all my life,” he told Fong-Torres. “I’ve never had a chance to exercise my competitiveness through athletics, of course, because my father loved, I imagine he overloved me, if that’s possible…."
  },
  "bought them a large house on the corner of Fifteenth and Varnum": {
   "ch": 10,
@@ -1085,6 +1253,12 @@ window.GAYE_REFS = {
   "page": 99,
   "sec": "SUPREME WEALTH",
   "para": "“I wasn’t. I began seeing myself as an artist whose sensitivity and talent required respect. ‘Why are you going to produce me?’ I’d ask Holland-Dozier-Holland, ‘why don’t you produce Shorty Long?’ He was this beautiful cat who had two hits, ‘Function at the Junction’ and ‘Here Comes the Judge,’ and then got ignored. I fought for guys like Shorty and vocal groups like the Andantes, who were probably the best girl group at Motown, except no one ever pushed them.”"
+ },
+ "‘he’s going to write me back and prove it to you.’ He never did.”": {
+  "ch": 16,
+  "page": 146,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“The death and destruction I saw in Vietnam sickened me,” Frankie told me. “The war seemed useless, wrong, and unjust. I relayed all this to Marvin and forgave him for never writing to me while I was over there. That had hurt, because he was a big star and none of my buddies believed he was my brother. ‘Wait,’ I told them, ‘he’s going to write me back and prove it to you.’ He never did.”"
  },
  "’Cause that’s the only way we got of getting you to really sing,’ I’d tell him.": {
   "ch": 10,
@@ -1140,11 +1314,29 @@ window.GAYE_REFS = {
   "sec": "STIMULATION",
   "para": "“Beyond sex,” Gaye loved to say, “is God.”"
  },
+ "“But I’m gonna learn to write music,” Marvin promised. “Why? Because I want all the credit.”": {
+  "ch": 17,
+  "page": 157,
+  "sec": "THE LURE OF ADORATION",
+  "para": "He also discussed his ego, describing how he conceived “every bit of the music “for What’s Going On. Because Dave Van DePitte did the actual scoring, though, he was afraid Van DePitte would claim credit. “But I’m gonna learn to write music,” Marvin promised. “Why? Because I want all the credit.”"
+ },
  "“By the mid-fifties,” Bishop Rawlings remembered, “Mr. Gay had grown disenchanted with the church and went into seclusion. He never did much after that.”": {
   "ch": 3,
   "page": 15,
   "sec": "ORIGINAL SIN",
   "para": "“By the mid-fifties,” Bishop Rawlings remembered, “Mr. Gay had grown disenchanted with the church and went into seclusion. He never did much after that.”"
+ },
+ "“Diana showed me that I could be a movie star,” Marvin said.": {
+  "ch": 17,
+  "page": 164,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“Diana showed me that I could be a movie star,” Marvin said. “Not that she wasn’t good. She was great. She deserved her raves. By putting her heart into the role, she showed everyone that she’s a natural. It was a bullshit plot, but her singing was right on. Give me a male musical role that juicy, though, and I’ll accomplish the same thing. Diana was the princess, but I was still the prince. I’d done nothing to hurt my public image and was convinced that by waiting as long as I did, my timing was perfect."
+ },
+ "“First he agreed to do it,” Hughes told me, “then he changed his mind. We recruited his mother to convince him.": {
+  "ch": 17,
+  "page": 159,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“First he agreed to do it,” Hughes told me, “then he changed his mind. We recruited his mother to convince him. That was the only way he finally came.”"
  },
  "“He’s our John Lennon,” Janet Jackson recently told me.": {
   "ch": 1,
@@ -1157,6 +1349,12 @@ window.GAYE_REFS = {
   "page": 122,
   "sec": "AN END TO INNOCENCE",
   "para": "“I believed every word of the song,” he told me. “It was happening to me. The doubting, the friends whispering in my ear, the suspicions. I was surprised, I mean completely shocked, that the tune took off. I had no idea it would mean anything to anyone else, especially since Gladys had done such a great job with it.”"
+ },
+ "“I could see the truth,” Marvin explained, “not in Father’s example, but in the words he preached.”": {
+  "ch": 16,
+  "page": 151,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "“I could see the truth,” Marvin explained, “not in Father’s example, but in the words he preached.”"
  },
  "“I felt chained,” Marvin told me. “I saw no way out.": {
   "ch": 14,
@@ -1211,6 +1409,12 @@ window.GAYE_REFS = {
   "page": 92,
   "sec": "GAIN AND STRAIN",
   "para": "“I suppose you could say that the duets were not great for my marriage,” Marvin said."
+ },
+ "“I think I can make him the next middleweight champion,” Marvin claimed.": {
+  "ch": 17,
+  "page": 157,
+  "sec": "THE LURE OF ADORATION",
+  "para": "“I think I can make him the next middleweight champion,” Marvin claimed."
  },
  "“I was always asking Marvin to let Frankie sing with us, but Marvin never would,” Reese reported.": {
   "ch": 6,
@@ -1380,6 +1584,18 @@ window.GAYE_REFS = {
   "sec": "GAMES",
   "para": "“We are schizophrenic,” Gaye once announced from the stage, “but we are not lost.” In public, he liked using the kingly “we.” To Marvin, not being “lost” meant maintaining sanity."
  },
+ "“What you’re trying to find out is am I really a genius or a fake. And I think I’m a fake.": {
+  "ch": 17,
+  "page": 157,
+  "sec": "THE LURE OF ADORATION",
+  "para": "When asked how he conceived a complex work such as What’s Going On, Marvin was defensive. “What you’re trying to find out is am I really a genius or a fake. And I think I’m a fake.“In the next breath, though, he called the album divinely inspired."
+ },
+ "“When Marvin defied God,” a member of the House of God told me, “he understood the terrible price he’d have to pay.”": {
+  "ch": 16,
+  "page": 146,
+  "sec": "SERMON FROM THE STUDIO",
+  "para": "The fundamentalist Christian view of Marvin Gaye would see him as a fallen preacher. Born with the sacred power to transmit Jesus’ love through heavenly song, his religious responsibility was, at least in Marvin’s own mind, clear. According to his own testimony, he’d felt the calling as a small child. But Marvin’s electricity, like Al Green’s, generated two sorts of reactions, sexual and spiritual, depending upon which switch Gaye chose to pull. “When Marvin defied God,” a member of the House of God told me, “he understood the terrible price he’d have to pay.”"
+ },
  "“When Marvin left,” his old friend Reese Palmer recalled, “he left without looking back … that hurt a lot of us.”": {
   "ch": 10,
   "page": 84,
@@ -1409,6 +1625,12 @@ window.GAYE_REFS = {
   "page": 62,
   "sec": "MOTOWN",
   "para": "“All someone has to do with my name,” Gaye said, “is put an ‘is’ in front of it. ‘Is Marvin Gaye?’ Man, I can’t tell you how many guys have asked me that.”"
+ },
+ "“taxes, death, and trouble.”": {
+  "ch": 17,
+  "page": 163,
+  "sec": "THE LURE OF ADORATION",
+  "para": "There was very little singing on the album, which was celebrated by European avant—garde artists as an innovative work. The one vocal, the title tune “Trouble Man,” became a major hit—pop and soul—and a permanent part of Gaye’s repertoire. In it he identified with the hero—victim, bringing to the suite a distinctively, frighteningly autobiographical voice. Like Marvin, “Trouble Man” didn’t make it “playing by rules.” Gaye could well have been speaking of himself when he sang that only three things in this life are certain—“taxes, death, and trouble.”"
  },
  "“the way a Peggy Lee or Vic Damone might do them.”": {
   "ch": 13,
