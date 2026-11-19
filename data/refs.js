@@ -24,6 +24,12 @@ window.GAYE_REFS = {
   "sec": "SEXUAL CONFUSION",
   "para": "A fixation on Mother remained a permanent part of Gaye’s psyche. To please, support, and protect her was a need and desire that dominated every phase of his life. Marvin measured all other women against Mother, whom he saw as purity and perfection. In his sight, no other woman, save his father’s wife, would ever make him happy."
  },
+ "A member of his road crew, Eric Sharpe, hanged himself from a shower curtain rod.": {
+  "ch": 33,
+  "page": 322,
+  "sec": "THE LAST WALTZ",
+  "para": "But death pursued him, and death even emerged—real death—after the concert at the Meadowlands in New Jersey. A member of his road crew, Eric Sharpe, hanged himself from a shower curtain rod."
+ },
  "A sense of sexual decadence and danger stimulated him": {
   "ch": 22,
   "page": 208,
@@ -456,6 +462,12 @@ window.GAYE_REFS = {
   "sec": "BREAKOUT",
   "para": "Drugs weren’t a product of Gaye’s childhood, but part of his initiation into professional music. He experimented with pot only after he hit the road with the Moonglows. His relationship to dope was intense and complex. He started through peer pressure but soon discovered that smoke, and later coke, gave him an otherworld feeling he found irresistible."
  },
+ "He had developed this whole thing about how Jan was plotting to kill him.": {
+  "ch": 33,
+  "page": 321,
+  "sec": "THE LAST WALTZ",
+  "para": "“Frankie called me one day from the road,” Dave Simmons told me, “and said I better join them. He said that Marvin was hurting. I met them in New Haven in July and I’d never seen Marvin in such a state. He’d do a concert, be completely drained of energy, but then stay up for another eight hours, getting high, making up stories about how he was going to be murdered. It was so sad. He had developed this whole thing about how Jan was plotting to kill him. Knowing Jan as I do, I knew there wasn’t a lick of truth in that, and I told Marvin just that. But he was far gone by then."
+ },
  "He had me write out a pre-nuptial agreement protecting his property, but he was afraid to show it to Jan, so he never did.”": {
   "ch": 26,
   "page": 239,
@@ -467,6 +479,12 @@ window.GAYE_REFS = {
   "page": 29,
   "sec": "STIMULATION",
   "para": "“Now Rudy, who sang the ballads with the Five Keys, was the cat who sang ‘Out of Sight, Out of Mind.’ He had a pure, satin style that thrilled me. McPhatter was an all-around master. I first heard him do ‘Harbor Lights’ when he was with Billy Ward and the Dominoes. That destroyed me. His voice had a power and beauty I greatly admired. Little Willie John, who wasn’t associated with a group, cut the original on ‘Fever.’ He had this silky edge of sexy danger which I dug. Ray Charles reminded us all where we came from. Of course his early hits, like ‘I Got a Woman,’ were nothing but church. I liked that. I liked the sweat in his voice, and I liked his raw soul. But don’t make the mistake of thinking that my musical background was all black. I’m sensitive to every sound around, and there was nothing I heard that didn’t influence me.”"
+ },
+ "He kept a preacher in one room and his drug supply in another": {
+  "ch": 33,
+  "page": 319,
+  "sec": "THE LAST WALTZ",
+  "para": "Underneath the public facade, though, Marvin was going through hell. His divisions were as deep and bitter as ever. He kept a preacher in one room and his drug supply in another as he ran back and forth, comforting himself with scripture, crazing himself with cocaine."
  },
  "He kept everything—more for his ego than mine.": {
   "ch": 16,
@@ -587,6 +605,12 @@ window.GAYE_REFS = {
   "page": 198,
   "sec": "OUT THERE",
   "para": "“They said it was the biggest tour since the Beatles,” Marvin remarked with his usual brand of exaggeration. “Everyone was loving it except me. Jan was about to have a baby and I was about to have a fit. Touring always tears at my gut. I do enough drugs in my normal life, but on the road the quantities triple. I’m always looking for extra energy, another little kick in the booty. So there am I, smoking and snorting up a storm, suffering with a nervous stomach from all these airplanes I gotta take, staying up all night and trying to sleep, trying to relax, the phone ringing and the promoters screaming, Ts he going to do it? Is he going to fink out or sing?’ Then I get out there and try to act like every woman’s lost lover so she’ll go out and buy three more copies of my latest record. Be serious. Is this me? How in the name of a just God did I ever turn myself into a sex god? And why?”"
+ },
+ "How much further could Gaye get from his dream of wearing a tux, sitting on a stool, and coolly crooning like Sinatra?": {
+  "ch": 33,
+  "page": 323,
+  "sec": "THE LAST WALTZ",
+  "para": "How much further could Gaye get from his dream of wearing a tux, sitting on a stool, and coolly crooning like Sinatra?"
  },
  "How’s the average black kid supposed to buy the Bill of Rights when he sees on the street that his own rights aren’t worth shit?”": {
   "ch": 6,
@@ -1938,6 +1962,12 @@ window.GAYE_REFS = {
   "sec": "SUPREME WEALTH",
   "para": "His stage fright continued to plague him. In the book Showtime at the Apollo, Bobby Schiffman, who owned the theater, tells of going to the airport to pick up Marvin for his sold-out weekend engagement. Gaye wasn’t on the plane. He finally called Schiffman to say, “Bobby, I couldn’t do it. I came to New York, got off the plane, and was so scared I got on another plane and went back to Detroit…. I can’t help it…. I’m afraid.” The dates were cancelled."
  },
+ "he actually envisioned the way he’d be killed: shot to death with a pistol.": {
+  "ch": 33,
+  "page": 320,
+  "sec": "THE LAST WALTZ",
+  "para": "During this first phase of the tour—in Missouri, Oklahoma, Nebraska, and Ohio—paranoia plagued him night and day. Apparently there were several death threats, though nothing out of the ordinary for a major entertainer on a national tour. Marvin took the notes seriously. In truth, there was little real danger. At least no evidence of actual attacks ever materialized. Still, Gaye told his aides, his musicians, anyone who would listen, that his life was on the line. He was being stalked. Someone was out to murder him. He even knew how it would happen; he actually envisioned the way he’d be killed: shot to death with a pistol."
+ },
  "he stopped his “Sexual Healing” show at the Greek Theater in Los Angeles and prayed to Jesus for the bassist’s soul.": {
   "ch": 9,
   "page": 73,
@@ -1950,6 +1980,12 @@ window.GAYE_REFS = {
   "sec": "GIVING IT UP",
   "para": "“In that mid-seventies period when Marvin’s earnings were so high,” Jeanne Gay said, “his only sound investment was with Wally Amos.”"
  },
+ "hoping that the killer might confuse them for him.": {
+  "ch": 33,
+  "page": 321,
+  "sec": "THE LAST WALTZ",
+  "para": "Even when sick, Marvin’s foxy mind worked overtime. He always viewed himself as a schemer, and part of him believed that, through deception, he could fool the devil himself. Brother Frankie and friend Dave, both bearded and approximately Marvin’s height, bore a striking resemblance to him. That’s why, while the band traveled by bus, Gaye had Frankie and Dave by his side, walking through airports and riding on planes, hoping that the killer might confuse them for him."
+ },
  "like the Cary Grant of soul, and just as relaxed": {
   "ch": 24,
   "page": 227,
@@ -1961,6 +1997,12 @@ window.GAYE_REFS = {
   "page": 201,
   "sec": "OUT THERE",
   "para": "Like Marvin and Stevie before her, Diana had grown increasingly independent. She was about to turn thirty and was tired of being directed. Besides, she missed her children and wanted to go home. According to Rob Cohen, the producer, when Gordy reprimanded Ross on the set in front of the crew, she slapped him across his face, breaking his sunglasses. “I hate you! I hate you!” she screamed, and with that, left the set, two days before completing the picture, and flew back to L.A."
+ },
+ "smiling at the audience with the nervousness of a negligent lover trying to overcompensate for his absence.”": {
+  "ch": 33,
+  "page": 318,
+  "sec": "THE LAST WALTZ",
+  "para": "”‘I love you, baby,’ Gaye assured the crowd again and again as he prowled the stage, twisting his hips at every possible opportunity and smiling at the audience with the nervousness of a negligent lover trying to overcompensate for his absence.”"
  },
  "that Berry Gordy personally sign a check made out to him for $1 million.": {
   "ch": 19,
@@ -2045,6 +2087,12 @@ window.GAYE_REFS = {
   "page": 311,
   "sec": "REMARKABLE REENTRY",
   "para": "“I tried. But his people never returned my calls, and suddenly I couldn’t even get in touch with Marvin. To me, his management situation sounded like amateur night in Dixie. Then he phoned one day to say he was signing a tour deal with Don Jo. They were giving him cash advances and a fancy new car. ‘Marvin,’ I said, ‘those advances have always killed you. You go for the cash and wind up with nothing else.’ But it was too late. My words went in one ear and out the other.”"
+ },
+ "‘Tell Dick I’m sorry, but I can’t go,’ was all he said.": {
+  "ch": 33,
+  "page": 324,
+  "sec": "THE LAST WALTZ",
+  "para": "“Marvin revered Dick Gregory,” said Dave Simmons. “He respected Dick’s politics as well as his dietary wisdom. Dick had talked Marvin into accepting his help. Marvin agreed to go to Gregory’s retreat in Cape Cod to cool out. In fact, Dick was waiting in his hotel room, just a couple of floors below us, to accompany Marvin there himself. I had Marvin’s bags packed, and I was excited. I was sure this was going to be the turning point. At the last minute, though, Marvin called me into his bedroom. He was staring out the window, looking down into the Baltimore harbor, with his back to me. ‘Tell Dick I’m sorry, but I can’t go,’ was all he said. There was no arguing. I went down to tell Gregory, who’d already made all the plans. Man, he was so disappointed. We both wanted to cry.”"
  },
  "‘Then let her sing, Marvin,’ I said. ‘You must let her be a person, too.’": {
   "ch": 22,
@@ -2226,6 +2274,12 @@ window.GAYE_REFS = {
   "sec": "INTRODUCTION TO THE 1991 EDITION",
   "para": "“He’s our John Lennon,” Janet Jackson recently told me. “The longer he’s gone, the more young people appreciate his contribution. He changed our musical world.”"
  },
+ "“I am a man,” he said, “or I am nothing.”": {
+  "ch": 33,
+  "page": 317,
+  "sec": "THE LAST WALTZ",
+  "para": "Like Dionysus, Marvin would be emotionally torn to pieces by the very women he felt compelled to excite. He sacrificed himself to what he viewed as their expectations. He sought to fulfill them, worried that he couldn’t, and, in the end, often unable to raise an erection, felt like a fraud. Ever since he’d been a teenaged singer turning on women, he’d lived with the fear: performance anxiety. Now the nightmare had come true. With his sexual powers waning, he felt stripped of his last vestments of masculinity. “I am a man,” he said, “or I am nothing.”"
+ },
  "“I believed every word of the song,” he told me. “It was happening to me.": {
   "ch": 14,
   "page": 122,
@@ -2243,6 +2297,12 @@ window.GAYE_REFS = {
   "page": 151,
   "sec": "SERMON FROM THE STUDIO",
   "para": "“I could see the truth,” Marvin explained, “not in Father’s example, but in the words he preached.”"
+ },
+ "“I feel as though there has been a conspiracy,” Marvin told Jet magazine.": {
+  "ch": 33,
+  "page": 321,
+  "sec": "THE LAST WALTZ",
+  "para": "Gaye’s distractions grew. In Boston he called a press conference to announce that he’d hired famed lawyer F. Lee Bailey to conduct an investigation on why he, Marvin, had recently been poisoned. “I feel as though there has been a conspiracy,” Marvin told Jet magazine. He went on to say that were it not for Dick Gregory’s formula, which counteracted the poison, he’d be dead."
  },
  "“I feel safest and most secure in my parents’ home,” Marvin commented.": {
   "ch": 21,
@@ -2393,6 +2453,12 @@ window.GAYE_REFS = {
   "page": 74,
   "sec": "SOUNDS COMING ’ROUND",
   "para": "His debut album was the point at which Gaye officially added the “e” to his name. In addition to wanting to distance himself from Father, he also thought the extra letter lent a certain class. “I was aware that Sam Cooke had done exactly the same thing,” he said. “If it worked for Sam, why wouldn’t it work for me?”"
+ },
+ "“I was flabbergasted that Marvin called,” White said.": {
+  "ch": 33,
+  "page": 320,
+  "sec": "THE LAST WALTZ",
+  "para": "“I was flabbergasted that Marvin called,” White said. “I was honored and thrilled. I started the work, but even after Marvin got off the road, he never came by, never sang a single note.”"
  },
  "“I was glad it was a big hit,” he said, “but very disappointed that it didn’t reach Number One.": {
   "ch": 11,
@@ -2688,6 +2754,12 @@ window.GAYE_REFS = {
   "sec": "DISHEARTENED VOWS",
   "para": "On September 20, 1978, Gaye signed a lucrative seven-year contract with the company he mistrusted, the label with which he’d been fighting for seventeen years. Marvin had earlier demanded a million-dollar bonus in cash to be put in a suitcase which he wanted to show his father. Gaye told Shaw that he planned to tell Father, “See that? That’s $1 million. I just want you to know how successful I am.” Motown refused. Instead they offered him $600,000 per album for his next two releases, then a cool $1 million per album after that. He took the deal, though a year and a half later he’d be looking to break the contract."
  },
+ "“So my dream of becoming a ballad singer,” he reflected, “is the Apollo inside me.": {
+  "ch": 33,
+  "page": 317,
+  "sec": "THE LAST WALTZ",
+  "para": "“So my dream of becoming a ballad singer,” he reflected, “is the Apollo inside me. And I can blame my crazy sex shows on Dionysus.”"
+ },
  "“Stretched out in my hotel bed, naked as the day I was born,” he told me": {
   "ch": 29,
   "page": 276,
@@ -2766,11 +2838,23 @@ window.GAYE_REFS = {
   "sec": "ROYAL SHAFTS",
   "para": "“The pipe.” He paused, and then looked at me with heavy, hurting eyes. “The pipe is very, very deep. You don’t want to deal with the pipe if you can at all avoid it. I lost myself by smoking cocaine. Free-basing became another way of trying to kill myself. I came close. For long periods of time I was in a fog, and wanted to stay there. I wanted the fog to close up all around me. A lot of the things I was doing in London—just going out to a soccer match, seeing friends—I could no longer do. I couldn’t move. I cut myself off from everyone. I did nothing but stay in my room for months.”"
  },
+ "“There was more coke on that tour,” said another of Gaye’s veteran musicians": {
+  "ch": 33,
+  "page": 319,
+  "sec": "THE LAST WALTZ",
+  "para": "“There was more coke on that tour,” said another of Gaye’s veteran musicians, “than on any tour in the history of entertainment. Marvin was smoking it, even eating it.”"
+ },
  "“Think on God’s infinite love, God’s infinite love,” Marvin whispered": {
   "ch": 27,
   "page": 251,
   "sec": "CLOSING IN",
   "para": "At his Sunset studio, minutes after we were introduced, Gaye asked engineer Art Stewart and me to join hands with him in meditation. “Think on God’s infinite love, God’s infinite love,” Marvin whispered, “just that one thought and that one thought only.” A few minutes later he added, “We should do this every day with our loved ones, our wives, parents, and children. Stop whatever you’re doing in the middle of the day and sit and be silent. Meditate on God’s infinite love.”"
+ },
+ "“Thou shalt not be afraid for the terror by the night": {
+  "ch": 33,
+  "page": 322,
+  "sec": "THE LAST WALTZ",
+  "para": "He knew that there was an antidote for his illness. It was the Ninety-first Psalm, he told people, that supplied the answer, the very psalm which responded to his specific fear: “Thou shalt not be afraid for the terror by the night; nor for the arrow that flieth by day…. For he shall give his angels charge over thee, to keep thee in all thy ways.” Marvin so deeply wanted to believe, as the psalm said, that God would grant him “long life” and “salvation.”"
  },
  "“Uncle Sam,” he said, “claimed I owed him over $2 million.”": {
   "ch": 28,
