@@ -1,0 +1,37 @@
+GAYE.chapter({ n: 25, label: 'Cap. 24', title: 'Inspired Divorce' });
+GAYE.add([
+  { id: 'here-my-dear', name: 'Here, My Dear', family: 'caida', start: 1977, end: 1978, place: 'Estudio de Sunset',
+    aka: ['Here, My Dear', 'Anna’s Song', 'A Funky Space Reincarnation'],
+    desc: 'El divorcio se firma en marzo de 1977. Anna pedía un millón; Curtis Shaw acuerda 600 000 dólares: el adelanto del siguiente disco (305 000) más 295 000 de sus ventas. Marvin pensó en hacer algo rápido y malo, pero se obsesionó: tres meses cantando con los micros abiertos y un año sin atreverse a publicarlo. Su único disco doble, el Secretos de un matrimonio de Bergman del soul: portada con Marvin en toga como Marco Aurelio, un templo del matrimonio en ruinas y un tablero de Monopoly con la palabra «judgment». Le acusa de no dejarle ver a su hijo («esto era mi versión, no la suya»); «I Met a Little Girl», doo-wop con las armonías de Chuck Barksdale, del flechazo a la libertad; «When Did You Stop Loving Me, When Did I Stop Loving You», con la orden de alejamiento; «Anger», un sermón contra su propia ira; «Everybody Needs Love», también su padre; «Time to Get It Together», que confiesa la coca y las prostitutas; «Sparrow», su musa, tan parecida al «A una alondra» de Shelley; «Anna’s Song», que acaba en un grito; «A Funky Space Reincarnation», comedia espacial a lo George Clinton en el año 2084; «You Can Leave, But It’s Gonna Cost You»; y «Falling in Love Again», para Jan. Anna lo escuchó en la sala de control mientras Marvin seguía escondido arriba; en People habló de demandarle por cinco millones: «Todo vale en el amor y en la guerra», respondió él.',
+    artists: ['Anna Gordy', 'Curtis Shaw', 'Ed Townsend', 'Art Stewart', 'Chuck Barksdale', 'George Clinton', 'Stevie Wonder'],
+    labels: ['Tamla', 'People'],
+    tracks: [
+      { a: 'Marvin Gaye', t: 'Here, My Dear', y: 1978 },
+      { a: 'Marvin Gaye', t: 'I Met a Little Girl', y: 1978 },
+      { a: 'Marvin Gaye', t: 'When Did You Stop Loving Me, When Did I Stop Loving You', y: 1978, ess: 1 },
+      { a: 'Marvin Gaye', t: 'Anger', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Everybody Needs Love', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Time to Get It Together', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Sparrow', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Anna’s Song', y: 1978, ess: 1 },
+      { a: 'Marvin Gaye', t: 'A Funky Space Reincarnation', y: 1978, ess: 1 },
+      { a: 'Marvin Gaye', t: 'You Can Leave, But It’s Going to Cost You', y: 1978 },
+      { a: 'Marvin Gaye', t: 'Falling in Love Again', y: 1978 },
+      { a: 'Stevie Wonder', t: 'As', y: 1976 },
+    ],
+    influences: ['divorcio-anna', 'anna-gordy', 'moonglows'],
+    refs: [
+      { q: 'Anna was asking for $1 million to settle.' },
+      { q: 'So I had Art open up the mikes and I just sang and sang until I’d drained myself of everything I’d lived through.' },
+      { q: 'Of course I did things worse than that to her, but the point of this record was to tell my story, not hers.”' },
+      { q: '“Anna!” he cried. “Anna! Anna!”' },
+      { q: '“I think he did it deliberately for the joy of seeing how hurt I could become,” said Anna.' },
+      { q: 'but all’s fair in love and war.”' },
+    ] },
+  { id: 'hacienda', note: 'El divorcio lo deja limpio: impuestos sin pagar y demandas de quienes llevaron sus asuntos: dice deberle dos millones a Stephen Hill, y Patrick Cavanaugh le reclama una fortuna. «Nadie va a cobrar, y eso incluye al fisco, porque no tengo nada». Gordy ya es «el Presidente», viaja con nombre falso y disfrazado; para Marvin, Anna y Berry lo hicieron y Anna y Berry lo destruirán.',
+    artists: ['Stephen Hill', 'Patrick Cavanaugh'],
+    refs: [
+      { q: 'I owed Stephen Hill, my ex-manager, $2 million' },
+      { q: 'In Gaye’s mind, it was Anna and Berry who had made him, and Anna and Berry who would destroy him.' },
+    ] },
+], 25);

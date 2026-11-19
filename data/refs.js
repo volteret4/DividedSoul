@@ -24,6 +24,12 @@ window.GAYE_REFS = {
   "sec": "SUPREME WEALTH",
   "para": "This was also the time when Anna and Marvin adopted a child. According to Clarence Paul, Anna was unable to have children."
  },
+ "According to Curtis Shaw, Gordy ordered Motown to pay the bill, thus saving the studio.": {
+  "ch": 26,
+  "page": 242,
+  "sec": "DISHEARTENED VOWS",
+  "para": "Yet for all his suspicions about Gordy, it was Berry who time and time again bailed Marvin out of trouble. At the start of 1978, for example, while Marvin was at the Super Bowl in New Orleans, marshals broke into the Marvin Gaye Recording Studios on Sunset Boulevard, leaving the doors on the sidewalk and shutting down the place because of $175,000 of unpaid back franchise taxes. According to Curtis Shaw, Gordy ordered Motown to pay the bill, thus saving the studio."
+ },
  "According to Gaye, by 1982 he’d made three separate fortunes and three times threw the fortunes away.": {
   "ch": 20,
   "page": 194,
@@ -77,6 +83,12 @@ window.GAYE_REFS = {
   "page": 83,
   "sec": "SCORING",
   "para": "“The reception was in the shop downstairs, at Farnsworth and St. Antoine, the place where Anna Records used to be. All the Motown people were there—the singers, musicians, everyone from the office. Anna and Marvin got into a big fight—right there at the party. Anna hit him in the head with a shoe heel. Me and Fuqua, we nearly fell down laughing.”"
+ },
+ "Anna was asking for $1 million to settle.": {
+  "ch": 25,
+  "page": 233,
+  "sec": "INSPIRED DIVORCE",
+  "para": "“Anna was asking for $1 million to settle. Now Marvin didn’t have that kind of money, so I proposed he pay her $600,000. Since coming up with even that much cash would be a problem, I suggested that we give her the advance due to Marvin for his next album—$305,000—and pay her the other $295,000 from the earnings on that same album. Anna liked the idea. I got Marvin to agree, the judge wrote up the order, and that was that.”"
  },
  "Anyway, I think Smokey’s one of the greatest poets.": {
   "ch": 8,
@@ -228,6 +240,12 @@ window.GAYE_REFS = {
   "sec": "AN END TO INNOCENCE",
   "para": "“That was such a bizarre time in my life, I hardly knew what I was doing. The world was coming down around me. Dr. King’s death confirmed my instincts about this country. America couldn’t deal with someone that good and just. Suddenly everyone was going nuts. The riots in Detroit hit close to home. We could smell the smoke and hear the gunfire on West Grand. Berry freaked. He moved the offices to a building on Woodward. We were hardly there at all when he decided to get the hell out and move to California. That was 1969. His thing with Diana had gotten heavy. Holland-Dozier-Holland had quit and sued him and for a while the Supremes couldn’t hit the side of a barn. Everyone was mixed up, I think, because the era was changing the music. Gut-bucket soul—like Aretha and Wilson Pickett and Otis Redding—had gotten popular. Did you know, by the way, that Berry passed on Wilson when he was with the Falcons? Anyway, the white kids wanted a different kind of music. They wanted to hear about something besides love. They were smoking weed and dropping acid and I went along with them. I loved the hippies. They were rebels, like me, and they did this country a world of good. They finally stopped a terribly unjust war. They looked at the status quo and called it bullshit and they were right. They also had the right idea about the power of love. Who else was offering hope? For a while, when Bobby Kennedy was shot and the cops ran over the kids at the Democratic Convention in Chicago, it looked hopeless. I felt despair. I felt misunderstood and very unloved. Anna and I had lost each other.…"
  },
+ "Drugs are as much a part of my day as the weather, so you might as well blame it on the weather.": {
+  "ch": 26,
+  "page": 245,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Whenever I completely crash,” Marvin told me, “it’s always a combination of things. You can’t blame it on drugs alone. Drugs are as much a part of my day as the weather, so you might as well blame it on the weather. It usually involves some fight I just had with Jan. I’m always half-hoping she’ll feel sorry for me and rush to my bedside. I don’t like crashing ’cause I hate hospitals. For me to wind up in a hospital is bad—it means there’s no other place I can find any rest.”"
+ },
  "During this same winter, Fuqua rejected David Ruffin as a Moonglow": {
   "ch": 7,
   "page": 48,
@@ -378,6 +396,12 @@ window.GAYE_REFS = {
   "sec": "BREAKOUT",
   "para": "Drugs weren’t a product of Gaye’s childhood, but part of his initiation into professional music. He experimented with pot only after he hit the road with the Moonglows. His relationship to dope was intense and complex. He started through peer pressure but soon discovered that smoke, and later coke, gave him an otherworld feeling he found irresistible."
  },
+ "He had me write out a pre-nuptial agreement protecting his property, but he was afraid to show it to Jan, so he never did.”": {
+  "ch": 26,
+  "page": 239,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“He had great ambivalence about it,” said Curtis Shaw. “He really didn’t want to marry her, not after what he went through with Anna, but he was afraid that if he didn’t marry her, she’d make good on her threat to never let him see his kids. He couldn’t handle that. Marvin Gaye was a man who loved his children. He had me write out a pre-nuptial agreement protecting his property, but he was afraid to show it to Jan, so he never did.”"
+ },
  "He had this silky edge of sexy danger which I dug.": {
   "ch": 5,
   "page": 29,
@@ -467,6 +491,12 @@ window.GAYE_REFS = {
   "page": 108,
   "sec": "PAIN IN PARADISE",
   "para": "“His infant son was passed down to a ringsider for the entire audience to behold. Gaye’s initially averted glance indicated that it was a mistake. The most competent performer can be upstaged by an infant. For a long time nobody paid attention to the headliner. It was a most unfortunate intrusion.”"
+ },
+ "His unsecured debts were estimated at nearly $7 million.": {
+  "ch": 26,
+  "page": 243,
+  "sec": "DISHEARTENED VOWS",
+  "para": "On October 7, 1978, Billboard ran a story on two Marvin Gaye bankruptcy pleadings filed earlier in the year. His unsecured debts were estimated at nearly $7 million. He showed monthly income at $40,000 against $34,860 of monthly expenses, with $1.27 million in assets against $1.8 million in liabilities."
  },
  "How could I be so sure that Anna was in there with another man?": {
   "ch": 13,
@@ -624,6 +654,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "“Anna was the jealous type to begin with,” Marvin remembered. “I guess I didn’t make it any easier for her. I had all these hits, and maybe I was feeling a little bit more confident. I was starting to feel my oats. After all, when women are yelling for you night after night, that does something to your head. Temptations were on the rise. I fell into the habit of taking a handkerchief, mopping my brow, and throwing it into the audience. I loved watching the women fight over my sweat. It gave me a funny feeling, a thrill and a fear, because I saw how much they really wanted me. Sometimes one of those women would actually run up on stage and throw herself at me. People laugh, but being sexually assaulted by a half-crazed woman is no laughing matter.”"
  },
+ "I owed Stephen Hill, my ex-manager, $2 million": {
+  "ch": 25,
+  "page": 234,
+  "sec": "INSPIRED DIVORCE",
+  "para": "“You see, the divorce had cleaned me out. I’d really messed up my taxes, and a lot of the people I’d counted on were no longer there. In fact, they were suing me. I owed Stephen Hill, my ex-manager, $2 million and a cat named Patrick Cavanaugh, who ran my business for a while, claimed I owed him a fortune, but meanwhile I said—wait a minute, y’all. No one’s getting any money—and that includes the feds—’cause I don’t have any. Then Motown was giving me all kinds of crap, and I was worried about how they’d ever promote an album that talks about me divorcing the Chairman’s sister.”"
+ },
  "I rather liked the idea of there being nothing left of me but my music.”": {
   "ch": 14,
   "page": 121,
@@ -731,6 +767,12 @@ window.GAYE_REFS = {
   "page": 26,
   "sec": "STIMULATION",
   "para": "In August 1949, a new chapter in the history of black music began when Sonny Til and his Orioles played a smash two-week engagement at the Apollo Theatre in Harlem. Originally known as the Vibranaires, the five-man group renamed itself after the local ball team, the Orioles, thus starting a decade-long fad of bird names. They were from Baltimore, just up the road from D.C., and Marvin cherished memories of listening to them chirp on their home turf."
+ },
+ "In Gaye’s mind, it was Anna and Berry who had made him, and Anna and Berry who would destroy him.": {
+  "ch": 25,
+  "page": 234,
+  "sec": "INSPIRED DIVORCE",
+  "para": "In the seventies, Berry Gordy was no longer BG. Now that Motown was a sophisticated corporation, his employees called him the Chairman. Like Gaye, Gordy’s enigma expanded. He sometimes traveled under fake names, even wearing disguises. The more remote a figure he became, the more Marvin longed for his love and approval. In Gaye’s mind, it was Anna and Berry who had made him, and Anna and Berry who would destroy him."
  },
  "In Great Britain, compared to Diana and Levi, I was nothing.": {
   "ch": 13,
@@ -1032,6 +1074,12 @@ window.GAYE_REFS = {
   "sec": "PAIN IN PARADISE",
   "para": "“Down deep,” Marvin felt, “I’m a fiercely loyal man. Maybe if Motown hadn’t been a black business I’d have left. For all my bitching, though, I believed in the company and what Berry was fighting for in the white man’s world. Besides, Motown was all I knew. Motown made me. Anna and Berry kept me together, at least as far as business. When I didn’t want to record, they knew how to get me in the studio.”"
  },
+ "Motown was Marvin’s crib.”": {
+  "ch": 26,
+  "page": 243,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Look,” said Curtis Shaw, who negotiated these agreements, “whatever you say about Marvin, you must remember that deep down he loved Motown. He cursed them and taunted them and drove them crazy, but he was also very, very loyal. They indulged him and spoiled him. He was like a baby who’d never been out of the crib. Motown was Marvin’s crib.”"
+ },
  "Motown wasn’t about art. It was about hits.”": {
   "ch": 9,
   "page": 75,
@@ -1074,6 +1122,12 @@ window.GAYE_REFS = {
   "sec": "THE HOUSE IN HEAVEN",
   "para": "“The show began in a strange way,” Page remembered. “Marvin had his brother Frankie, who greatly resembles him, come out first. Naturally everyone thought Frankie was Marvin—that was Marvin’s intention—and they hollered and applauded like mad. Then when Marvin appeared a minute later, it was as though his prophecy had come true. People were confused—who were these two Marvins?—so the reception for the real Marvin was very quiet.”"
  },
+ "Never, never have I given the beautiful people the idea that I need them.”": {
+  "ch": 26,
+  "page": 244,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“I like to stay away from the ‘in crowd,’” he told me,“because when I finally do decide to appear, I’m something of a novelty. They don’t take me for granted. Never, never have I given the beautiful people the idea that I need them.”"
+ },
  "Not until the late sixties did Motown catch up with the rest of soul music in interjecting racial consciousness into its songs.": {
   "ch": 11,
   "page": 89,
@@ -1091,6 +1145,12 @@ window.GAYE_REFS = {
   "page": 137,
   "sec": "GAMES",
   "para": "Oddly enough, Marvin wrote “Baby, I’m for Real” with Anna. If their marriage was rocky, how did they manage to work together?"
+ },
+ "Of course I did things worse than that to her, but the point of this record was to tell my story, not hers.”": {
+  "ch": 25,
+  "page": 235,
+  "sec": "INSPIRED DIVORCE",
+  "para": "“When things got rough between me and Anna,” Marvin told me, “she wouldn’t let me see little Marvin for weeks. That hurt. Of course I did things worse than that to her, but the point of this record was to tell my story, not hers.”"
  },
  "One day I’d be throwing bottles at Anna, and the next day I’d be loving her like we’d just met.": {
   "ch": 15,
@@ -1199,6 +1259,12 @@ window.GAYE_REFS = {
   "page": 3,
   "sec": "IN THE BEGINNING",
   "para": "Similarly, the church is a bizarre mixture of orthodox Judaism and Pentecostal Christianity."
+ },
+ "So I had Art open up the mikes and I just sang and sang until I’d drained myself of everything I’d lived through.": {
+  "ch": 25,
+  "page": 234,
+  "sec": "INSPIRED DIVORCE",
+  "para": "“At first,” Marvin said, “I figured I’d just do a quickie record—nothing heavy, nothing even good. Why should I break my neck when Anna was going to wind up with the money anyway? But the more I lived with the notion, the more it fascinated me. Besides, I owed the public my best effort. Finally, I did the record out of deep passion. It became an obsession. I had to free myself of Anna, and I saw this as the way. All those depositions and hearings, all those accusations and lies—I knew I’d explode if I didn’t get all that junk out of me. So I had Art open up the mikes and I just sang and sang until I’d drained myself of everything I’d lived through. That took me three months, but then I held back the album for over a year. I was afraid to let it go."
  },
  "Some of my greatest times in Detroit were playing golf with Smokey at Palmer Park.": {
   "ch": 12,
@@ -1440,6 +1506,12 @@ window.GAYE_REFS = {
   "sec": "HOLLYWOOD HUSTLES",
   "para": "“Diana Ross,” he contended, “is a fine singer. All you have to do is listen to her Billie Holiday stuff. It’s marvelous. But during this album, she was on pins and needles. A couple of years before she’d gone off and married a white man. That made Berry a little crazy. Now she was already very pregnant with her second child and her marriage seemed shaky. Professionally, she and BG were still together for the same reasons that Anna and I were hanging on. Fear and money. So there I was in the middle of the whole thing between Diana and Berry. I’m not sure I handled the situation very well. Musically, I may have overplayed my hand. I was too cavalier. I should have done everything in the world to make Diana comfortable. After all, she was making movies, recording two or three albums a year, starring in her own TV specials, and about to have a baby. I could have been a little more understanding. But I’m afraid I went the other way. It’s hard for me to deal with other prima donnas. We were like two spoiled kids screaming for the same cookie. It was definitely not a duet made in heaven.”"
  },
+ "We were making each other sick, but I guess I needed that sickness.”": {
+  "ch": 26,
+  "page": 246,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“I tried to keep a happy face,” he said, “but it was impossible. Jan had filed for divorce, though I talked her out of it time and again. We’d come together only to break apart, and each time it was more painful. We were making each other sick, but I guess I needed that sickness.”"
+ },
  "Were it not for Father, I might even permit myself to wear such outrages in public.”": {
   "ch": 20,
   "page": 190,
@@ -1560,6 +1632,18 @@ window.GAYE_REFS = {
   "sec": "SCORING",
   "para": "Marvin’s family in Washington, D.C., had been moved out of the East Capitol Dwellings into still another project, this one on Allison Street. Shortly after his marriage Marvin moved them out of the projects altogether and bought them a large house on the corner of Fifteenth and Varnum, in the black middle-class section of northwest Washington."
  },
+ "but all’s fair in love and war.”": {
+  "ch": 25,
+  "page": 238,
+  "sec": "INSPIRED DIVORCE",
+  "para": "“Does this album invade her privacy?” Marvin replied to People. “I’ll have to give it another listen … but all’s fair in love and war.”"
+ },
+ "but it took me only a single night to sing all those songs … and a lifetime of pain to gain the wisdom.”": {
+  "ch": 26,
+  "page": 241,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Suddenly,” Marvin said to me, “in the midst of one of myworst depressions over Jan, I went into my studio and recorded them. I had the tracks for years, but it took me only a single night to sing all those songs … and a lifetime of pain to gain the wisdom.”"
+ },
  "contracts don’t really mean anything to him.": {
   "ch": 22,
   "page": 206,
@@ -1626,6 +1710,12 @@ window.GAYE_REFS = {
   "sec": "GAIN AND STRAIN",
   "para": "“You really had to start paying attention to Stevie after ‘Fingertips,’” said Gaye, who, with his pal Paul, had written “Soul Bongo,” an early jazz percussion showpiece for Stevie. “No matter what else you might be doing, you’d always know that Stevie had a superior musical intelligence and was learning just as fast as you.”"
  },
+ "‘Don’t look now, Dave, but we’ve gone international.’”": {
+  "ch": 26,
+  "page": 244,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“We head toward the stage and there’s Jack Nicholson in the wings passing around a joint and Jane introduces Marvin and everyone goes nuts. Marvin was a great model. He comes off and suddenly there’s Margaret Trudeau throwing herself at him, talkin’ ’bout how she’s always loved him and, oh God, is it reallyyou, the real Marvin Gaye? This was when she was heavy into her jet-set thing. We walk out of the hotel with Margaret draped all over Marvin, and suddenly an army of photographers start popping flashlights while Marvin’s smiling and, with that certain cool of his, he whispers in my ear, ‘Don’t look now, Dave, but we’ve gone international.’”"
+ },
  "‘He’s green,’ I told her. ‘I’ll teach him,’ she told me. And she did.”": {
   "ch": 8,
   "page": 67,
@@ -1637,6 +1727,12 @@ window.GAYE_REFS = {
   "page": 226,
   "sec": "GIVING IT UP",
   "para": "“So many times,” Marvin’s mother said, “my son would call me and say, ‘If only Father could throw his arms around me and squeeze me and hold me and tell me he loves me!’"
+ },
+ "‘It’s either Marvin Gaye Live from Cuba,’ he said, Or nothing.’ So it was nothing.”": {
+  "ch": 26,
+  "page": 245,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Marvin was a traditional star,” Curtis Shaw said, “in his need to get top billing. For example, in 1978 I had an idea for him to do a live concert from Havana broadcast on international TV. Given his attitude about the U.S. government, I knew he’d like the idea, and he did. If I could arrange the whole thing, he told me, he’d give me a percentage of the gross. So I flew to Washington and met with Castro’s brother. After long negotiations, it turned out we could put on a show, but it’d have to include people like Diana Ross, Donna Summer, Quincy Jones, and the Brothers Johnson. To make it plausible, they’d have to share the billing. When Marvin heard that, he called the whole thing off. ‘It’s either Marvin Gaye Live from Cuba,’ he said, Or nothing.’ So it was nothing.”"
  },
  "‘Marvin, you don’t want to perform, you want to write.’”": {
   "ch": 9,
@@ -1692,6 +1788,12 @@ window.GAYE_REFS = {
   "sec": "SCORING",
   "para": "Marvin’s attempts to forget his past would never succeed. His deep-rooted affection for Mother always brought him home. He would always be close to his mother, and this would be intensified in the late sixties when his relationship with Anna began to collapse. Soon after his marriage he would grow jealous of Anna’s closeness to Berry, just as he was jealous of his own mother’s relationship with his father. “Anna never had the love for me that she had for her brother,” Gaye claimed."
  },
+ "“Anna!” he cried. “Anna! Anna!”": {
+  "ch": 25,
+  "page": 237,
+  "sec": "INSPIRED DIVORCE",
+  "para": "Just as suddenly, the singer screamed with bloodcurdling anguish. “Anna!” he cried. “Anna! Anna!”"
+ },
  "“Artists suffer,” said Gaye, “so you don’t have to.”": {
   "ch": 15,
   "page": 136,
@@ -1722,6 +1824,12 @@ window.GAYE_REFS = {
   "sec": "SOUNDS COMING ’ROUND",
   "para": "“Berry thought like an oil man,” Marvin once said. “Drill as many holes as you can and hope for at least one gusher. He wound up with a whole oil field.”"
  },
+ "“Berry wouldn’t put it out,” Gaye told me, “because he didn’t think it was commercial. At least that’s what he said.”": {
+  "ch": 26,
+  "page": 241,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Berry wouldn’t put it out,” Gaye told me, “because he didn’t think it was commercial. At least that’s what he said.”"
+ },
  "“Beyond sex,” Gaye loved to say, “is God.”": {
   "ch": 5,
   "page": 26,
@@ -1751,6 +1859,18 @@ window.GAYE_REFS = {
   "page": 159,
   "sec": "THE LURE OF ADORATION",
   "para": "“First he agreed to do it,” Hughes told me, “then he changed his mind. We recruited his mother to convince him. That was the only way he finally came.”"
+ },
+ "“For all the years I knew him, he never had any money on him,” said Dave Simmons": {
+  "ch": 26,
+  "page": 239,
+  "sec": "DISHEARTENED VOWS",
+  "para": "Marvin was usually broke in small ways as well as large. “For all the years I knew him, he never had any money on him,” said Dave Simmons, his running buddy from Michigan who had moved to Los Angeles and renewed their friendship in the late seventies. “I remember once he called me to pick him up in Santa Monica because his Rolls had run out of gas and he didn’t have a cent. He didn’t even have a wallet with a credit card. That was Marvin. He meant no harm by it, but he naturally presumed—and he was right—that other people would pick up the tab. You wanted to help him in any way you could.”"
+ },
+ "“Gaye had failed to pay, either partially or completely, at least thirty musicians since 1973.”": {
+  "ch": 26,
+  "page": 239,
+  "sec": "DISHEARTENED VOWS",
+  "para": "In December, Variety reported that a Los Angeles superior court awarded $1,96,800 to four of Marvin’s musicians who claimed not to have been paid for a year. Patrick Cavanaugh, once a close friend and now a former executive with Right On Productions, told the newspaper that “Gaye had failed to pay, either partially or completely, at least thirty musicians since 1973.”"
  },
  "“He kept on talking about that ‘Sanctified Pussy’ business.”": {
   "ch": 19,
@@ -1896,6 +2016,12 @@ window.GAYE_REFS = {
   "sec": "THE LURE OF ADORATION",
   "para": "“I think I can make him the next middleweight champion,” Marvin claimed."
  },
+ "“I think he did it deliberately for the joy of seeing how hurt I could become,” said Anna.": {
+  "ch": 25,
+  "page": 238,
+  "sec": "INSPIRED DIVORCE",
+  "para": "When the record was released, People magazine reported she was contemplating a $5 million invasion-of-privacy suit. “I think he did it deliberately for the joy of seeing how hurt I could become,” said Anna."
+ },
  "“I tried to make it clear,” he told me, “that there was room for only one singer in our family.”": {
   "ch": 23,
   "page": 215,
@@ -1938,6 +2064,12 @@ window.GAYE_REFS = {
   "sec": "OUT THERE",
   "para": "“If Mother hadn’t traveled with me,” Gaye said, “I’d never have the nerve to do live performances again.”"
  },
+ "“If Pops had been my father instead of Berry’s,” said Marvin": {
+  "ch": 26,
+  "page": 242,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“If Pops had been my father instead of Berry’s,” said Marvin, who often blamed Gay Sr. for his own failings, “maybe I could have achieved as much as Berry.”"
+ },
  "“In the fifties,” Mrs. Gay told me, “my husband started drinking heavily.": {
   "ch": 5,
   "page": 25,
@@ -1967,6 +2099,12 @@ window.GAYE_REFS = {
   "page": 180,
   "sec": "GETTING IT ON",
   "para": "“It was the same even back then,” he smiled. “Cats begging for it.”"
+ },
+ "“I’d always wanted to dress up in something frilly,” Marvin said, “but lacked the guts.": {
+  "ch": 26,
+  "page": 239,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“I’d always wanted to dress up in something frilly,” Marvin said, “but lacked the guts. Finally, I did what I wanted.”"
  },
  "“I’d attribute the Motown sound to Jamie Jamerson’s busy bass,” said Maurice King.": {
   "ch": 9,
@@ -2088,11 +2226,23 @@ window.GAYE_REFS = {
   "sec": "WANTING",
   "para": "Still, the final statement from I Want You came in the abbreviated version of Michael Jackson’s hit, “I Wanna Be Where You Are” (which, oddly enough, along with Bill Green’s gritty tenor work, wasn’t listed on the credits). As the song faded away, Marvin leaned into the microphone, letting emotion pour from his heart. This was the passage I read on the phone to Marvin III, then eighteen, in 1984, a few months after his father had been killed. It came at the very end of the song when Marvin spoke to his children, naming each of them—Frankie, Nona, little Marvin—and wishing them goodnight. He tenderly told them how he loved them, just as he told Janis how he’d always love her. “Oh, my children,” he cried, leaving the lyrics of the song to sing from his soul, “I’ll always be where you are.”"
  },
+ "“Once we got married,” Marvin remembered, “things only got worse.": {
+  "ch": 26,
+  "page": 239,
+  "sec": "DISHEARTENED VOWS",
+  "para": "“Once we got married,” Marvin remembered, “things only got worse. I saw that I’d trapped myself again, but I couldn’t help it. Jan fascinated me. I know you think I’m crazy, but go around asking other men what they’d do if their fantasy suddenly turned up as a flesh-and-blood woman. You want to play with the fantasy all the time, in a hundred ways.”"
+ },
  "“Pay her off in music,” was the lawyer’s plan.": {
   "ch": 24,
   "page": 231,
   "sec": "GIVING IT UP",
   "para": "Then, in a sudden surprise, Shaw suggested a solution which ultimately settled the matter in a manner which stimulated Marvin’s creative imagination. “Pay her off in music,” was the lawyer’s plan."
+ },
+ "“See that? That’s $1 million. I just want you to know how successful I am.”": {
+  "ch": 26,
+  "page": 242,
+  "sec": "DISHEARTENED VOWS",
+  "para": "On September 20, 1978, Gaye signed a lucrative seven-year contract with the company he mistrusted, the label with which he’d been fighting for seventeen years. Marvin had earlier demanded a million-dollar bonus in cash to be put in a suitcase which he wanted to show his father. Gaye told Shaw that he planned to tell Father, “See that? That’s $1 million. I just want you to know how successful I am.” Motown refused. Instead they offered him $600,000 per album for his next two releases, then a cool $1 million per album after that. He took the deal, though a year and a half later he’d be looking to break the contract."
  },
  "“Strictly the market. Pop meant selling whites, and R&B or soul meant selling the sisters and brothers back in the neighborhood.": {
   "ch": 9,
