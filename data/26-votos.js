@@ -17,11 +17,11 @@ GAYE.add([
   { id: 'soulful-moods', note: 'Por fin, a finales de 1978, en plena depresión por Jan, canta en una sola noche las baladas de Bobby Scott que guardaba desde hacía una década: «una noche para grabarlas y una vida de dolor para ganar la sabiduría». «Why Did I Choose You», «She Needs Me», «I Wish I Didn’t Love You So», «I Won’t Cry Anymore», «The Shadow of Your Smile», con tres voces suyas; «Funny» y «This Will Make You Laugh» con big band. Para Ritz, a la altura de In the Wee Small Hours de Sinatra o Lady in Satin. Motown no lo publicó («no era comercial», según Marvin; Gordy no quiso hablar con Ritz). Saldría póstumo como Vulnerable (1997).',
     artists: ['Bobby Scott', 'Frank Sinatra', 'Billie Holiday'],
     tracks: [
-      { a: 'Marvin Gaye', t: 'Why Did I Choose You', y: 1997, ess: 1 },
-      { a: 'Marvin Gaye', t: 'She Needs Me', y: 1997 },
-      { a: 'Marvin Gaye', t: 'I Wish I Didn’t Love You So', y: 1997 },
-      { a: 'Marvin Gaye', t: 'The Shadow of Your Smile', y: 1997 },
-      { a: 'Marvin Gaye', t: 'This Will Make You Laugh', y: 1997 },
+      { a: 'Marvin Gaye', t: 'Why Did I Choose You', y: 1979, ess: 1 },
+      { a: 'Marvin Gaye', t: 'She Needs Me', y: 1979 },
+      { a: 'Marvin Gaye', t: 'I Wish I Didn’t Love You So', y: 1979 },
+      { a: 'Marvin Gaye', t: 'The Shadow of Your Smile', y: 1979 },
+      { a: 'Marvin Gaye', t: 'This Will Make You Laugh', y: 1979 },
     ],
     refs: [
       { q: 'but it took me only a single night to sing all those songs … and a lifetime of pain to gain the wisdom.”' },
