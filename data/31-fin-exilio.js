@@ -41,3 +41,7 @@ GAYE.add([
       { q: '“Marilyn and Harvey had to get him drunk before he’d get on the plane,” Curtis Shaw said.' },
     ] },
 ], 31);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'midnight-love', tracks: [{ a: 'Nat King Cole', t: 'Darling, Je Vous Aime Beaucoup', y: 1955 }] },
+], 31);

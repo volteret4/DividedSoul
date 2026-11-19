@@ -62,3 +62,7 @@ GAYE.add([
       { q: '“When Marvin left,” his old friend Reese Palmer recalled, “he left without looking back … that hurt a lot of us.”' },
     ] },
 ], 10);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'primeros-exitos', tracks: [{ a: 'Ray Charles', t: 'What’d I Say', y: 1959 }] },
+], 10);

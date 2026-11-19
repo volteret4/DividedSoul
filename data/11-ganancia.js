@@ -89,3 +89,7 @@ GAYE.add([
       { q: 'When I looked at Trafalgar Square the first time, I swore I’d come back to England to live.' },
     ] },
 ], 11);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'inglaterra-1964', tracks: [{ a: 'The Beatles', t: 'I Feel Fine', y: 1964 }] },
+], 11);

@@ -52,3 +52,7 @@ GAYE.add([
       { q: '“He kept on talking about that ‘Sanctified Pussy’ business.”' },
     ] },
 ], 19);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'lets-get-it-on', tracks: [{ a: 'Stevie Wonder', t: 'Superstition', y: 1972 }, { a: 'The Rolling Stones', t: 'Angie', y: 1973 }, { a: 'Gladys Knight & the Pips', t: 'Midnight Train to Georgia', y: 1973 }] },
+], 19);

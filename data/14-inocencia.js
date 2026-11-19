@@ -94,3 +94,8 @@ GAYE.add([
       { q: 'In 1968, he bought Gay Sr. a Cadillac.' },
     ] },
 ], 14);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'grapevine', tracks: [{ a: 'The Temptations', t: 'Psychedelic Shack', y: 1970 }, { a: 'The Temptations', t: 'Runaway Child, Running Wild', y: 1969 }, { a: 'Marvin Gaye', t: 'It’s a Bitter Pill to Swallow', y: 1969 }, { a: 'Marvin Gaye', t: 'More Than a Heart Can Stand', y: 1969 }, { a: 'Marvin Gaye', t: 'How Can I Forget', y: 1969 }, { a: 'Marvin Gaye', t: 'Memories', y: 1969 }, { a: 'Sam Cooke', t: 'Wonderful World', y: 1960 }] },
+  { id: 'detroit-68', tracks: [{ a: 'SSgt. Barry Sadler', t: 'The Ballad of the Green Berets', y: 1966 }, { a: 'Stevie Wonder', t: 'Blowin’ in the Wind', y: 1966 }, { a: 'The 5th Dimension', t: 'Aquarius/Let the Sunshine In', y: 1969 }] },
+], 14);

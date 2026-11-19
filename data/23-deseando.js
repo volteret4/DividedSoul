@@ -47,3 +47,7 @@ GAYE.add([
       { q: 'He won Grammys the way Disney used to win Oscars—by the truckload.' },
     ] },
 ], 23);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'i-want-you', tracks: [{ a: 'Quincy Jones', t: 'Body Heat', y: 1974 }] },
+], 23);

@@ -98,3 +98,8 @@ GAYE.add([
       { q: 'In the period I watched Marvin record, I never saw him sing when he wasn’t high.' },
     ] },
 ], 13);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'kim-weston', tracks: [{ a: 'The Supremes', t: 'You Can’t Hurry Love', y: 1966 }, { a: 'Four Tops', t: 'Reach Out I’ll Be There', y: 1966 }, { a: 'The Temptations', t: 'Ain’t Too Proud to Beg', y: 1966 }, { a: 'Peaches & Herb', t: 'Let’s Fall in Love', y: 1967 }, { a: 'Peaches & Herb', t: 'Two Little Kids', y: 1967 }] },
+  { id: 'soulful-moods', tracks: [{ a: 'Marvin Gaye', t: 'Calypso Blues', y: 1965 }, { a: 'Marvin Gaye', t: 'You’re the One for Me', y: 1966 }] },
+], 13);

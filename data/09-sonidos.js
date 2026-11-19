@@ -64,3 +64,7 @@ GAYE.add([
       { q: 'I was afraid that my writing talent was so great, I’d get distracted from singing.”' },
     ] },
 ], 9);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'soulful-moods', tracks: [{ a: 'Thelonious Monk', t: '’Round Midnight', y: 1947 }] },
+], 9);

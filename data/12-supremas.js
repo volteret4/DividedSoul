@@ -72,3 +72,7 @@ GAYE.add([
       { q: 'Thus Marvin made his move toward the Copacabana, his soul stirred with a mixture of confidence and contempt.' },
     ] },
 ], 12);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'temptations-tops', tracks: [{ a: 'The Beach Boys', t: 'California Girls', y: 1965 }, { a: 'The Beatles', t: 'Help!', y: 1965 }] },
+], 12);

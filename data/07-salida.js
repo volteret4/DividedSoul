@@ -79,3 +79,7 @@ GAYE.add([
       { q: 'Detroit did turn out to be heaven, but it also turned out to be hell.”' },
     ] },
 ], 7);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'moonglows', tracks: [{ a: 'Harvey & The Moonglows', t: 'That’s What Girls Are Made For', y: 1959 }, { a: 'Harvey & The Moonglows', t: 'Love, I’m So Glad I Found You', y: 1959 }] },
+], 7);

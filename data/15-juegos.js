@@ -70,3 +70,7 @@ GAYE.add([
       { q: 'It was time to stop playing games.”' },
     ] },
 ], 15);
+// Canciones citadas en el capítulo (revisión con tools/mentions.py).
+GAYE.add([
+  { id: 'hacia-wgo', tracks: [{ a: 'John Lennon', t: 'Instant Karma!', y: 1970 }, { a: 'The Jackson 5', t: 'The Love You Save', y: 1970 }, { a: 'The Jackson 5', t: 'I’ll Be There', y: 1970 }] },
+], 15);
